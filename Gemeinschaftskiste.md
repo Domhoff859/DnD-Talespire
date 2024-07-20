@@ -5,7 +5,7 @@
 
 | Kupfer KP | Silber SP | Elektron EP | Gold GP | Platin PP |
 | --------- | --------- | ----------- | ------- | --------- |
-| 0         | 0         | 0           | 125     | 0         |
+| 0         | 0         | 0           | 239     | 0         |
 | 10->S     | 10->G     | 5->G        | 10->P   |           |
 
 ---
@@ -23,9 +23,9 @@
 
 ## Tränke
 - 1x Flugtrank (500GP zum Verkaufen)(5000GP zum Kaufen)
-- 2x [Potion of Fire Giant Strenght](Effekte/Tränke.md#Potion%20of%20Fire%20Giant%20Strenght)
-- 1x [Potion of Frost Giant Strenght](Effekte/Tränke.md#Potion%20of%20Frost%20Giant%20Strenght)
-- 1x [Potion of Mind Reading](Effekte/Tränke.md#Potion%20of%20Mind%20Reading)
+- 2x [Potion of Fire Giant Strenght](Effekte/Tränke.md#Potion%20of%20Fire%20Giant%20Strenght) 
+- 1x [Potion of Frost Giant Strenght](Effekte/Tränke.md#Potion%20of%20Frost%20Giant%20Strenght) 
+- 1x [Potion of Mind Reading](Effekte/Tränke.md#Potion%20of%20Mind%20Reading) 
 - 1x Potion of Water Breathing
 
 

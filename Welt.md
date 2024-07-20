@@ -1,8 +1,10 @@
+![Weltkarte](./Bilder/Weltkarte.jpg)
+
 ## Dorf - Phandalin 
 Ein kleines Dorf mit einer alten zerfallenen Villa -[Tresendar Manor](Tresendar%20Villa)- wo sich die Gruppe niedergelassen hat. Geleitet wird das Dorf vom Rat der Adeligen und Reichen.
 
 
-![Weltkarte](Bilder/PhandalinWeltkarte.png)
+![Phandalin](Bilder/PhandalinWeltkarte.png)
 
 
 ## Die Mine
@@ -17,4 +19,4 @@ Ein kleines Dorf mit einer alten zerfallenen Villa -[Tresendar Manor](Tresendar%
 Handelssiedlung an einer Straßenkreuzung. Flaches fruchtbares Land mit kleinen Anhöhen. 
 ![Dreiebersdorf](Bilder/Dreiebersdorf.png)
 ![Dreiebersdorf Welt](Bilder/DreiebersdorfWeltkarte.png)
-Ale sechs NPCs haben Quests und Belohnungen
+Alle sechs NPCs haben Quests und Belohnungen
