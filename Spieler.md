@@ -47,7 +47,10 @@
 - 
 #### Bag of Holding
 - Riesen Großschwert (200pd)
-- Rod of the Vonindod
+- Rod of the Vonindod (100pd)
+- Schaukelstuhl (10pd)
+- Türe (10pd)
+- 20 Rationen (40pd)
 
 ---
 ## Silver (Lukas)

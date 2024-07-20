@@ -11,11 +11,9 @@
             "id": "04a5a9eae8c15fc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Gemeinschaftskiste.md",
-                "mode": "source",
-                "source": false
+                "file": "Bilder/Weltkarte.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gemeinschaftskiste.md",
+                "file": "Bilder/Weltkarte.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gemeinschaftskiste.md",
+                "file": "Bilder/Weltkarte.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gemeinschaftskiste.md"
+                "file": "Bilder/Weltkarte.jpg"
               }
             }
           }
@@ -146,29 +144,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d4479cdeb0fef2d",
+  "active": "04a5a9eae8c15fc9",
   "lastOpenFiles": [
+    "Bilder/ManorKeller.jpg",
+    "Bilder/Weltkarte.jpg",
+    "Quests/Quest 2.md",
+    "Tagebuch/240720.md",
+    "Aurora",
+    "Bilder/Städte/Yatar/Nahansicht.png",
+    "Bilder/Städte/Phandalin/Weltansicht.png",
+    "Bilder/Städte/Phandalin/Nahansicht.png",
+    "Bilder/Städte/Dreiebersdorf/Weltansicht.png",
+    "Bilder/Städte/Dreiebersdorf/Nahansicht.png",
+    "Bilder/Städte/Yatar",
+    "Bilder/Städte/Phandalin",
+    "Bilder/Städte/Dreiebersdorf",
+    "Bilder/Städte",
+    "Organisationen.md",
+    "Gemeinschaftskiste.md",
+    "Welt.md",
+    "Spieler.md",
     "Monster.md",
     "Bilder/Monster/Flamenschädel.png",
-    "Bilder/Weltkarte.jpg",
-    "Welt.md",
-    "Tagebuch/240720.md",
-    "Gemeinschaftskiste.md",
     "Effekte/Verwandlungen.md",
-    "Spieler.md",
     "Bilder/Monster/Ogre.png",
     "Tagebuch/240505.md",
     "Tresendar Villa/Tresendar Villa.md",
     "Tagebuch/240520.md",
     "Tagebuch/240602.md",
-    "Organisationen.md",
     "Gilden.md",
     "Bilder/Monster/Vanomfang.png",
     "Bilder/Monster/Nothic.png",
-    "Bilder/Monster/Grick.png",
-    "Bilder/Monster/Flammenschädel.png",
-    "Bilder/Monster/Beobachter.png",
-    "Bilder/Monster/Aboleth.png",
     "Tresendar Villa/Ausbau.md",
     "NPCs.md",
     "README.md",
@@ -179,20 +185,12 @@
     "Quests/Quest 4.md",
     "Quests/Quest 3.md",
     "Quests/Quest 1.md",
-    "Quests/Quest 2.md",
     "Tresendar Villa.md",
     "Quests",
-    "Bilder/Dreiebersdorf.png",
     "Effekte/Ausrüstung.md",
     "Effekte/Tränke.md",
     "desktop.ini",
     "Effekte/Fähigkeiten.md",
-    "Welt (2).zip",
-    "Welt.zip",
-    "Sessions/240505.md",
-    "DnD/Effekte",
-    "DnD",
-    "DnD/Sessions",
-    "Bilder"
+    "Welt (2).zip"
   ]
 }
