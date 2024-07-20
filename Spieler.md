@@ -8,9 +8,9 @@
 
 ---
 ## Kriv (Steven)
-- 
 - [Belt of dwarven kind](Effekte/Ausrüstung#Belt%20of%20dwarven%20kind) 
 - Fluch des Werbären
+![Kriv|250](Bilder/Spieler/Kriv.png)
 
 ---
 ## Sindrir "Gremlin" Gerrick (Johnny)
