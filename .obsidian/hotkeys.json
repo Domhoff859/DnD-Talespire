@@ -1,0 +1,12 @@
+{
+  "editor:toggle-checklist-status": [],
+  "obsidian-tasks-plugin:toggle-done": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:open-link-in-new-leaf": []
+}
