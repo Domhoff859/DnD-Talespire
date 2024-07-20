@@ -13,3 +13,6 @@
 - Wollen den grünen Drachen Vanomfang überzeugen ihrem Kult beizutreten
 	- Bringen ihm Opfergaben
 - Wurden von uns getötet
+
+## Harper
+- Robin Hood Gilde
