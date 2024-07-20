@@ -5,7 +5,7 @@
 
 | Kupfer KP | Silber SP | Elektron EP | Gold GP | Platin PP |
 | --------- | --------- | ----------- | ------- | --------- |
-| 0         | 0         | 0           | 239     | 0         |
+| 0         | 0         | 0           | 277     | 0         |
 | 10->S     | 10->G     | 5->G        | 10->P   |           |
 
 ---
@@ -58,7 +58,9 @@
 - 1 Returning Dagger 
 - 1 Kletterausrüstung 
 - 1 Alchemistenkit 
-- 42 GP
-- 1 Rod of vonindod (Bag of Holding)
+- 1 Rod of Vonindod (Bag of Holding)
 - 1 Riesen Großschwert (200pd) (Bag of Holding)
-- 
+
+- 5 Fuß Kette
+- 1 Schaukelstuhl (Bag of Holding)
+- 1 Holztür mit abgebrochenen Metallhalterungen (Bag of Holding)
