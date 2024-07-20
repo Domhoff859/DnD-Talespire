@@ -3,7 +3,7 @@ Löwenschieldhändler
 
 Ziel:
 Richtung - Osten Evermore
-Ort - Noanas Hold
+Ort - Noanar's Hold
 Person - Amartha 
 
 Aufgabe: 

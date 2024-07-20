@@ -55,4 +55,9 @@
 ---
 ## Silver (Lukas)
 - Barde
-- 
+
+
+---
+## Boris
+- Treuer Begleiter 
+![](Bilder/Boris.jpg)
