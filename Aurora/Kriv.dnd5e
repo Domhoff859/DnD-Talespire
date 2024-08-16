@@ -14,7 +14,7 @@
 		<archetype>
 		</archetype>
 		<background>Acolyte</background>
-		<level>5</level>
+		<level>6</level>
 		<portrait>
 			<companion>
 			</companion>
@@ -28,16 +28,16 @@
 			<name>Kriv</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>13530</experience>
+			<experience>15664</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
-				<attack identifier="efb6620e-79d4-4e68-927d-6be54e9c25e4" name="Longsword" range="5 ft" attack="+6 vs AC" damage="1d8+3 slashing" displayed="true" ability="Strength">
+				<attack identifier="efb6620e-79d4-4e68-927d-6be54e9c25e4" name="Longsword" range="5 ft" attack="+7 vs AC" damage="1d8+4 slashing" displayed="true" ability="Strength">
 					<description><![CDATA[Versatile]]></description>
 				</attack>
 				<attack identifier="d621bb05-952a-4359-9565-89f30e878b5e" name="Crossbow, Light" range="80/320" attack="+4 vs AC" damage="1d8+1 piercing" displayed="true" ability="Dexterity">
 					<description><![CDATA[Ammunition, Loading, Two-Handed]]></description>
 				</attack>
-				<attack identifier="166e4b55-bd48-4b33-8889-e110aeb008b1" name="Greataxe +1" range="5 ft" attack="+7 vs AC" damage="1d12+4 slashing" displayed="true" ability="Strength">
+				<attack identifier="166e4b55-bd48-4b33-8889-e110aeb008b1" name="Greataxe +1" range="5 ft" attack="+8 vs AC" damage="1d12+5 slashing" displayed="true" ability="Strength">
 					<description><![CDATA[Heavy, Two-Handed]]></description>
 				</attack>
 			</attacks>
@@ -70,8 +70,8 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 				<copper>36</copper>
 				<silver>5</silver>
 				<electrum>0</electrum>
-				<gold>263</gold>
-				<platinum>5</platinum>
+				<gold>513</gold>
+				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[# Gewand
 - 1 Wolfszahnkette (angezogen)
@@ -109,7 +109,7 @@ Death Saving Throw:
 - 0 Failure
 
 ### Neue Sprache lernen ###
-Dwelvisch (Zwergisch): 17/125 Benjamin bringt es mir bei
+Dwelvisch (Zwergisch): 21/125 Benjamin bringt es mir bei
 
 ### Welt ###
 Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
@@ -140,14 +140,18 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<wisdom>14</wisdom>
 			<charisma>9</charisma>
 		</abilities>
-		<elements level-count="5" registered-count="24">
+		<elements level-count="6" registered-count="29">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
 			</element>
-			<element type="Level" name="1" id="ID_LEVEL_1" rndhp="10,7,4,6,9,2,7,1,1,6,6,1,2,9,5,4,8,10,7,4">
+			<element type="Level" name="1" id="ID_LEVEL_1" rndhp="10,7,4,6,9,9,7,1,1,6,6,1,2,9,5,4,8,10,7,4">
 				<element type="Race" name="Race" requiredLevel="1" checksum="1597ef76" registered="ID_RACE_DRAGONBORN">
-					<element type="Race Variant" name="Dragonborn Variant" requiredLevel="1" checksum="de1c8f81" registered="" />
+					<element type="Race Variant" name="Dragonborn Variant" requiredLevel="1" checksum="de1c8f81" registered="ID_WOTC_EGTW_RACE_VARIANT_DRAGONBORN_RAVENITE">
+						<element type="Grants" name="Dragonborn Variant" id="ID_WOTC_EGTW_GRANTS_DRAGONBORN_VARIANT" />
+						<element type="Vision" name="Darkvision" id="ID_VISION_DARKVISION" />
+						<element type="Racial Trait" name="Vengeful Assault" id="ID_WOTC_EGTW_RACIAL_TRAIT_RAVENITE_VENGEFUL_ASSAULT" />
+					</element>
 					<element type="Size" name="Medium" id="ID_SIZE_MEDIUM" />
 					<element type="Language" name="Common" id="ID_LANGUAGE_COMMON" />
 					<element type="Language" name="Draconic" id="ID_LANGUAGE_DRACONIC" />
@@ -155,9 +159,6 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 						<element type="Racial Trait" name="Draconic Ancestry" requiredLevel="1" checksum="62b5ccd3" registered="ID_RACIAL_TRAIT_DRACONIC_ANCESTRY_WHITE" />
 					</element>
 					<element type="Racial Trait" name="Breath Weapon" id="ID_RACIAL_TRAIT_BREATH_WEAPON" />
-					<element type="Racial Trait" name="Damage Resistance" id="ID_RACIAL_TRAIT_DAMAGE_RESISTANCE">
-						<element type="Condition" name="Resistance (Cold)" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
-					</element>
 				</element>
 				<element type="Class" name="Class" requiredLevel="1" checksum="33a7b15b" registered="ID_WOTC_PHB_CLASS_FIGHTER">
 					<element type="Proficiency" name="Skill Proficiency (Fighter)" requiredLevel="1" number="1" checksum="5f3c7a8a" registered="ID_PROFICIENCY_SKILL_INTIMIDATION" />
@@ -252,6 +253,10 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 						<element type="Class Feature" name="Improvement Option (Fighter 4)" requiredLevel="4" checksum="bdeed0c6" registered="ID_INTERNAL_CLASS_FEATURE_FEAT_4_FIGHTER">
 							<element type="Feat" name="Feat (FIGHTER 4)" requiredLevel="4" checksum="4969331d" registered="ID_PHB_FEAT_SENTINEL" />
 						</element>
+						<element type="Class Feature" name="Improvement Option (Fighter 6)" requiredLevel="6" checksum="5be42283" registered="ID_INTERNAL_CLASS_FEATURE_ASI_6_FIGHTER">
+							<element type="Ability Score Improvement" name="Ability Score Increase (FIGHTER 6)" requiredLevel="6" number="1" checksum="02d78713" registered="ID_INTERNAL_ASI_STRENGTH" />
+							<element type="Ability Score Improvement" name="Ability Score Increase (FIGHTER 6)" requiredLevel="6" number="2" checksum="9bded6a9" registered="ID_INTERNAL_ASI_STRENGTH" />
+						</element>
 					</element>
 					<element type="Class Feature" name="Extra Attack" id="ID_WOTC_PHB_CLASS_FEATURE_EXTRAATTACK" />
 				</element>
@@ -280,6 +285,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Level" name="3" id="ID_LEVEL_3" />
 			<element type="Level" name="4" id="ID_LEVEL_4" />
 			<element type="Level" name="5" id="ID_LEVEL_5" />
+			<element type="Level" name="6" id="ID_LEVEL_6" />
 			<element type="Armor" name="Splint" id="ID_WOTC_ARMOR_HEAVY_SPLINT">
 				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			</element>
@@ -371,7 +377,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 					</notes>
 				</details>
 			</item>
-			<item identifier="b1f4eb74-4f7b-447d-9b89-c9dab1328da7" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="12">
+			<item identifier="b1f4eb74-4f7b-447d-9b89-c9dab1328da7" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="9">
 				<details card="true">
 					<name>
 					</name>
@@ -562,7 +568,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 					</notes>
 				</details>
 			</item>
-			<item identifier="efe2761f-f7a4-40de-b632-8c14e4be7ce7" name="Potion of Superior Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_SUPERIOR_HEALING" amount="2">
+			<item identifier="efe2761f-f7a4-40de-b632-8c14e4be7ce7" name="Potion of Superior Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_SUPERIOR_HEALING">
 				<details card="true">
 					<name>
 					</name>
@@ -587,7 +593,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 				</details>
 			</item>
 		</equipment>
-		<sum element-count="114">
+		<sum element-count="120">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -603,8 +609,6 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Language" id="ID_LANGUAGE_DRACONIC" />
 			<element type="Racial Trait" id="ID_RACIAL_TRAIT_DRACONIC_ANCESTRY" />
 			<element type="Racial Trait" id="ID_RACIAL_TRAIT_BREATH_WEAPON" />
-			<element type="Racial Trait" id="ID_RACIAL_TRAIT_DAMAGE_RESISTANCE" />
-			<element type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
 			<element type="Racial Trait" id="ID_RACIAL_TRAIT_DRACONIC_ANCESTRY_WHITE" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_INTIMIDATION" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_PERCEPTION" />
@@ -625,6 +629,13 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_PROTECTION" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_GREATAXE" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
+			<element type="Level" id="ID_LEVEL_6" />
+			<element type="Race Variant" id="ID_WOTC_EGTW_RACE_VARIANT_DRAGONBORN_RAVENITE" />
+			<element type="Grants" id="ID_WOTC_EGTW_GRANTS_DRAGONBORN_VARIANT" />
+			<element type="Vision" id="ID_VISION_DARKVISION" />
+			<element type="Racial Trait" id="ID_WOTC_EGTW_RACIAL_TRAIT_RAVENITE_VENGEFUL_ASSAULT" />
+			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
+			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_FIGHTER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
@@ -702,6 +713,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Archetype" id="ID_WOTC_PHB_ARCHETYPE_CHAMPION" />
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_IMPROVEDCRITICAL" />
 			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_FEAT_4_FIGHTER" />
+			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_ASI_6_FIGHTER" />
 		</sum>
 		<magic />
 	</build>
