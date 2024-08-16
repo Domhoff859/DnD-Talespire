@@ -60,4 +60,5 @@
 ---
 ## Boris
 - Treuer Begleiter 
+![](Bilder/Boris%20Stats.png)
 ![](Bilder/Boris.jpg)

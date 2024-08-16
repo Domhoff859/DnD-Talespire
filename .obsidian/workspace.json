@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spieler.md",
+                "file": "Tagebuch/240720.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spieler.md",
+                "file": "Tagebuch/240720.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spieler.md",
+                "file": "Tagebuch/240720.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spieler.md"
+                "file": "Tagebuch/240720.md"
               }
             }
           }
@@ -148,14 +148,25 @@
   },
   "active": "04a5a9eae8c15fc9",
   "lastOpenFiles": [
+    "Gemeinschaftskiste.md",
+    "Tagebuch/240720.md",
+    "Spieler.md",
+    "NPCs.md",
+    "Organisationen.md",
+    "Quests/Quest 1.md",
+    "Quests/Abgeschlossen/Quest 7.md",
+    "Quests/Quest 8.md",
+    "Tagebuch/240602.md",
+    "Welt.md",
+    "Quests/Abgeschlossen/Quest 2.md",
+    "Quests/Abgeschlossen",
+    "Quests/Abgeschlossen.md",
+    "Bilder/Weltkarte.jpg",
+    "Quests/Quest 6.md",
     "Bilder/Boris.jpg",
     "Bilder/Boris.jpg.crdownload",
-    "Tagebuch/240720.md",
     "Bilder/Boris Stats.png",
     "Effekte/Verwandlungen.md",
-    "Quests/Quest 2.md",
-    "Bilder/Weltkarte.jpg",
-    "Gemeinschaftskiste.md",
     "Bilder/ManorKeller.jpg",
     "Aurora",
     "Bilder/Städte/Yatar/Nahansicht.png",
@@ -167,32 +178,21 @@
     "Bilder/Städte/Phandalin",
     "Bilder/Städte/Dreiebersdorf",
     "Bilder/Städte",
-    "Organisationen.md",
-    "Welt.md",
-    "Spieler.md",
     "Monster.md",
     "Bilder/Monster/Flamenschädel.png",
-    "Bilder/Monster/Ogre.png",
     "Tagebuch/240505.md",
     "Tresendar Villa/Tresendar Villa.md",
     "Tagebuch/240520.md",
-    "Tagebuch/240602.md",
     "Gilden.md",
     "Tresendar Villa/Ausbau.md",
-    "NPCs.md",
     "README.md",
     "Tresendar Villa",
     "Bilder/Monster",
-    "Quests/Quest 6.md",
     "Quests/Quest 5.md",
     "Quests/Quest 4.md",
     "Quests/Quest 3.md",
-    "Quests/Quest 1.md",
     "Tresendar Villa.md",
     "Quests",
-    "Effekte/Ausrüstung.md",
-    "Effekte/Tränke.md",
-    "desktop.ini",
-    "Effekte/Fähigkeiten.md"
+    "Effekte/Ausrüstung.md"
   ]
 }

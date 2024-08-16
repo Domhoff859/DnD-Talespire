@@ -5,7 +5,7 @@
 
 | Kupfer KP | Silber SP | Elektron EP | Gold GP | Platin PP |
 | --------- | --------- | ----------- | ------- | --------- |
-| 0         | 8         | 0           | 272     | 0         |
+| 0         | 8         | 0           | 269     | 0         |
 | 10->S     | 10->G     | 5->G        | 10->P   |           |
 
 ---
@@ -29,6 +29,11 @@
 - 1x Potion of Water Breathing
 
 
+
+
+---
+## Questgegenstände
+- [Empfehlungsschreiben](Quests/Abgeschlossen/Quest%207) 
 
 
 ---

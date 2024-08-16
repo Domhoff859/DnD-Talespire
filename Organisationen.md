@@ -14,5 +14,11 @@
 	- Bringen ihm Opfergaben
 - Wurden von uns getötet
 
+---
 ## Harper
 - Robin Hood Gilde
+
+---
+## Smaragd Enclave
+- Loses Vereinigung von Naturnahen Professionen 
+- 

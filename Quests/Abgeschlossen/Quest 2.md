@@ -4,7 +4,7 @@ Löwenschieldhändler
 Ziel:
 Richtung - Osten Evermore
 Ort - Noanar's Hold
-Person - Amartha 
+Person - Amarath 
 
 Aufgabe: 
 Pferdegeschirr zu liefern 
