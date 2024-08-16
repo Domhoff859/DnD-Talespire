@@ -14,4 +14,10 @@
 - **Schutz gegen Mentalangriffe**: Während der Wirkungsdauer des Tranks ist der Trinker oft auch vor bestimmten Arten von mentalen Angriffen geschützt, da er die Gedanken anderer lesen kann und somit mögliche Gefahren frühzeitig erkennen kann.
 - **Dauerhaftigkeit**: Die Wirkung des Tranks ist zeitlich begrenzt und hält normalerweise für eine kurze Dauer an, typischerweise für einige Minuten oder Stunden. Danach kehrt der Trinker zu seinem normalen Geisteszustand zurück.
 ---
-## 
+## Potion of Water Breathing
+- You can breathe underwater for 1 hour after drinking this potion. 
+- Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
+
+## Potion of Growth
+- When you drink this potion, you gain the "enlarge" effect of the [Enlarge/Reduce](http://dnd5e.wikidot.com/spell:enlarge-reduce) spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny beat to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.
+- 

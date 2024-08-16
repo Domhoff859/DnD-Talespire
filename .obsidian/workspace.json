@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/240720.md",
+                "file": "Gemeinschaftskiste.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tagebuch/240720.md",
+                "file": "Gemeinschaftskiste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tagebuch/240720.md",
+                "file": "Gemeinschaftskiste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tagebuch/240720.md"
+                "file": "Gemeinschaftskiste.md"
               }
             }
           }
@@ -148,12 +148,21 @@
   },
   "active": "04a5a9eae8c15fc9",
   "lastOpenFiles": [
-    "Gemeinschaftskiste.md",
     "Tagebuch/240720.md",
-    "Spieler.md",
-    "NPCs.md",
-    "Organisationen.md",
+    "Gemeinschaftskiste.md",
+    "Effekte/Ausrüstung.md",
+    "Quests/Quest 3.md",
     "Quests/Quest 1.md",
+    "Effekte/Tränke.md",
+    "Effekte/Verwandlungen.md",
+    "Effekte/Fähigkeiten.md",
+    "Spieler.md",
+    "Monster.md",
+    "NPCs.md",
+    "Tagebuch/240816.md",
+    "Organisationen.md",
+    "Aurora/Simus.dnd5e",
+    "Aurora/Ander Thorngage.dnd5e",
     "Quests/Abgeschlossen/Quest 7.md",
     "Quests/Quest 8.md",
     "Tagebuch/240602.md",
@@ -166,7 +175,6 @@
     "Bilder/Boris.jpg",
     "Bilder/Boris.jpg.crdownload",
     "Bilder/Boris Stats.png",
-    "Effekte/Verwandlungen.md",
     "Bilder/ManorKeller.jpg",
     "Aurora",
     "Bilder/Städte/Yatar/Nahansicht.png",
@@ -178,7 +186,6 @@
     "Bilder/Städte/Phandalin",
     "Bilder/Städte/Dreiebersdorf",
     "Bilder/Städte",
-    "Monster.md",
     "Bilder/Monster/Flamenschädel.png",
     "Tagebuch/240505.md",
     "Tresendar Villa/Tresendar Villa.md",
@@ -186,13 +193,6 @@
     "Gilden.md",
     "Tresendar Villa/Ausbau.md",
     "README.md",
-    "Tresendar Villa",
-    "Bilder/Monster",
-    "Quests/Quest 5.md",
-    "Quests/Quest 4.md",
-    "Quests/Quest 3.md",
-    "Tresendar Villa.md",
-    "Quests",
-    "Effekte/Ausrüstung.md"
+    "Tresendar Villa"
   ]
 }

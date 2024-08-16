@@ -13,21 +13,23 @@
 - 2x Köcher je 20 Bolzen
 - 1x alte Lederrüstung
 - 5x Javelin
-- 1x [Ring of Water Walking](Effekte/Ausrüstung.md#Ring%20of%20Water%20Walking) 
-- 1x [Boots of Levitation](Effekte/Ausrüstung.md#Boots%20of%20Levitation) 
-- 1x [Armor of Resistence, Fire](Effekte/Ausrüstung#Armor%20of%20Resistence,%20fire) 
-- 1x [Sword of life Stealing](Effekte/Ausrüstung#Sword%20of%20life%20stealing) 
-- 
+- 1x [Ring of Water Walking](https://www.dndbeyond.com/magic-items/4737-ring-of-water-walking) 
+- 1x [Boots of Levitation](https://www.dndbeyond.com/magic-items/4588-boots-of-levitation) 
+- 1x [Armor of Resistence, Fire, Chain Mail](https://www.dndbeyond.com/magic-items/5371-armor-of-resistance) 
+- 1x [Sword of life Stealing](https://www.dndbeyond.com/magic-items/5390-sword-of-life-stealing) 
+- 1x [Returning Dagger](https://dnd5e.wikidot.com/artificer:infusions#toc15) 
 
 ---
 
 ## Tränke
 - 1x Flugtrank (500GP zum Verkaufen)(5000GP zum Kaufen)
-- 2x [Potion of Fire Giant Strenght](Effekte/Tränke.md#Potion%20of%20Fire%20Giant%20Strenght) 
-- 1x [Potion of Frost Giant Strenght](Effekte/Tränke.md#Potion%20of%20Frost%20Giant%20Strenght) 
-- 1x [Potion of Mind Reading](Effekte/Tränke.md#Potion%20of%20Mind%20Reading) 
-- 1x Potion of Water Breathing
-
+- 2x [Potion of Fire Giant Strenght](https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength) 
+- 1x [Potion of Frost Giant Strenght](https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength) 
+- 1x [Potion of Mind Reading](https://www.dndbeyond.com/magic-items/4711-potion-of-mind-reading) 
+- 1x [Potion of Water Breathing](https://www.dndbeyond.com/magic-items/4715-potion-of-water-breathing) 
+- 1x [Potion of Healing](https://www.dndbeyond.com/magic-items/4708-potion-of-healing) 
+- 1x [Potion of Growth](https://www.dndbeyond.com/magic-items/4707-potion-of-growth)  
+- 1x [Potion of Invisibility](https://www.dndbeyond.com/magic-items/4710-potion-of-invisibility) 
 
 
 
@@ -56,16 +58,8 @@
 
 ---
 ## Loot
-- 1 Potion of Healing 
-- 1 Potion of Growth 
-- 1 Potion of Invisibility 
-- 1 Bag of Holding 
-- 1 Returning Dagger 
+- 1 [Bag of Holding](Effekte/Ausrüstung#Bag%20of%20Holding) 
 - 1 Kletterausrüstung 
 - 1 Alchemistenkit 
-- 1 Rod of Vonindod (Bag of Holding)
-- 1 Riesen Großschwert (200pd) (Bag of Holding)
 
 - 5 Fuß Kette
-- 1 Schaukelstuhl (Bag of Holding)
-- 1 Holztür mit abgebrochenen Metallhalterungen (Bag of Holding)

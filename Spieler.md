@@ -51,6 +51,8 @@
 - Schaukelstuhl (10pd)
 - Türe (10pd)
 - 20 Rationen (40pd)
+- 1 Schaukelstuhl (Bag of Holding)
+- 1 Holztür mit abgebrochenen Metallhalterungen (Bag of Holding)
 
 ---
 ## Silver (Lukas)
