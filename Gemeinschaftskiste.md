@@ -5,7 +5,7 @@
 
 | Kupfer KP | Silber SP | Elektron EP | Gold GP | Platin PP |
 | --------- | --------- | ----------- | ------- | --------- |
-| 0         | 8         | 0           | 269     | 0         |
+| 4300      | 2108      | 0           | 819     | 0         |
 | 10->S     | 10->G     | 5->G        | 10->P   |           |
 
 ---
@@ -20,9 +20,8 @@
 - 1x [Returning Dagger](https://dnd5e.wikidot.com/artificer:infusions#toc15) 
 
 ---
-
 ## Tränke
-- 1x Flugtrank (500GP zum Verkaufen)(5000GP zum Kaufen)
+- 1x [Potion of Flying](https://www.dndbeyond.com/magic-items/4704-potion-of-flying) (500GP zum Verkaufen)(5000GP zum Kaufen)
 - 2x [Potion of Fire Giant Strenght](https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength) 
 - 1x [Potion of Frost Giant Strenght](https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength) 
 - 1x [Potion of Mind Reading](https://www.dndbeyond.com/magic-items/4711-potion-of-mind-reading) 
@@ -31,7 +30,14 @@
 - 1x [Potion of Growth](https://www.dndbeyond.com/magic-items/4707-potion-of-growth)  
 - 1x [Potion of Invisibility](https://www.dndbeyond.com/magic-items/4710-potion-of-invisibility) 
 
-
+---
+## Schriftrollen:
+- 1x Dispel Magic
+- 1x Fly
+- 1x Magic Weapon
+- 1x Sending
+- 1x Toungs
+- 1x Waterbreathing
 
 ---
 ## Questgegenstände
@@ -58,8 +64,8 @@
 
 ---
 ## Loot
-- 1 [Bag of Holding](Effekte/Ausrüstung#Bag%20of%20Holding) 
 - 1 Kletterausrüstung 
 - 1 Alchemistenkit 
-
 - 5 Fuß Kette
+- 1 Handaxe Blade
+- 

@@ -47,3 +47,14 @@
 - Tiefseemonster
 - Kann einen Tale Swipe Angriff durchführen
 ![Aboleth|250](Bilder/Monster/Aboleth.png)
+
+## Eisriesen 
+- Immun gegen Frostschaden
+- 15 trifft
+- Schwächer als Feuerriesen
+
+
+## Feuerriesen
+- Immun gegen Feuerschaden
+- 18 trifft
+- 

@@ -44,7 +44,11 @@
 - besitzt Apfelplantasche
 
 ---
-## 
-- Stadtvorsteher
-- Gewählter Vertreter des Rates
+## Sir Jordeth Tavilson
+- Paladin mit Laute
+- Hat seinen Knappen verloren
 
+---
+## Krowen Valharrow
+- DER Harper Guild Guildmage
+- 

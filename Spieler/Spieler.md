@@ -21,7 +21,7 @@
 - 
 ---
 ## Amber Ironfist (Luisa)
-- 
+- Fighter
 - [Ring of Jumping](Effekte/Ausrüstung.md#Ring%20of%20Jumping) 
 #### Schriftrollen
 - 1x Lightning Bolt
@@ -30,7 +30,7 @@
 
 ---
 ## Thokk (Benji)
-- 
+- Ranger
 - [Bracers of Archery](Effekte/Ausrüstung.md#Bracers%20of%20Archery) 
 - [Staff of Magic Missile](Effekte/Ausrüstung#Staff%20of%20Magic%20Missile) 
 - Fluch des Werbären
@@ -44,15 +44,13 @@
 - Hat sein bisheriges Leben im Wald, unter dem Schutz von Mielikki der Göttin der Wälder verbracht. Nach dem Angriff Unbekannter Personen war er gezwungen seine Heimat zu verlassen. Nun versucht er Kameraden zu finden um herauszufinden was an diesem Tag im Wald geschehen ist.
 - [Cloak of Displacement](Effekte/Ausrüstung.md#Cloak%20of%20Displacement) 
 - [Bag of Holding](Effekte/Ausrüstung#Bag%20of%20Holding) 
+- [Bag of Holding](Effekte/Ausrüstung#Bag%20of%20Holding) 
 - 
 #### Bag of Holding
-- Riesen Großschwert (200pd)
-- Rod of the Vonindod (100pd)
-- Schaukelstuhl (10pd)
-- Türe (10pd)
-- 20 Rationen (40pd)
-- 1 Schaukelstuhl (Bag of Holding)
-- 1 Holztür mit abgebrochenen Metallhalterungen (Bag of Holding)
+- Riesen Großschwert (200pd) (1000-5000 GP)
+- 1x Rod of the Vonindod (100pd) (3000-5000 GP)
+- 2x Holztür mit abgebrochenen Metallhalterungen (100pd) (Bag of Holding)
+- 1x 6 Fuß Zaunpfahl (50pd) (Bag of Holding)
 
 ---
 ## Silver (Lukas)

@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e40cfe32157f9bd7",
+        "id": "f3958ebd22f454e9",
         "type": "tabs",
         "children": [
           {
-            "id": "04a5a9eae8c15fc9",
+            "id": "b41fa181bd4ee424",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gemeinschaftskiste.md",
+                "file": "Tagebuch/240816.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b0b9be960ef0cc76",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Bilder/Weltkarte.jpg"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gemeinschaftskiste.md",
+                "file": "Tagebuch/240816.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gemeinschaftskiste.md",
+                "file": "Tagebuch/240816.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gemeinschaftskiste.md"
+                "file": "Tagebuch/240816.md"
               }
             }
           }
@@ -146,53 +156,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04a5a9eae8c15fc9",
+  "active": "b41fa181bd4ee424",
   "lastOpenFiles": [
-    "Tagebuch/240720.md",
+    "NPCs.md",
     "Gemeinschaftskiste.md",
-    "Effekte/Ausrüstung.md",
     "Quests/Quest 3.md",
-    "Quests/Quest 1.md",
-    "Effekte/Tränke.md",
+    "Quests/Quest 4.md",
+    "Quests/Quest 5.md",
+    "Tagebuch/240720.md",
+    "Tagebuch/240816.md",
+    "Quests/Quest 6.md",
+    "Quests/Quest 8.md",
+    "Bilder/Weltkarte.jpg",
+    "Quests/Abgeschlossen/Quest 1.md",
+    "Spieler/Spieler.md",
+    "Organisationen.md",
+    "Bilder/Städte/Everlund/Nahansicht.png",
+    "Welt.md",
+    "Bilder/Städte/Phandalin/Nahansicht.png",
+    "Bilder/Städte/Phandalin/Weltansicht.png",
+    "Bilder/Städte/Everlund",
+    "Bilder/Städte/Neuer Ordner",
     "Effekte/Verwandlungen.md",
-    "Effekte/Fähigkeiten.md",
+    "Spieler/Kriv/Schwarze-Klingen.jpg",
+    "Spieler/Kriv/Schwarze Klingen.md",
+    "Spieler/Kriv/Kriv.md",
+    "Spieler/Kriv/Dra'kalthor-Clan.jpg",
+    "Spieler/Kriv/Dra'kalthor.md",
+    "Spieler/Kriv",
+    "Spieler",
+    "Effekte/Tränke.md",
     "Spieler.md",
     "Monster.md",
-    "NPCs.md",
-    "Tagebuch/240816.md",
-    "Organisationen.md",
+    "README.md",
+    "Effekte/Ausrüstung.md",
+    "Effekte/Fähigkeiten.md",
+    "Quests/Abgeschlossen/Quest 7.md",
+    "Quests/Abgeschlossen/Quest 2.md",
     "Aurora/Simus.dnd5e",
     "Aurora/Ander Thorngage.dnd5e",
-    "Quests/Abgeschlossen/Quest 7.md",
-    "Quests/Quest 8.md",
-    "Tagebuch/240602.md",
-    "Welt.md",
-    "Quests/Abgeschlossen/Quest 2.md",
     "Quests/Abgeschlossen",
-    "Quests/Abgeschlossen.md",
-    "Bilder/Weltkarte.jpg",
-    "Quests/Quest 6.md",
     "Bilder/Boris.jpg",
     "Bilder/Boris.jpg.crdownload",
     "Bilder/Boris Stats.png",
     "Bilder/ManorKeller.jpg",
     "Aurora",
     "Bilder/Städte/Yatar/Nahansicht.png",
-    "Bilder/Städte/Phandalin/Weltansicht.png",
-    "Bilder/Städte/Phandalin/Nahansicht.png",
-    "Bilder/Städte/Dreiebersdorf/Weltansicht.png",
-    "Bilder/Städte/Dreiebersdorf/Nahansicht.png",
-    "Bilder/Städte/Yatar",
-    "Bilder/Städte/Phandalin",
-    "Bilder/Städte/Dreiebersdorf",
-    "Bilder/Städte",
-    "Bilder/Monster/Flamenschädel.png",
-    "Tagebuch/240505.md",
-    "Tresendar Villa/Tresendar Villa.md",
-    "Tagebuch/240520.md",
-    "Gilden.md",
-    "Tresendar Villa/Ausbau.md",
-    "README.md",
-    "Tresendar Villa"
+    "Bilder/Städte/Yatar"
   ]
 }

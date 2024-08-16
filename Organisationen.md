@@ -17,8 +17,16 @@
 ---
 ## Harper
 - Robin Hood Gilde
+- Teleportationspunkte:
+	- Everlund
+	- Loudwater
+	- Mirabar
+	- Neverwinter
+	- Waterdeep
+	- Yartar
 
 ---
 ## Smaragd Enclave
 - Loses Vereinigung von Naturnahen Professionen 
-- 
+
+
