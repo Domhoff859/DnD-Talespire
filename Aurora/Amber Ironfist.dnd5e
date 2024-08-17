@@ -10,11 +10,11 @@
 	<display-properties favorite="false">
 		<name>Amber Ironfist</name>
 		<race>High Elf</race>
-		<class>Fighter</class>
+		<class>Fighter (5) / Cleric (1)</class>
 		<archetype>
 		</archetype>
 		<background>Acolyte</background>
-		<level>5</level>
+		<level>6</level>
 		<portrait>
 			<companion>
 			</companion>
@@ -27,7 +27,7 @@
 			<name>Amber Ironfist</name>
 			<gender>Female</gender>
 			<player-name>Luisa Scholze</player-name>
-			<experience>13530</experience>
+			<experience>16614</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="a20d176a-491b-476d-90eb-809b2c4ac087" name="Longbow" range="150/600" attack="+9 vs AC" damage="1d8+4 piercing" displayed="true" ability="Dexterity">
@@ -39,8 +39,8 @@
 				<attack identifier="cd8c1300-a5bd-4756-8ded-df5d3a13a726" name="Longsword" range="5 ft" attack="+4 vs AC" damage="1d8+1 slashing" displayed="true" ability="Strength">
 					<description><![CDATA[Versatile]]></description>
 				</attack>
-				<attack identifier="d2235482-fe9d-4ded-93f0-d97399045c56" name="Shortbow" range="80/320" attack="+9 vs AC" damage="1d6+4 piercing" displayed="true" ability="Dexterity">
-					<description><![CDATA[Ammunition, Two-Handed]]></description>
+				<attack identifier="93907cfd-d6d6-441c-9c55-49c732fbcd80" name="Longbow +1" range="150/600" attack="+10 vs AC" damage="1d8+5 piercing" displayed="true" ability="Dexterity">
+					<description><![CDATA[Ammunition, Heavy, Two-Handed]]></description>
 				</attack>
 			</attacks>
 			<backstory><![CDATA[You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.
@@ -68,9 +68,9 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 			<additional-features><![CDATA[10% von der Mine + 1% fürs Weisenhaus  (200 (40) XP für zurückbringen bwürden wir bekommen)]]></additional-features>
 			<currency>
 				<copper>5</copper>
-				<silver>11</silver>
+				<silver>6</silver>
 				<electrum>1</electrum>
-				<gold>303</gold>
+				<gold>804</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[1 roter Umhang     1 kg Pökelfleisch    
@@ -81,7 +81,9 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 1 Messing laterne
 1kg Kohle
 1 stück stoff vom Troll
-portion of healing]]></treasure>
+
+portion of healing
+portion of greater Healing]]></treasure>
 			</currency>
 			<notes>
 				<note column="left">Elfenbogen:  Niemaler Bogen 
@@ -111,7 +113,7 @@ Kiste:
 			<skin>White</skin>
 			<hair>long currled Brown</hair>
 		</appearance>
-		<abilities available-points="0">
+		<abilities available-points="15">
 			<strength>12</strength>
 			<dexterity>14</dexterity>
 			<constitution>12</constitution>
@@ -119,7 +121,7 @@ Kiste:
 			<wisdom>14</wisdom>
 			<charisma>10</charisma>
 		</abilities>
-		<elements level-count="5" registered-count="25">
+		<elements level-count="6" registered-count="34">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -144,7 +146,7 @@ Kiste:
 								<element type="Proficiency" name="Weapon Proficiency (Longbow)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_LONGBOW" />
 							</element>
 							<element type="Racial Trait" name="Cantrip" id="ID_RACIAL_TRAIT_CANTRIP">
-								<element type="Spell" name="Wizard Cantrip (High Elf)" requiredLevel="1" checksum="778571c4" registered="ID_PHB_SPELL_ACID_SPLASH" />
+								<element type="Spell" name="Wizard Cantrip (High Elf)" requiredLevel="1" checksum="778571c4" registered="ID_PHB_SPELL_CHILL_TOUCH" />
 							</element>
 							<element type="Racial Trait" name="Extra Language" id="ID_RACIAL_TRAIT_EXTRA_LANGUAGE">
 								<element type="Language" name="Language (Elf)" requiredLevel="1" checksum="fe8508c9" registered="ID_LANGUAGE_GOBLIN" />
@@ -274,12 +276,52 @@ Kiste:
 			<element type="Level" name="3" id="ID_LEVEL_3" />
 			<element type="Level" name="4" id="ID_LEVEL_4" />
 			<element type="Level" name="5" id="ID_LEVEL_5" />
+			<element type="Level" name="6" id="ID_LEVEL_6" multiclass="true" starting="true" rndhp="6,4,2,8,8,5,7,3,3,1,5,4,8,5,4,6,3,8,2,2" class="ID_WOTC_PHB_MULTICLASS_CLERIC">
+				<element type="Multiclass" name="Multiclass (Level 6)" requiredLevel="6" checksum="28f72e36" registered="ID_WOTC_PHB_MULTICLASS_CLERIC">
+					<element type="Class Feature" name="Spellcasting" id="ID_WOTC_PHB_CLASS_FEATURE_CLERIC_SPELLCASTING_CLERIC">
+						<element type="Spell" name="Cantrip (Cleric)" requiredLevel="1" number="1" checksum="0b016099" registered="ID_XGTE_SPELL_TOLL_THE_DEAD" />
+						<element type="Spell" name="Cantrip (Cleric)" requiredLevel="1" number="2" checksum="531fc9b1" registered="ID_XGTE_SPELL_WORD_OF_RADIANCE" />
+						<element type="Spell" name="Cantrip (Cleric)" requiredLevel="1" number="3" checksum="d23aac96" registered="ID_PHB_SPELL_SACRED_FLAME" />
+						<element type="Grants" name="Ritual Casting" id="ID_INTERNAL_RITUAL_CASTING" />
+						<element type="Proficiency" name="Spellcasting Focus Group (Holy Symbol)" id="ID_INTERNAL_PROFICIENCY_SPELLFOCUS_GROUP_HOLY_SYMBOL" />
+						<element type="Grants" name="Multiclass Spellcasting Slots Full" id="ID_INTERNAL_GRANT_MULTICLASS_SPELLCASTING_SLOTS_FULL" />
+					</element>
+					<element type="Class Feature" name="Divine Domain" id="ID_WOTC_PHB_CLASS_FEATURE_CLERIC_DIVINEDOMAIN">
+						<element type="Archetype" name="Divine Domain" requiredLevel="1" checksum="94ea82fd" registered="ID_WOTC_SCAG_ARCHETYPE_ARCANA_DOMAIN">
+							<element type="Spell" name="Detect Magic" id="ID_PHB_SPELL_DETECT_MAGIC" />
+							<element type="Spell" name="Magic Missile" id="ID_PHB_SPELL_MAGIC_MISSILE" />
+							<element type="Archetype Feature" name="Arcane Initiate" id="ID_WOTC_SCAG_ARCHETYPE_FEATURE_ARCANA_DOMAIN_ARCANE_INITIATE">
+								<element type="Spell" name="Arcane Initiate" requiredLevel="1" number="1" checksum="3a47c009" registered="ID_PHB_SPELL_BLADE_WARD" />
+								<element type="Spell" name="Arcane Initiate" requiredLevel="1" number="2" checksum="03cafccc" registered="ID_PHB_SPELL_FIRE_BOLT" />
+								<element type="Proficiency" name="Arcana" id="ID_PROFICIENCY_SKILL_ARCANA" />
+							</element>
+						</element>
+					</element>
+					<element type="Grants" name="Multiclass" id="ID_INTERNAL_GRANT_MULTICLASS" />
+					<element type="Proficiency" name="Armor Proficiency (Light Armor)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR">
+						<element type="Proficiency" name="Armor Proficiency (Padded)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
+						<element type="Proficiency" name="Armor Proficiency (Leather)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LEATHER" />
+						<element type="Proficiency" name="Armor Proficiency (Studded Leather)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_STUDDED_LEATHER" />
+					</element>
+					<element type="Proficiency" name="Armor Proficiency (Medium Armor)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_MEDIUM_ARMOR">
+						<element type="Proficiency" name="Armor Proficiency (Hide)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_HIDE" />
+						<element type="Proficiency" name="Armor Proficiency (Chain Shirt)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_CHAIN_SHIRT" />
+						<element type="Proficiency" name="Armor Proficiency (Scale Mail)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_SCALE_MAIL" />
+						<element type="Proficiency" name="Armor Proficiency (Breastplate)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_BREASTPLATE" />
+						<element type="Proficiency" name="Armor Proficiency (Half Plate)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_HALF_PLATE" />
+						<element type="Proficiency" name="Armor Proficiency (Spiked Armor)" id="ID_SCAG_PROFICIENCY_ARMOR_PROFICIENCY_SPIKED_ARMOR" />
+					</element>
+					<element type="Proficiency" name="Armor Proficiency (Shield)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_SHIELD" />
+				</element>
+				<element type="Grants" name="Multiclassing (Level 6)" id="ID_INTERNAL_MULTICLASS_LEVEL_6" />
+			</element>
 			<element type="Armor" name="Splint" id="ID_WOTC_ARMOR_HEAVY_SPLINT">
 				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			</element>
 		</elements>
 		<defenses>
-			<conditional>12 oder höher  für acid damage</conditional>
+			<conditional>12 oder höher  für acid damage
++ Elfenbogen +1 auf attack und damage</conditional>
 		</defenses>
 		<companion name="">
 			<attributes>
@@ -389,7 +431,6 @@ Kiste:
 				</details>
 			</item>
 			<item identifier="a20d176a-491b-476d-90eb-809b2c4ac087" name="Longbow" id="ID_WOTC_PHB_WEAPON_LONGBOW">
-				<equipped location="Two-Handed">true</equipped>
 				<details card="true">
 					<name>
 					</name>
@@ -462,7 +503,8 @@ Kiste:
 					</notes>
 				</details>
 			</item>
-			<item identifier="93907cfd-d6d6-441c-9c55-49c732fbcd80" name="Longbow" id="ID_WOTC_PHB_WEAPON_LONGBOW">
+			<item identifier="93907cfd-d6d6-441c-9c55-49c732fbcd80" name="Longbow" id="ID_WOTC_PHB_WEAPON_LONGBOW" sidebar="true">
+				<equipped location="Two-Handed">true</equipped>
 				<items>
 					<adorner name="Weapon, +1" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
 				</items>
@@ -485,7 +527,7 @@ Kiste:
 				</details>
 			</item>
 		</equipment>
-		<sum element-count="124">
+		<sum element-count="156">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -513,7 +555,6 @@ Kiste:
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_LONGBOW" />
 			<element type="Racial Trait" id="ID_RACIAL_TRAIT_CANTRIP" />
 			<element type="Racial Trait" id="ID_RACIAL_TRAIT_EXTRA_LANGUAGE" />
-			<element type="Spell" id="ID_PHB_SPELL_ACID_SPLASH" />
 			<element type="Language" id="ID_LANGUAGE_GOBLIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_ACROBATICS" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_ATHLETICS" />
@@ -527,12 +568,21 @@ Kiste:
 			<element type="Level" id="ID_LEVEL_2" />
 			<element type="Level" id="ID_LEVEL_3" />
 			<element type="Level" id="ID_LEVEL_4" />
-			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_DEXTERITY" />
-			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_DEXTERITY" />
 			<element type="Level" id="ID_LEVEL_5" />
-			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_LONGBOW" />
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_SPLINT" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
+			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_DEXTERITY" />
+			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_DEXTERITY" />
+			<element type="Level" id="ID_LEVEL_6" />
+			<element type="Grants" id="ID_INTERNAL_MULTICLASS_LEVEL_6" />
+			<element type="Spell" id="ID_XGTE_SPELL_TOLL_THE_DEAD" />
+			<element type="Spell" id="ID_XGTE_SPELL_WORD_OF_RADIANCE" />
+			<element type="Spell" id="ID_PHB_SPELL_SACRED_FLAME" />
+			<element type="Spell" id="ID_PHB_SPELL_BLADE_WARD" />
+			<element type="Spell" id="ID_PHB_SPELL_FIRE_BOLT" />
+			<element type="Spell" id="ID_PHB_SPELL_CHILL_TOUCH" />
+			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_LONGBOW" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_FIGHTER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
@@ -610,10 +660,63 @@ Kiste:
 			<element type="Archetype" id="ID_WOTC_PHB_ARCHETYPE_CHAMPION" />
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_IMPROVEDCRITICAL" />
 			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_ASI_4_FIGHTER" />
+			<element type="Multiclass" id="ID_WOTC_PHB_MULTICLASS_CLERIC" />
+			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_CLERIC_SPELLCASTING_CLERIC" />
+			<element type="Grants" id="ID_INTERNAL_RITUAL_CASTING" />
+			<element type="Proficiency" id="ID_INTERNAL_PROFICIENCY_SPELLFOCUS_GROUP_HOLY_SYMBOL" />
+			<element type="Grants" id="ID_INTERNAL_GRANT_MULTICLASS_SPELLCASTING_SLOTS_FULL" />
+			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_CLERIC_DIVINEDOMAIN" />
+			<element type="Grants" id="ID_INTERNAL_GRANT_MULTICLASS" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LEATHER" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_STUDDED_LEATHER" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_MEDIUM_ARMOR" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_HIDE" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_CHAIN_SHIRT" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_SCALE_MAIL" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_BREASTPLATE" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_HALF_PLATE" />
+			<element type="Proficiency" id="ID_SCAG_PROFICIENCY_ARMOR_PROFICIENCY_SPIKED_ARMOR" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_SHIELD" />
+			<element type="Archetype" id="ID_WOTC_SCAG_ARCHETYPE_ARCANA_DOMAIN" />
+			<element type="Spell" id="ID_PHB_SPELL_DETECT_MAGIC" />
+			<element type="Spell" id="ID_PHB_SPELL_MAGIC_MISSILE" />
+			<element type="Archetype Feature" id="ID_WOTC_SCAG_ARCHETYPE_FEATURE_ARCANA_DOMAIN_ARCANE_INITIATE" />
+			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_ARCANA" />
 		</sum>
-		<magic>
+		<magic multiclass="true" level="1">
+			<spellcasting name="Cleric" ability="Wisdom" attack="5" dc="13" source="ID_WOTC_PHB_CLASS_FEATURE_CLERIC_SPELLCASTING_CLERIC">
+				<slots s1="2" s2="0" s3="0" s4="0" s5="0" s6="0" s7="0" s8="0" s9="0" />
+				<cantrips>
+					<spell name="Blade Ward" level="0" id="ID_PHB_SPELL_BLADE_WARD" />
+					<spell name="Fire Bolt" level="0" id="ID_PHB_SPELL_FIRE_BOLT" />
+					<spell name="Sacred Flame" level="0" id="ID_PHB_SPELL_SACRED_FLAME" />
+					<spell name="Toll the Dead" level="0" id="ID_XGTE_SPELL_TOLL_THE_DEAD" />
+					<spell name="Word of Radiance" level="0" id="ID_XGTE_SPELL_WORD_OF_RADIANCE" />
+				</cantrips>
+				<spells>
+					<spell name="Cure Wounds" level="1" id="ID_PHB_SPELL_CURE_WOUNDS" prepared="true" />
+					<spell name="Detect Magic" level="1" id="ID_PHB_SPELL_DETECT_MAGIC" prepared="true" always-prepared="true" known="true" />
+					<spell name="Healing Word" level="1" id="ID_PHB_SPELL_HEALING_WORD" prepared="true" />
+					<spell name="Magic Missile" level="1" id="ID_PHB_SPELL_MAGIC_MISSILE" prepared="true" always-prepared="true" known="true" />
+					<spell name="Shield of Faith" level="1" id="ID_PHB_SPELL_SHIELD_OF_FAITH" prepared="true" />
+					<spell name="Bane" level="1" id="ID_PHB_SPELL_BANE" />
+					<spell name="Bless" level="1" id="ID_PHB_SPELL_BLESS" />
+					<spell name="Ceremony" level="1" id="ID_XGTE_SPELL_CEREMONY" />
+					<spell name="Command" level="1" id="ID_PHB_SPELL_COMMAND" />
+					<spell name="Create or Destroy Water" level="1" id="ID_PHB_SPELL_CREATE_OR_DESTROY_WATER" />
+					<spell name="Detect Evil and Good" level="1" id="ID_PHB_SPELL_DETECT_EVIL_AND_GOOD" />
+					<spell name="Detect Poison and Disease" level="1" id="ID_PHB_SPELL_DETECT_POISON_AND_DISEASE" />
+					<spell name="Guiding Bolt" level="1" id="ID_PHB_SPELL_GUIDING_BOLT" />
+					<spell name="Inflict Wounds" level="1" id="ID_PHB_SPELL_INFLICT_WOUNDS" />
+					<spell name="Protection from Evil and Good" level="1" id="ID_PHB_SPELL_PROTECTION_FROM_EVIL_AND_GOOD" />
+					<spell name="Purify Food and Drink" level="1" id="ID_PHB_SPELL_PURIFY_FOOD_AND_DRINK" />
+					<spell name="Sanctuary" level="1" id="ID_PHB_SPELL_SANCTUARY" />
+				</spells>
+			</spellcasting>
 			<additional>
-				<spell name="Acid Splash" level="0" id="ID_PHB_SPELL_ACID_SPLASH" source="Cantrip" />
+				<spell name="Chill Touch" level="0" id="ID_PHB_SPELL_CHILL_TOUCH" source="Cantrip" />
 			</additional>
 		</magic>
 	</build>

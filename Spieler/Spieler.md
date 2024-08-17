@@ -10,7 +10,6 @@
 ## Kriv (Steven)
 - [Belt of dwarven kind](Effekte/Ausrüstung#Belt%20of%20dwarven%20kind) 
 - Fluch des Werbären
-![Kriv|250](Bilder/Spieler/Kriv.png)
 
 ---
 ## Sindrir "Gremlin" Gerrick (Johnny)
@@ -18,7 +17,7 @@
 - Rock Gnome
 - Auf der Suche nach antiken technischen Geheimnissen. Auf der Suche nach verlorenem wissen um seiner Familie zu beweisen das er zu gebrauchen ist.
 - [Gem of seeing](Effekte/Ausrüstung#Gem%20of%20Seeing) 
-- 
+
 ---
 ## Amber Ironfist (Luisa)
 - Fighter
@@ -45,7 +44,7 @@
 - [Cloak of Displacement](Effekte/Ausrüstung.md#Cloak%20of%20Displacement) 
 - [Bag of Holding](Effekte/Ausrüstung#Bag%20of%20Holding) 
 - [Bag of Holding](Effekte/Ausrüstung#Bag%20of%20Holding) 
-- 
+
 #### Bag of Holding
 - Riesen Großschwert (200pd) (1000-5000 GP)
 - 1x Rod of the Vonindod (100pd) (3000-5000 GP)

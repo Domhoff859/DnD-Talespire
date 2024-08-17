@@ -14,7 +14,7 @@
 		<archetype>
 		</archetype>
 		<background>Acolyte</background>
-		<level>5</level>
+		<level>6</level>
 		<portrait>
 			<companion>
 			</companion>
@@ -28,7 +28,7 @@
 			<name>Ander Thorngage</name>
 			<gender>Male</gender>
 			<player-name>Johannes Blab</player-name>
-			<experience>13530</experience>
+			<experience>16614</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword +1" range="5 ft" attack="+8 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
@@ -62,12 +62,12 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 				<allies><![CDATA[]]></allies>
 			</organization>
 			<additional-features><![CDATA[Titel: Treant-Schlächter
-Sprache: Primordial (Elementals)      23/125 gelernt]]></additional-features>
+Sprache: Primordial (Elementals)      41/125 gelernt]]></additional-features>
 			<currency>
 				<copper>8</copper>
-				<silver>6</silver>
+				<silver>1</silver>
 				<electrum>0</electrum>
-				<gold>129</gold>
+				<gold>606</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[Mineneinnahmen: 300 - 1500 Gold/Monat
@@ -100,9 +100,11 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 11 grüner Fetzen Stoff
 1 braunerdfarbener Umhang (zerfetzt, blutig)
 1 bläulicher Umhang mir rotem Innenfutter (Neznar, die schwarze Spinne) (angezogen)
-15 Heilige Schriften
+14 Heilige Schriften
 2 Fläschchen Schleim (Aboleth)
 1 kleiner Silberspiegel
+1 riesiger, zerfetzter Wollumhang (Frostriese)
+1 Umhang aus getrockneter Kuhhaut (Hügelriese)
 
 1 Riesenauge
 1 blutiger Felllendenschurz]]></treasure>
@@ -133,7 +135,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<wisdom>12</wisdom>
 			<charisma>14</charisma>
 		</abilities>
-		<elements level-count="5" registered-count="25">
+		<elements level-count="6" registered-count="26">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -272,6 +274,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 						</element>
 					</element>
 					<element type="Class Feature" name="Extra Attack" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_EXTRA_ATTACK" />
+					<element type="Class Feature" name="Aura of Protection" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_AURA_OF_PROTECTION" />
 				</element>
 				<element type="Background" name="Background" requiredLevel="1" checksum="6a621392" registered="ID_BACKGROUND_ACOLYTE">
 					<element type="Language" name="Language (Acolyte)" requiredLevel="1" number="1" checksum="335a9891" registered="ID_LANGUAGE_DRACONIC" />
@@ -298,6 +301,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Level" name="3" id="ID_LEVEL_3" />
 			<element type="Level" name="4" id="ID_LEVEL_4" />
 			<element type="Level" name="5" id="ID_LEVEL_5" />
+			<element type="Level" name="6" id="ID_LEVEL_6" />
 			<element type="Armor" name="Splint" id="ID_WOTC_ARMOR_HEAVY_SPLINT">
 				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			</element>
@@ -389,7 +393,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					</notes>
 				</details>
 			</item>
-			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="12">
+			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="16">
 				<details card="true">
 					<name>
 					</name>
@@ -430,7 +434,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					</notes>
 				</details>
 			</item>
-			<item identifier="1bb822ce-d405-40f6-92db-c066f01828e3" name="Arrow" id="ID_WOTC_PHB_ITEM_ARROW" amount="21">
+			<item identifier="1bb822ce-d405-40f6-92db-c066f01828e3" name="Arrow" id="ID_WOTC_PHB_ITEM_ARROW" amount="18">
 				<details card="true">
 					<name>
 					</name>
@@ -493,7 +497,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 				</details>
 			</item>
 		</equipment>
-		<sum element-count="132">
+		<sum element-count="134">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -538,6 +542,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
 			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
 			<element type="Level" id="ID_LEVEL_5" />
+			<element type="Level" id="ID_LEVEL_6" />
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_SPLINT" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
@@ -615,6 +620,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_SACRED_OATH" />
 			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_ASI" />
 			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_EXTRA_ATTACK" />
+			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_AURA_OF_PROTECTION" />
 			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_FIGHTINGSTYLE_DUELING" />
 			<element type="Archetype" id="ID_WOTC_PHB_ARCHETYPE_PALADIN_OATH_OF_DEVOTION" />
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_DEVOTION_OATH_SPELLS" />

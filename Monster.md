@@ -53,7 +53,6 @@
 - 15 trifft
 - Schwächer als Feuerriesen
 
-
 ## Feuerriesen
 - Immun gegen Feuerschaden
 - 18 trifft

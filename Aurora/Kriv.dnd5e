@@ -28,7 +28,7 @@
 			<name>Kriv</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>15664</experience>
+			<experience>16614</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="efb6620e-79d4-4e68-927d-6be54e9c25e4" name="Longsword" range="5 ft" attack="+7 vs AC" damage="1d8+4 slashing" displayed="true" ability="Strength">
@@ -41,21 +41,16 @@
 					<description><![CDATA[Heavy, Two-Handed]]></description>
 				</attack>
 			</attacks>
-			<backstory><![CDATA[You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.
-
-Choose a god, a pantheon of gods, or some other quasi-divine being, and work with your DM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.]]></backstory>
+			<backstory><![CDATA[.]]></backstory>
 			<background-trinket>
 			</background-trinket>
-			<background-traits>Nothing can shake my optimistic attitude.
-I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.</background-traits>
-			<background-ideals>Power. I hope to one day rise to the top of my faith’s religious hierarchy. (Lawful)</background-ideals>
-			<background-bonds>I will do anything to protect the temple where I served.</background-bonds>
-			<background-flaws>I judge others harshly, and myself even more severely.</background-flaws>
+			<background-traits>.</background-traits>
+			<background-ideals>.</background-ideals>
+			<background-bonds>.</background-bonds>
+			<background-flaws>.</background-flaws>
 			<background>
 				<feature name="Shelter of the Faithful">
-					<description><![CDATA[As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.
-
-You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.]]></description>
+					<description><![CDATA[.]]></description>
 				</feature>
 			</background>
 			<organization>
@@ -67,15 +62,13 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 			</organization>
 			<additional-features><![CDATA[]]></additional-features>
 			<currency>
-				<copper>36</copper>
-				<silver>5</silver>
+				<copper>6</copper>
+				<silver>1</silver>
 				<electrum>0</electrum>
-				<gold>513</gold>
+				<gold>622</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[# Gewand
-- 1 Wolfszahnkette (angezogen)
-- 1 Wolfshelm
 - 1 Iarno (Magier) Hutt (angezogen)
 - 1 Iarno (Magier) Mantel (angezogen)
 - 1 Hawaii Hemd
@@ -109,7 +102,7 @@ Death Saving Throw:
 - 0 Failure
 
 ### Neue Sprache lernen ###
-Dwelvisch (Zwergisch): 21/125 Benjamin bringt es mir bei
+Dwelvisch (Zwergisch): 35/125 Benjamin bringt es mir bei
 
 ### Welt ###
 Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
@@ -377,7 +370,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 					</notes>
 				</details>
 			</item>
-			<item identifier="b1f4eb74-4f7b-447d-9b89-c9dab1328da7" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="9">
+			<item identifier="b1f4eb74-4f7b-447d-9b89-c9dab1328da7" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="14">
 				<details card="true">
 					<name>
 					</name>
@@ -568,14 +561,6 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 					</notes>
 				</details>
 			</item>
-			<item identifier="efe2761f-f7a4-40de-b632-8c14e4be7ce7" name="Potion of Superior Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_SUPERIOR_HEALING">
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
 			<item identifier="6288f750-9a00-4571-8e5b-c7596a13f9de" name="Belt of Dwarvenkind" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND">
 				<details card="true">
 					<name>
@@ -585,6 +570,14 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 				</details>
 			</item>
 			<item identifier="8f7ec5a6-efbd-490b-a7e1-1a631b836277" name="Grappling Hook" id="ID_WOTC_PHB_ITEM_GRAPPLINGHOOK">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="c98270a6-cdd6-4d24-9c76-4872284a939c" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="3">
 				<details card="true">
 					<name>
 					</name>
@@ -609,6 +602,10 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Language" id="ID_LANGUAGE_DRACONIC" />
 			<element type="Racial Trait" id="ID_RACIAL_TRAIT_DRACONIC_ANCESTRY" />
 			<element type="Racial Trait" id="ID_RACIAL_TRAIT_BREATH_WEAPON" />
+			<element type="Race Variant" id="ID_WOTC_EGTW_RACE_VARIANT_DRAGONBORN_RAVENITE" />
+			<element type="Grants" id="ID_WOTC_EGTW_GRANTS_DRAGONBORN_VARIANT" />
+			<element type="Vision" id="ID_VISION_DARKVISION" />
+			<element type="Racial Trait" id="ID_WOTC_EGTW_RACIAL_TRAIT_RAVENITE_VENGEFUL_ASSAULT" />
 			<element type="Racial Trait" id="ID_RACIAL_TRAIT_DRACONIC_ANCESTRY_WHITE" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_INTIMIDATION" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_PERCEPTION" />
@@ -624,18 +621,14 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Level" id="ID_LEVEL_4" />
 			<element type="Feat" id="ID_PHB_FEAT_SENTINEL" />
 			<element type="Level" id="ID_LEVEL_5" />
+			<element type="Level" id="ID_LEVEL_6" />
+			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
+			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_SPLINT" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_PROTECTION" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_GREATAXE" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
-			<element type="Level" id="ID_LEVEL_6" />
-			<element type="Race Variant" id="ID_WOTC_EGTW_RACE_VARIANT_DRAGONBORN_RAVENITE" />
-			<element type="Grants" id="ID_WOTC_EGTW_GRANTS_DRAGONBORN_VARIANT" />
-			<element type="Vision" id="ID_VISION_DARKVISION" />
-			<element type="Racial Trait" id="ID_WOTC_EGTW_RACIAL_TRAIT_RAVENITE_VENGEFUL_ASSAULT" />
-			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
-			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_FIGHTER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
