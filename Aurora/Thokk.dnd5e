@@ -14,7 +14,7 @@
 		<archetype>
 		</archetype>
 		<background>Acolyte</background>
-		<level>5</level>
+		<level>6</level>
 		<portrait>
 			<companion>
 			</companion>
@@ -28,7 +28,7 @@
 			<name>Thokk</name>
 			<gender>Male</gender>
 			<player-name>Player One</player-name>
-			<experience>13530</experience>
+			<experience>18271</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="e507b359-926a-41f0-9a4b-856d24e7b8e2" name="Shortsword" range="5 ft" attack="+7 vs AC" damage="1d6+4 piercing" displayed="true" ability="Dexterity">
@@ -78,7 +78,7 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 				<copper>1</copper>
 				<silver>0</silver>
 				<electrum>1</electrum>
-				<gold>211</gold>
+				<gold>411</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[Hübsche Rosa Blume
@@ -88,15 +88,17 @@ Scimitar
 Roter Umhang
 5 Eulenbärfedern
 Trollauge
-Schriftrolle Nebel
-Schriftrolle Blitz
+Auge eines Eisriesen
+Schriftrolle Nebel -kann ich nicht lernen, nur einmal benutzen, dann ist die Rolle zerstört.
+Schriftrolle Blitz (Lightning Bolt) -kann ich nicht lernen, nur einmal benutzen, dann ist die Rolle zerstört.
 Violettes Taschentuch von Yegg lol
 5 Flaschen Öl
 Weihrauchgefäß (120G)
 Eisenschlüssel von Messner
+Portion of greater Healing
 
 
-Wand of Magic Missile: Der Stab hat 7 Ladungen, pro Ladung werden 3 magic mistles ausgesendet, die automatisch das Ziel treffen. Pro hit jeweils 1D4+1 Schaden. Wenn alle Ladungen verbraucht sind muss ein D20 gewürfelt werden, bei Nat 1 zerfällt der Zauberstab in dem Fall. Bei jedem Sonnenaufgang wird der Stab um 1D6+1 Ladungen aufgeladen, bis er wieder voll ist. Verbleibende Ladungen: 6/7
+Wand of Magic Missile: Der Stab hat 7 Ladungen, pro Ladung werden 3 magic mistles ausgesendet, die automatisch das Ziel treffen. Pro hit jeweils 1D4+1 Schaden. Wenn alle Ladungen verbraucht sind muss ein D20 gewürfelt werden, bei Nat 1 zerfällt der Zauberstab in dem Fall. Bei jedem Sonnenaufgang wird der Stab um 1D6+1 Ladungen aufgeladen, bis er wieder voll ist. Verbleibende Ladungen:
 
 Spinnenstecken (magic item): 1 Action. Die Spitze dieses schwarzen Steckens aus Adamant ist wie eine Spinne geformt. Der Stecken wiegt 6 Pfund. Du musst auf den Stecken eingestimmt sein, um seine Vorteile zu nutzen und seine Zauber zu wirken. Der Stecken kann wie ein Kampfstab geführt werden ursacht bei einem Treffer zusätzliche IW6 Giftschaden, we ver ndu ihn für einen Nahkampfangrifi verwend. Der Stecken hat 10 Ladungen, die genutzt werden können, um die Zauber in seinem Inneren zu wirken. Mit dem Stecken in Händen kannst du deine Aktion nutzen, um einen der folgenden Zauber aus dem Stab zu wirken, wenn sich dieser in der Zauber. liste deiner Klasse befindet: Spinnenklettern (1 Ladung) oder ‚Spinnennetz (2 Ladungen, Zauberrettungswurf-SG keine Komponenten notwendig. 5). Essind Der Stecken erhält immer zur Abenddämmerung IW6 +4 verbrauchte Ladungen zurück. Wenn du die letzte Ladung des Steckens verbrauchst, wirf einen W20. Bei einer 1 zerbröckelt der Stecken zu Staub und ist zerstört.
 
@@ -105,10 +107,11 @@ braces of archery(+2 auf lang und kurzbogen) !!!
 NPC: Urgala Meltimer, Inn Keeperin.]]></treasure>
 			</currency>
 			<notes>
-				<note column="left">Saving Throw: 14 - 10 - 2 - 16 -saved
-184
+				<note column="left">Wir wurden in Wehrbären verwandelt. Ich nur so weit, dass ich mich selbst verwandeln kann. Zu Vollmond werde ich aber immer automatisch zu einem Wehrbären für die Nacht. Stats vom  Wehrbär siehe Telegram.
 
-Wir wurden in Wehrbären verwandelt. Ich nur so weit, dass ich mich selbst verwandeln kann. Zu Vollmond werde ich aber immer automatisch zu einem Wehrbären für die Nacht. Stats vom  Wehrbär siehe Telegram.</note>
+Info für Hordebreaker: Idealerweise gleich benutzen und erst dann die extra attack. Sollte eines der Ziele sterben bei meinem ersten Angriff und dann nur noch ein Ziel übrich sein, greift sonst der hordebreaker nicht mehr.
+
+Info für Huntersmark: mit bonusaction auf das nächste Ziel versetzen, wenn das Ziel stirbt.</note>
 				<note column="right">
 				</note>
 			</notes>
@@ -127,7 +130,7 @@ Wir wurden in Wehrbären verwandelt. Ich nur so weit, dass ich mich selbst verwa
 			<hair>
 			</hair>
 		</appearance>
-		<abilities available-points="15">
+		<abilities available-points="0">
 			<strength>14</strength>
 			<dexterity>14</dexterity>
 			<constitution>10</constitution>
@@ -135,7 +138,7 @@ Wir wurden in Wehrbären verwandelt. Ich nur so weit, dass ich mich selbst verwa
 			<wisdom>14</wisdom>
 			<charisma>10</charisma>
 		</abilities>
-		<elements level-count="5" registered-count="34">
+		<elements level-count="6" registered-count="39">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -243,12 +246,17 @@ Wir wurden in Wehrbären verwandelt. Ich nur so weit, dass ich mich selbst verwa
 					<element type="Proficiency" name="Saving Throw Proficiency (Dexterity)" id="ID_PROFICIENCY_SAVINGTHROW_DEXTERITY" />
 					<element type="Class Feature" name="Favored Enemy" id="ID_WOTC_CLASSFEATURE_RANGER_FAVORED_ENEMY">
 						<element type="Class Feature" name="Favored Enemy" requiredLevel="1" checksum="c130a545" registered="ID_WOTC_PHB_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOIDS_1" />
+						<element type="Class Feature" name="Favored Enemy" requiredLevel="6" checksum="8e713382" registered="ID_WOTC_PHB_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOIDS_2" />
 						<element type="Class Feature" name="Favored Enemy, Humanoid" requiredLevel="1" number="1" checksum="8f79ca12" registered="ID_WOTC_MM_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOID_GOBLINS" />
-						<element type="Class Feature" name="Favored Enemy, Humanoid" requiredLevel="1" number="2" checksum="16709ba8" registered="ID_WOTC_MM_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOID_ORCS" />
+						<element type="Class Feature" name="Favored Enemy, Humanoid" requiredLevel="1" number="2" checksum="16709ba8" registered="ID_WOTC_MM_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOID_BUGBEARS" />
+						<element type="Class Feature" name="Favored Enemy, Humanoid" requiredLevel="6" number="1" checksum="c0385cd5" registered="ID_WOTC_MM_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOID_ORCS" />
+						<element type="Class Feature" name="Favored Enemy, Humanoid" requiredLevel="6" number="2" checksum="59310d6f" registered="ID_WOTC_MM_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOID_HOBGOBLINS" />
 						<element type="Language" name="Language (Favored Enemy)" requiredLevel="1" checksum="1b8e09b4" registered="ID_LANGUAGE_GOBLIN" />
+						<element type="Language" name="Language (Favored Enemy)" requiredLevel="6" checksum="54cf9f73" registered="" />
 					</element>
 					<element type="Class Feature" name="Natural Explorer" id="ID_WOTC_CLASSFEATURE_RANGER_NATURAL_EXPLORER">
 						<element type="Class Feature" name="Favored Terrain" requiredLevel="1" checksum="e82f3251" registered="ID_WOTC_CLASSFEATURE_RANGER_NATURAL_EXPLORER_FT_FOREST" />
+						<element type="Class Feature" name="Favored Terrain" requiredLevel="6" checksum="a76ea496" registered="ID_WOTC_CLASSFEATURE_RANGER_NATURAL_EXPLORER_FT_GRASSLAND" />
 					</element>
 					<element type="Grants" name="Multiclassing Prerequisite" id="ID_INTERNAL_GRANTS_MULTICLASSING_PREREQUISITE" />
 					<element type="Class Feature" name="Fighting Style" id="ID_WOTC_CLASSFEATURE_RANGER_FIGHTING_STYLE">
@@ -301,6 +309,7 @@ Wir wurden in Wehrbären verwandelt. Ich nur so weit, dass ich mich selbst verwa
 			<element type="Level" name="3" id="ID_LEVEL_3" />
 			<element type="Level" name="4" id="ID_LEVEL_4" />
 			<element type="Level" name="5" id="ID_LEVEL_5" />
+			<element type="Level" name="6" id="ID_LEVEL_6" />
 		</elements>
 		<defenses>
 			<conditional>
@@ -389,7 +398,7 @@ Wir wurden in Wehrbären verwandelt. Ich nur so weit, dass ich mich selbst verwa
 					</notes>
 				</details>
 			</item>
-			<item identifier="043afe72-eb1e-4d7b-b87d-aea210787844" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="9">
+			<item identifier="043afe72-eb1e-4d7b-b87d-aea210787844" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="5">
 				<details card="true">
 					<name>
 					</name>
@@ -503,7 +512,7 @@ Wir wurden in Wehrbären verwandelt. Ich nur so weit, dass ich mich selbst verwa
 				</details>
 			</item>
 		</equipment>
-		<sum element-count="129">
+		<sum element-count="134">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -553,6 +562,7 @@ Wir wurden in Wehrbären verwandelt. Ich nur so weit, dass ich mich selbst verwa
 			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_DEXTERITY" />
 			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_DEXTERITY" />
 			<element type="Level" id="ID_LEVEL_5" />
+			<element type="Level" id="ID_LEVEL_6" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_WAND_OF_MAGIC_MISSILES" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_RANGER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
@@ -626,13 +636,17 @@ Wir wurden in Wehrbären verwandelt. Ich nur so weit, dass ich mich selbst verwa
 			<element type="Class Feature" id="ID_WOTC_CLASSFEATURE_RANGER_EXTRA_ATTACK" />
 			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOIDS_1" />
 			<element type="Class Feature" id="ID_WOTC_MM_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOID_GOBLINS" />
-			<element type="Class Feature" id="ID_WOTC_MM_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOID_ORCS" />
+			<element type="Class Feature" id="ID_WOTC_MM_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOID_BUGBEARS" />
 			<element type="Class Feature" id="ID_WOTC_CLASSFEATURE_RANGER_NATURAL_EXPLORER_FT_FOREST" />
 			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_FIGHTINGSTYLE_ARCHERY" />
 			<element type="Archetype" id="ID_WOTC_ARCHETYPE_RANGER_HUNTER" />
 			<element type="Archetype Feature" id="ID_WOTC_ARCHETYPEFEATURE_RANGER_HUNTERS_PREY" />
 			<element type="Archetype Feature" id="ID_WOTC_ARCHETYPEFEATURE_RANGER_HUNTERS_PREY_HORDE_BREAKER" />
 			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_ASI_4_RANGER" />
+			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOIDS_2" />
+			<element type="Class Feature" id="ID_WOTC_MM_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOID_ORCS" />
+			<element type="Class Feature" id="ID_WOTC_MM_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOID_HOBGOBLINS" />
+			<element type="Class Feature" id="ID_WOTC_CLASSFEATURE_RANGER_NATURAL_EXPLORER_FT_GRASSLAND" />
 		</sum>
 		<magic>
 			<spellcasting name="Ranger" ability="Wisdom" attack="5" dc="13" source="ID_WOTC_CLASSFEATURE_RANGER_SPELLCASTING">

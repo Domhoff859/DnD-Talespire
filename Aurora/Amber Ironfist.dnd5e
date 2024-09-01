@@ -27,7 +27,7 @@
 			<name>Amber Ironfist</name>
 			<gender>Female</gender>
 			<player-name>Luisa Scholze</player-name>
-			<experience>16614</experience>
+			<experience>18271</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="a20d176a-491b-476d-90eb-809b2c4ac087" name="Longbow" range="150/600" attack="+9 vs AC" damage="1d8+4 piercing" displayed="true" ability="Dexterity">
@@ -67,10 +67,10 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 			</organization>
 			<additional-features><![CDATA[10% von der Mine + 1% fürs Weisenhaus  (200 (40) XP für zurückbringen bwürden wir bekommen)]]></additional-features>
 			<currency>
-				<copper>5</copper>
-				<silver>6</silver>
+				<copper>4</copper>
+				<silver>16</silver>
 				<electrum>1</electrum>
-				<gold>804</gold>
+				<gold>801</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[1 roter Umhang     1 kg Pökelfleisch    
@@ -81,9 +81,10 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 1 Messing laterne
 1kg Kohle
 1 stück stoff vom Troll
+10 stück Pergament für centrip
 
 portion of healing
-portion of greater Healing]]></treasure>
+2 portion of greater Healing]]></treasure>
 			</currency>
 			<notes>
 				<note column="left">Elfenbogen:  Niemaler Bogen 
@@ -555,6 +556,7 @@ Kiste:
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_LONGBOW" />
 			<element type="Racial Trait" id="ID_RACIAL_TRAIT_CANTRIP" />
 			<element type="Racial Trait" id="ID_RACIAL_TRAIT_EXTRA_LANGUAGE" />
+			<element type="Spell" id="ID_PHB_SPELL_CHILL_TOUCH" />
 			<element type="Language" id="ID_LANGUAGE_GOBLIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_ACROBATICS" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_ATHLETICS" />
@@ -568,11 +570,9 @@ Kiste:
 			<element type="Level" id="ID_LEVEL_2" />
 			<element type="Level" id="ID_LEVEL_3" />
 			<element type="Level" id="ID_LEVEL_4" />
+			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_DEXTERITY" />
+			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_DEXTERITY" />
 			<element type="Level" id="ID_LEVEL_5" />
-			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_SPLINT" />
-			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
-			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_DEXTERITY" />
-			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_DEXTERITY" />
 			<element type="Level" id="ID_LEVEL_6" />
 			<element type="Grants" id="ID_INTERNAL_MULTICLASS_LEVEL_6" />
 			<element type="Spell" id="ID_XGTE_SPELL_TOLL_THE_DEAD" />
@@ -580,7 +580,8 @@ Kiste:
 			<element type="Spell" id="ID_PHB_SPELL_SACRED_FLAME" />
 			<element type="Spell" id="ID_PHB_SPELL_BLADE_WARD" />
 			<element type="Spell" id="ID_PHB_SPELL_FIRE_BOLT" />
-			<element type="Spell" id="ID_PHB_SPELL_CHILL_TOUCH" />
+			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_SPLINT" />
+			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_LONGBOW" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_FIGHTER" />

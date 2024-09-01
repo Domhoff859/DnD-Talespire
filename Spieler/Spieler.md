@@ -55,6 +55,12 @@
 ## Silver (Lukas)
 - Barde
 
+## Desmond (Tim)
+- Rogue
+	- Sleight of hands
+	- Kein Tank
+- Katzenmensch
+
 
 ---
 ## Boris

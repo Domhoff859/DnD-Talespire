@@ -2,6 +2,16 @@
 **Rasse:** Dragonborn  
 **Klasse:** Fighter
 
+### Zusammenfassung
+- Kriv, Dragonborn aus isoliertem Clan im Dorant-Gebirge.
+- Aufgewachsen in einer Kultur, die Ehre und Stärke über alles stellt.
+- Sehnt sich nach einem Leben außerhalb der Berge.
+- Mit 16 Jahren verlässt er den Clan und schließt sich der Söldnergruppe „Schwarze Klingen“ an.
+- Erwirbt sich schnell einen Ruf als furchtloser Krieger.
+- Beginnt nach Jahren, die grausamen Methoden der Söldner zu hinterfragen.
+- Entscheidet sich, gegen die Söldner zu kämpfen, um unschuldige Dorfbewohner zu schützen.
+- Verlässt die Söldner und beschließt, nur noch für das Richtige zu kämpfen.
+- Sucht nach Wiedergutmachung und einem höheren Zweck.
 
 ### Hintergrundgeschichte
 Kriv wurde in einem kleinen, isolierten Dragonborn-Clan tief in den Ausläufern des Dorant-Gebirges geboren. Von einem jungen Alter an wurde ihm beigebracht, dass Ehre und Stärke alles bedeuten. Die Traditionen seines Clans, die auf der alten Drakonischen Philosophie basierten, verlangten von jedem Mitglied, seine Fähigkeiten im Kampf zu perfektionieren und sich unerschütterlich für die Gemeinschaft einzusetzen. Doch Kriv war anders. Obwohl er die Disziplin und den Kampfgeist seines Clans respektierte, sehnte er sich danach, die Welt außerhalb der kalten Berge zu erkunden und sein eigenes Schicksal zu schmieden.
