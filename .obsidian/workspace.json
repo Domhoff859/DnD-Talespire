@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f15729610c465abf",
+        "id": "f3958ebd22f454e9",
         "type": "tabs",
         "children": [
           {
-            "id": "3855a8f7aefc4b74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/Quest 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63d06b4ac22a9c76",
+            "id": "b7cc1e84bc909765",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +20,16 @@
             }
           },
           {
-            "id": "b62ff28d23791f01",
+            "id": "b0b9be960ef0cc76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Gemeinschaftskiste.md",
-                "mode": "source",
-                "source": false
+                "file": "Bilder/Weltkarte.jpg"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,53 +156,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63d06b4ac22a9c76",
+  "active": "b7cc1e84bc909765",
   "lastOpenFiles": [
-    "Gemeinschaftskiste.md",
-    "Quests/Quest 4.md",
-    "Tagebuch/240901.md",
-    "Spieler/Spieler.md",
-    "Quests/Quest 5.md",
-    "Quests/Quest 6.md",
-    "Quests/Quest 8.md",
-    "Quests/Abgeschlossen/Quest 7.md",
-    "Tagebuch/240816.md",
-    "Organisationen.md",
-    "README.md",
-    "Bilder/Weltkarte.jpg",
+    "Aurora/amber ironfist.pdf",
+    "Aurora/Amber Ironfist.dnd5e",
+    "Aurora/Ander Thorngage.dnd5e",
+    "Aurora/amber ironfist (2).pdf",
+    "Aurora/Amber Ironfist (3).dnd5e",
+    "Aurora/ander thorngage.pdf",
+    "Aurora/Ander Thorngage (2).dnd5e",
     "Quests/Quest 3.md",
-    "Welt.md",
-    "Spieler/Kriv/Reaktionen.md",
-    "Spieler/Kriv/Kriv.md",
+    "github.pub",
+    "github",
+    "Tagebuch/240901.md",
+    "Quests/Quest 8.md",
+    "Quests/Quest 6.md",
+    "Quests/Quest 5.md",
+    "Quests/Quest 4.md",
+    "Spieler/Spieler.md",
+    "Bilder/Weltkarte.jpg",
+    "Effekte/Ausrüstung.md",
     "NPCs.md",
-    "Bilder/Städte/Dreiebersdorf/Nahansicht.png",
-    "Bilder/Städte/Dreiebersdorf/Weltansicht.png",
+    "Tagebuch/240816.md",
+    "Tagebuch/Untitled.md",
+    "Organisationen.md",
+    "Aurora/simus.pdf",
+    "Gemeinschaftskiste.md",
+    "Tagebuch/240720.md",
+    "Quests/Abgeschlossen/Quest 1.md",
     "Bilder/Städte/Everlund/Nahansicht.png",
+    "Welt.md",
     "Bilder/Städte/Phandalin/Nahansicht.png",
     "Bilder/Städte/Phandalin/Weltansicht.png",
-    "Bilder/Städte/Silverymoon/Nahansicht 1.png",
-    "Bilder/Städte/Silverymoon/Nahansicht 2.png",
-    "Bilder/Städte/Yatar/Nahansicht.png",
-    "Bilder/Boris.jpg",
-    "Effekte/Verwandlungen.md",
-    "Effekte/Fähigkeiten.md",
-    "Effekte/Ausrüstung.md",
-    "Tresendar Villa/Tresendar Villa.md",
-    "Tresendar Villa/Ausbau.md",
-    "Spieler/Kriv/Schwarze Klingen.md",
-    "Spieler/Kriv/Dra'kalthor.md",
-    "Monster.md",
-    "Aurora/kriv.pdf",
-    "Aurora/amber ironfist.pdf",
-    "Tagebuch/240720.md",
-    "Tagebuch/240505.md",
-    "Bilder/Städte/Silverymoon",
-    "Bilder/Städte/New folder",
-    "Aurora/simus.pdf",
     "Bilder/Städte/Everlund",
-    "Spieler/Kriv",
-    "Spieler",
-    "Player/Kriv",
-    "Player"
+    "Effekte/Verwandlungen.md",
+    "Spieler/Kriv/Schwarze-Klingen.jpg",
+    "Spieler/Kriv/Schwarze Klingen.md",
+    "Spieler/Kriv/Kriv.md",
+    "Spieler/Kriv/Dra'kalthor-Clan.jpg",
+    "Spieler/Kriv/Dra'kalthor.md",
+    "Effekte/Tränke.md",
+    "Spieler.md",
+    "Monster.md",
+    "README.md",
+    "Effekte/Fähigkeiten.md",
+    "Bilder/Boris.jpg",
+    "Bilder/Boris Stats.png",
+    "Bilder/ManorKeller.jpg",
+    "Bilder/Städte/Yatar/Nahansicht.png"
   ]
 }

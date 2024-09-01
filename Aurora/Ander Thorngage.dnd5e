@@ -28,7 +28,7 @@
 			<name>Ander Thorngage</name>
 			<gender>Male</gender>
 			<player-name>Johannes Blab</player-name>
-			<experience>16614</experience>
+			<experience>18271</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword +1" range="5 ft" attack="+8 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
@@ -61,13 +61,15 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 				</symbol>
 				<allies><![CDATA[]]></allies>
 			</organization>
-			<additional-features><![CDATA[Titel: Treant-Schlächter
-Sprache: Primordial (Elementals)      41/125 gelernt]]></additional-features>
+			<additional-features><![CDATA[Deity: Catgirl
+
+Titel: Treant-Schlächter
+Sprache: Primordial (Elementals)      44/125 gelernt]]></additional-features>
 			<currency>
 				<copper>8</copper>
 				<silver>1</silver>
 				<electrum>0</electrum>
-				<gold>606</gold>
+				<gold>576</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[Mineneinnahmen: 300 - 1500 Gold/Monat
@@ -302,7 +304,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Level" name="4" id="ID_LEVEL_4" />
 			<element type="Level" name="5" id="ID_LEVEL_5" />
 			<element type="Level" name="6" id="ID_LEVEL_6" />
-			<element type="Armor" name="Splint" id="ID_WOTC_ARMOR_HEAVY_SPLINT">
+			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
 				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			</element>
 		</elements>
@@ -425,15 +427,6 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					</notes>
 				</details>
 			</item>
-			<item identifier="4632c585-e315-496c-8165-b2c6d681058c" name="Splint" id="ID_WOTC_ARMOR_HEAVY_SPLINT">
-				<equipped location="Armor">true</equipped>
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
 			<item identifier="1bb822ce-d405-40f6-92db-c066f01828e3" name="Arrow" id="ID_WOTC_PHB_ITEM_ARROW" amount="18">
 				<details card="true">
 					<name>
@@ -477,7 +470,10 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					<notes>7/10</notes>
 				</details>
 			</item>
-			<item identifier="f2e21011-d912-4505-aa89-313852ac1bae" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING">
+			<item identifier="16147894-e516-4ed0-9de6-319307542b61" name="Crossbow, Heavy" id="ID_WOTC_PHB_WEAPON_CROSSBOW_HEAVY">
+				<items>
+					<adorner name="Weapon, +1" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
+				</items>
 				<details card="true">
 					<name>
 					</name>
@@ -485,10 +481,16 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					</notes>
 				</details>
 			</item>
-			<item identifier="16147894-e516-4ed0-9de6-319307542b61" name="Crossbow, Heavy" id="ID_WOTC_PHB_WEAPON_CROSSBOW_HEAVY">
-				<items>
-					<adorner name="Weapon, +1" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
-				</items>
+			<item identifier="4f828f4d-01fe-476d-8b8e-5feb03ed4621" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
+				<equipped location="Armor">true</equipped>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="a89bf9c1-9fc8-4cac-b4a2-0b37d7ab0bf6" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING">
 				<details card="true">
 					<name>
 					</name>
@@ -543,9 +545,9 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
 			<element type="Level" id="ID_LEVEL_5" />
 			<element type="Level" id="ID_LEVEL_6" />
-			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_SPLINT" />
-			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
+			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
+			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_PALADIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
