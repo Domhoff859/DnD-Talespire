@@ -1,10 +1,16 @@
-**Name:** Kriv  
+**Name:** Kriv 
+**Spielername**: Steven
 **Rasse:** Dragonborn  
 **Klasse:** Fighter
 **Gewicht**: 80kg
 **Höhe**: 170cm
 **Augenfarbe**: Lila
 
+Sepziall Gegenstände:
+- [Belt of dwarven kind](Effekte/Ausrüstung#Belt%20of%20dwarven%20kind) 
+
+Flüche:
+- Fluch des Werbären
 ### Zusammenfassung
 - Kriv, Dragonborn aus isoliertem Clan im Dorant-Gebirge.
 - Aufgewachsen in einer Kultur, die Ehre und Stärke über alles stellt.

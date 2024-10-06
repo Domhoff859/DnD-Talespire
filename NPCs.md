@@ -51,4 +51,12 @@
 ---
 ## Krowen Valharrow
 - DER Harper Guild Guildmage
-- 
+
+---
+
+## Bernt
+
+---
+
+## Kolbaz
+
