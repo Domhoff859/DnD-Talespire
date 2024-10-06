@@ -7,7 +7,7 @@ Ort - Zümorwenhol
 Person - Lord Hartos
 
 Aufgabe:
-Riesenschlächter Schwert von einem ins alter gekommenen Abenteurer holen.
+Riesenschlächter Schwert (Typ Giant Slayer) von einem ins alter gekommenen Abenteurer holen.
 
 Zusätzliche Information:
 Den Namen von Urgula erwähnen

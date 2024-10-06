@@ -28,7 +28,7 @@
 			<name>Kriv</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>18172</experience>
+			<experience>18646</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="efb6620e-79d4-4e68-927d-6be54e9c25e4" name="Longsword" range="5 ft" attack="+7 vs AC" damage="1d8+4 slashing" displayed="true" ability="Strength">
@@ -63,9 +63,9 @@
 			<additional-features><![CDATA[]]></additional-features>
 			<currency>
 				<copper>6</copper>
-				<silver>2</silver>
+				<silver>8</silver>
 				<electrum>0</electrum>
-				<gold>617</gold>
+				<gold>614</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[# Gewand
@@ -84,6 +84,7 @@
 - 1 Iarno (Magier) Kopf
 - 1 Schritrolle der Vorahnung
 - 1 Schriftrolle der Dunkelheit
+- 5 Zuckermelonen
 
 Was Sinvoll wäre:
 - Heiltrank kaufen
@@ -102,7 +103,7 @@ Death Saving Throw:
 - 0 Failure
 
 ### Neue Sprache lernen ###
-Dwelvisch (Zwergisch): 39/125 Benjamin bringt es mir bei
+Dwelvisch (Zwergisch): 40/125 Benjamin bringt es mir bei
 
 ### Welt ###
 Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert

@@ -1,6 +1,9 @@
 **Name:** Kriv  
 **Rasse:** Dragonborn  
 **Klasse:** Fighter
+**Gewicht**: 80kg
+**Höhe**: 170cm
+**Augenfarbe**: Lila
 
 ### Zusammenfassung
 - Kriv, Dragonborn aus isoliertem Clan im Dorant-Gebirge.
@@ -41,3 +44,9 @@ Kriv verließ die Söldner und begann eine neue Reise, diesmal nicht auf der Suc
 **Bindung:** Kriv fühlt sich verpflichtet, den schwachen und unschuldigen zu helfen, besonders wenn sie von den Starken und Mächtigen bedroht werden.
 
 **Schwäche:** Seine Vergangenheit als Söldner und die Taten, die er im Namen des Goldes begangen hat, verfolgen ihn. Er hat Schwierigkeiten, sich selbst zu vergeben und fühlt sich oft unwürdig, wahre Ehre zu erlangen.
+
+**Bedürfnisse**:
+- Melonen (Zuckermelonen sind sein lieblings Melone)
+
+**Ablehnung**:
+- Wassermelone
