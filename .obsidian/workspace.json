@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/240901.md",
+                "file": "Quests/Quest 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tagebuch/240901.md",
+                "file": "Quests/Quest 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tagebuch/240901.md",
+                "file": "Quests/Quest 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tagebuch/240901.md"
+                "file": "Quests/Quest 4.md"
               }
             }
           }
@@ -158,6 +158,12 @@
   },
   "active": "b7cc1e84bc909765",
   "lastOpenFiles": [
+    "Tagebuch/240901.md",
+    "Spieler/Kriv/Kriv.md",
+    "Spieler/Kriv/Schwarze Klingen.md",
+    "Spieler/Kriv/Reaktionen.md",
+    "Spieler/Kriv/Dra'kalthor.md",
+    "Spieler/Spieler.md",
     "Aurora/amber ironfist.pdf",
     "Aurora/Amber Ironfist.dnd5e",
     "Aurora/Ander Thorngage.dnd5e",
@@ -168,12 +174,10 @@
     "Quests/Quest 3.md",
     "github.pub",
     "github",
-    "Tagebuch/240901.md",
     "Quests/Quest 8.md",
     "Quests/Quest 6.md",
     "Quests/Quest 5.md",
     "Quests/Quest 4.md",
-    "Spieler/Spieler.md",
     "Bilder/Weltkarte.jpg",
     "Effekte/Ausrüstung.md",
     "NPCs.md",
@@ -188,13 +192,9 @@
     "Welt.md",
     "Bilder/Städte/Phandalin/Nahansicht.png",
     "Bilder/Städte/Phandalin/Weltansicht.png",
-    "Bilder/Städte/Everlund",
     "Effekte/Verwandlungen.md",
     "Spieler/Kriv/Schwarze-Klingen.jpg",
-    "Spieler/Kriv/Schwarze Klingen.md",
-    "Spieler/Kriv/Kriv.md",
     "Spieler/Kriv/Dra'kalthor-Clan.jpg",
-    "Spieler/Kriv/Dra'kalthor.md",
     "Effekte/Tränke.md",
     "Spieler.md",
     "Monster.md",
