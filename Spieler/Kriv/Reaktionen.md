@@ -22,3 +22,6 @@ Während er an einem Stand mit handgefertigten Waffen vorbeiging, ließ er seine
 **Charistmatisch auf eine Person zu gehen**
 Kriv ließ den Blick ruhig über die Umgebung schweifen, ehe er sich mit bedächtigen, gleichmäßigen Schritten der `die Person zu dem Kriv geht` näherte. Seine Bewegungen waren entspannt, als hätte er alle Zeit der Welt. Es lag eine natürliche Gelassenheit in seiner Haltung, die sofort Vertrauen erweckte – eine Ruhe, die spüren ließ, dass er sich vollkommen sicher war, ohne diese Sicherheit demonstrativ zur Schau zu stellen.
 Als er näherkam, blieb er genau in der richtigen Distanz stehen – nah genug, um eine Verbindung aufzubauen, doch weit genug, um keinen Druck auszuüben. Seine lilaen Augen trafen die des Gegenübers, und obwohl seine Worte noch nicht gesprochen waren, lag bereits in seiner Ausstrahlung ein leises Versprechen von Verständnis und Stärke.
+
+**Bei einem Händler für einen Kauf bedanken**
+Vielen Dank für dieses großzügige Angebot. Es ist schön, mit jemandem Geschäfte zu machen, der so fair ist.

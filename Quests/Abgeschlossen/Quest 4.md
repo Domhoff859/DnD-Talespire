@@ -9,6 +9,9 @@ Person - Lord Hartos
 Aufgabe:
 Riesenschlächter Schwert (Typ Giant Slayer) von einem ins alter gekommenen Abenteurer holen.
 
+Belohnung:
+Wir dürfen das Schwert behalten
+
 Zusätzliche Information:
 Den Namen von Urgula erwähnen
 

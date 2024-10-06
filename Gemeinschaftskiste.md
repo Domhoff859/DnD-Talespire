@@ -5,7 +5,7 @@
 
 | Kupfer KP | Silber SP | Elektron EP | Gold GP | Platin PP |
 | --------- | --------- | ----------- | ------- | --------- |
-| 0         | 8         | 0           | 1778    | 0         |
+| 0         | 8         | 0           | 515     | 0         |
 | 10->S     | 10->G     | 5->G        | 10->P   |           |
 
 ---
@@ -71,4 +71,3 @@
 - 1 Alchemistenkit 
 - 5 Fuß Kette
 - 1 Handaxe Blade
-- 4 Kurzschwerter
