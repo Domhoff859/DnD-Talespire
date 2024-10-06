@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/240505.md",
+                "file": "Quests/Quest 3.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff035c7aea9940f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tagebuch/241006.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d7e328f50664efb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Bilder/Weltkarte.jpg"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tagebuch/240505.md",
+                "file": "Tagebuch/241006.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tagebuch/240505.md",
+                "file": "Tagebuch/241006.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tagebuch/240505.md"
+                "file": "Tagebuch/241006.md"
               }
             }
           }
@@ -146,31 +169,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b77afa76cdcede71",
+  "active": "ff035c7aea9940f6",
   "lastOpenFiles": [
+    "Quests/Quest 3.md",
+    "Tagebuch/241006.md",
+    "Spieler/Ander Thorngage/Ander Thorngage.md",
+    "Bilder/Weltkarte.jpg",
+    "Spieler/Spieler.md",
+    "Spieler/Simus/Simus.md",
+    "Gemeinschaftskiste.md",
+    "Bilder/Städte/Silverymoon/Nahansicht 1.png",
+    "Quests/Quest 8.md",
+    "Quests/Quest 6.md",
+    "Quests/Quest 5.md",
+    "Spieler/Kriv/Kriv.md",
+    "Spieler/Amber Ironfist/Amber Ironfist.md",
+    "Tagebuch/240505.md",
     "Tagebuch/240520.md",
     "Spieler/Thokk/Thokk.md",
-    "Spieler/Kriv/Kriv.md",
-    "Spieler/Spieler.md",
     "NPCs.md",
     "Tagebuch/240602.md",
     "Tagebuch/240720.md",
     "Tagebuch/240816.md",
     "Tagebuch/240901.md",
-    "Spieler/Amber Ironfist/Amber Ironfist.md",
     "Spieler/Sindrir Gerrick/Sindrir Gerrick.md",
-    "Spieler/Ander Thorngage/Ander Thorngage.md",
-    "Tagebuch/241006.md",
     "Spieler/Ander/Ander.md",
     "Spieler/Ander",
     "Bilder/Städte/Silverymoon/Nahansicht 2.png",
-    "Bilder/Städte/Silverymoon/Nahansicht 1.png",
     "Spieler/Desmond/Desmond.md",
-    "Spieler/Simus/Simus.md",
     "Spieler/Kriv/Reaktionen.md",
     "Spieler/Amber.md",
     "Spieler/Silver/Silver.md",
-    "Spieler/Kriv/Dra'kalthor.md",
     "Spieler/Silver",
     "Spieler/Simus",
     "Spieler/Thokk",
@@ -178,14 +207,7 @@
     "Spieler/Sindrir Gerrick",
     "Spieler/Ander Thorngage",
     "Spieler/Desmond",
-    "Tagebuch/240505.md",
-    "Quests/Quest 3.md",
-    "Organisationen.md",
-    "Gemeinschaftskiste.md",
     "Bilder/Städte/Everlund/Nahansicht.png",
-    "Bilder/Weltkarte.jpg",
-    "Quests/Quest 5.md",
-    "Quests/Abgeschlossen/Quest 4.md",
     "Bilder/Städte/Yatar/Nahansicht.png",
     "Gegenstände",
     "Aurora/amber ironfist.pdf",

@@ -578,7 +578,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 					</notes>
 				</details>
 			</item>
-			<item identifier="7cfbd812-a47f-49e7-8c23-2e09b68d85c4" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="2">
+			<item identifier="7cfbd812-a47f-49e7-8c23-2e09b68d85c4" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING">
 				<details card="true">
 					<name>
 					</name>
