@@ -5,7 +5,7 @@
 
 | Kupfer KP | Silber SP | Elektron EP | Gold GP | Platin PP |
 | --------- | --------- | ----------- | ------- | --------- |
-| 0         | 8         | 0           | 515     | 0         |
+| 0         | 8         | 0           | 365     | 0         |
 | 10->S     | 10->G     | 5->G        | 10->P   |           |
 
 ---
@@ -53,7 +53,7 @@
 - 1x Wolfspelz - 5 SP
 - 1x Perfümeflacon
 - 1x Goldene Halskette - 500GP
-- 3x Rubin - a 50GP
+- 2x Rubin - a 50GP
 - 5x Saphir - a 30GP
 - 7x Smaragd - a 20GP
 - Samtschatule (100GP)
@@ -62,8 +62,6 @@
 ---
 ## Zutaten
 - 1x Drachengalle in Fläschchen (Gift)
-- 
-
 
 ---
 ## Loot

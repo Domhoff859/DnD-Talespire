@@ -4,45 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "642f5e59e17ff0c7",
+        "id": "afd8e66b6942fb01",
         "type": "tabs",
         "children": [
           {
-            "id": "b77afa76cdcede71",
+            "id": "c895c64c0df896ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Quest 3.md",
+                "file": "Gemeinschaftskiste.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Gemeinschaftskiste"
             }
           },
           {
-            "id": "ff035c7aea9940f6",
+            "id": "951bbd82b8720e8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/241006.md",
+                "file": "Quests/Quest 9.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Quest 9"
             }
           },
           {
-            "id": "4d7e328f50664efb",
+            "id": "43e08490dc4d9e04",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Bilder/Weltkarte.jpg"
-              }
+                "file": "Spieler/Kriv/Kriv.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kriv"
+            }
+          },
+          {
+            "id": "5dd28474de54ace2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spieler/Kriv/Essen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Essen"
+            }
+          },
+          {
+            "id": "5e257fa1eb0fc58f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tagebuch/241103.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "241103"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -77,7 +115,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -85,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -108,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tagebuch/241006.md",
+                "file": "Spieler/Kriv/Kriv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +158,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kriv"
             }
           },
           {
@@ -125,10 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tagebuch/241006.md",
+                "file": "Spieler/Kriv/Kriv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kriv"
             }
           },
           {
@@ -139,7 +185,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -148,8 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tagebuch/241006.md"
-              }
+                "file": "Spieler/Kriv/Kriv.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kriv"
             }
           }
         ]
@@ -169,37 +219,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff035c7aea9940f6",
+  "active": "6d4479cdeb0fef2d",
   "lastOpenFiles": [
-    "Quests/Quest 3.md",
-    "Tagebuch/241006.md",
-    "Spieler/Ander Thorngage/Ander Thorngage.md",
-    "Bilder/Weltkarte.jpg",
-    "Spieler/Spieler.md",
-    "Spieler/Simus/Simus.md",
-    "Gemeinschaftskiste.md",
-    "Bilder/Städte/Silverymoon/Nahansicht 1.png",
-    "Quests/Quest 8.md",
-    "Quests/Quest 6.md",
-    "Quests/Quest 5.md",
+    "Bilder/Monster/Werebear.png",
+    "Tagebuch/241103.md",
     "Spieler/Kriv/Kriv.md",
+    "Spieler/Spieler.md",
+    "Gemeinschaftskiste.md",
+    "Monster.md",
+    "NPCs.md",
+    "Nützliche Resourcen.md",
+    "Organisationen.md",
+    "README.md",
+    "Welt.md",
+    "Quests/Quest 9.md",
+    "Quests/Quest 3.md",
+    "Quests/Quest 5.md",
+    "Quests/Quest 6.md",
+    "Quests/Quest 8.md",
+    "Spieler/Kriv/Essen.md",
+    "Spieler/Kriv/Guide.md",
+    "Spieler/Kriv/Reaktionen.md",
+    "Spieler/Kriv/Dra'kalthor-Clan.jpg",
+    "Tagebuch/241006.md",
+    "Bilder/Weltkarte.jpg",
+    "Spieler/Ander Thorngage/Ander Thorngage.md",
+    "Spieler/Simus/Simus.md",
+    "Bilder/Städte/Silverymoon/Nahansicht 1.png",
     "Spieler/Amber Ironfist/Amber Ironfist.md",
     "Tagebuch/240505.md",
     "Tagebuch/240520.md",
     "Spieler/Thokk/Thokk.md",
-    "NPCs.md",
-    "Tagebuch/240602.md",
-    "Tagebuch/240720.md",
-    "Tagebuch/240816.md",
-    "Tagebuch/240901.md",
-    "Spieler/Sindrir Gerrick/Sindrir Gerrick.md",
-    "Spieler/Ander/Ander.md",
     "Spieler/Ander",
     "Bilder/Städte/Silverymoon/Nahansicht 2.png",
-    "Spieler/Desmond/Desmond.md",
-    "Spieler/Kriv/Reaktionen.md",
-    "Spieler/Amber.md",
-    "Spieler/Silver/Silver.md",
     "Spieler/Silver",
     "Spieler/Simus",
     "Spieler/Thokk",
@@ -214,7 +266,6 @@
     "Bilder/Städte/Phandalin/Nahansicht.png",
     "Bilder/Städte/Phandalin/Weltansicht.png",
     "Spieler/Kriv/Schwarze-Klingen.jpg",
-    "Spieler/Kriv/Dra'kalthor-Clan.jpg",
     "Bilder/Boris.jpg"
   ]
 }

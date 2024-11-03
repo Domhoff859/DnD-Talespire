@@ -28,7 +28,7 @@
 			<name>Kriv</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>18646</experience>
+			<experience>19961</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="efb6620e-79d4-4e68-927d-6be54e9c25e4" name="Longsword" range="5 ft" attack="+7 vs AC" damage="1d8+4 slashing" displayed="true" ability="Strength">
@@ -64,8 +64,8 @@
 			<currency>
 				<copper>6</copper>
 				<silver>6</silver>
-				<electrum>0</electrum>
-				<gold>613</gold>
+				<electrum>1</electrum>
+				<gold>571</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[# Gewand
@@ -103,13 +103,14 @@ Death Saving Throw:
 - 0 Failure
 
 ### Neue Sprache lernen ###
-Dwelvisch (Zwergisch): 43/125 Benjamin bringt es mir bei
+Dwelvisch (Zwergisch): 46/125 Benjamin bringt es mir bei
 
 ### Welt ###
 Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 
 ### Zusatinventar ###
-- Goldschlacke aus dem Ofen circa 10 Gold Wert</note>
+- Goldschlacke aus dem Ofen circa 10 Gold Wert
+- 1 Fass spezielles Ale aus Hawks Nest</note>
 				<note column="right">
 				</note>
 			</notes>
@@ -371,7 +372,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 					</notes>
 				</details>
 			</item>
-			<item identifier="b1f4eb74-4f7b-447d-9b89-c9dab1328da7" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="11">
+			<item identifier="b1f4eb74-4f7b-447d-9b89-c9dab1328da7" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="25">
 				<details card="true">
 					<name>
 					</name>
@@ -545,7 +546,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 					</notes>
 				</details>
 			</item>
-			<item identifier="9b22b6e7-4bd0-4334-8547-131e06c3a2bc" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING" amount="2">
+			<item identifier="9b22b6e7-4bd0-4334-8547-131e06c3a2bc" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING">
 				<details card="true">
 					<name>
 					</name>
@@ -571,14 +572,6 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			</item>
 			<item identifier="fbecd37d-3e93-4f63-8055-c31cdc1f604f" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
 				<equipped location="Armor">true</equipped>
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
-			<item identifier="7cfbd812-a47f-49e7-8c23-2e09b68d85c4" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING">
 				<details card="true">
 					<name>
 					</name>

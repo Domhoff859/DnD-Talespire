@@ -5,12 +5,13 @@
 **Gewicht**: 80kg
 **Höhe**: 170cm
 **Augenfarbe**: Lila
+**Sprachen**: Common (sprechen/lesen/schreiben), Draconic (sprechen), Giant (sprechen), Abyssal (sprechen)
 
 Sepziall Gegenstände:
 - [Belt of dwarven kind](Effekte/Ausrüstung#Belt%20of%20dwarven%20kind) 
 
 Flüche:
-- Fluch des Werbären
+- Fluch des [Werbären![[Werebear.png]]](https://www.dndbeyond.com/monsters/17053-werebear)
 ### Zusammenfassung
 - Kriv, Dragonborn aus isoliertem Clan im Dorant-Gebirge.
 - Aufgewachsen in einer Kultur, die Ehre und Stärke über alles stellt.

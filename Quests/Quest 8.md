@@ -7,5 +7,3 @@ Person - Löwenschieldhändler
 
 Aufgabe:
 Boris ersteigern
-
-
