@@ -14,7 +14,7 @@
 		<archetype>
 		</archetype>
 		<background>Acolyte</background>
-		<level>6</level>
+		<level>7</level>
 		<portrait>
 			<companion>
 			</companion>
@@ -28,7 +28,7 @@
 			<name>Kriv</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>19961</experience>
+			<experience>23000</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="efb6620e-79d4-4e68-927d-6be54e9c25e4" name="Longsword" range="5 ft" attack="+7 vs AC" damage="1d8+4 slashing" displayed="true" ability="Strength">
@@ -135,7 +135,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<wisdom>14</wisdom>
 			<charisma>9</charisma>
 		</abilities>
-		<elements level-count="6" registered-count="29">
+		<elements level-count="7" registered-count="30">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -242,6 +242,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 					<element type="Class Feature" name="Martial Archetype" id="ID_WOTC_PHB_CLASS_FEATURE_MARTIALARCHETYPE">
 						<element type="Archetype" name="Martial Archetype" requiredLevel="3" checksum="6da99adc" registered="ID_WOTC_PHB_ARCHETYPE_CHAMPION">
 							<element type="Archetype Feature" name="Improved Critical" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_IMPROVEDCRITICAL" />
+							<element type="Archetype Feature" name="Remarkable Athlete" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_REMARKABLEATHLETE" />
 						</element>
 					</element>
 					<element type="Class Feature" name="Ability Score Improvement" id="ID_WOTC_PHB_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_FIGHTER">
@@ -281,6 +282,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Level" name="4" id="ID_LEVEL_4" />
 			<element type="Level" name="5" id="ID_LEVEL_5" />
 			<element type="Level" name="6" id="ID_LEVEL_6" />
+			<element type="Level" name="7" id="ID_LEVEL_7" />
 			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
 				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			</element>
@@ -580,7 +582,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 				</details>
 			</item>
 		</equipment>
-		<sum element-count="120">
+		<sum element-count="122">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -623,6 +625,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
+			<element type="Level" id="ID_LEVEL_7" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_FIGHTER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
@@ -699,6 +702,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_FIGHTINGSTYLE_DEFENSE" />
 			<element type="Archetype" id="ID_WOTC_PHB_ARCHETYPE_CHAMPION" />
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_IMPROVEDCRITICAL" />
+			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_REMARKABLEATHLETE" />
 			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_FEAT_4_FIGHTER" />
 			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_ASI_6_FIGHTER" />
 		</sum>
