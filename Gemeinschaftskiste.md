@@ -5,7 +5,7 @@
 
 | Kupfer KP | Silber SP | Elektron EP | Gold GP | Platin PP |
 | --------- | --------- | ----------- | ------- | --------- |
-| 0         | 8         | 0           | 365     | 0         |
+| 0         | 8         | 0           | 1265    | 0         |
 | 10->S     | 10->G     | 5->G        | 10->P   |           |
 
 ---
@@ -14,10 +14,8 @@
 - 1x alte Lederrüstung
 - 5x Javelin
 - 1x [Ring of Water Walking](https://www.dndbeyond.com/magic-items/4737-ring-of-water-walking) 
-- 1x [Boots of Levitation](https://www.dndbeyond.com/magic-items/4588-boots-of-levitation) 
-- 1x [Armor of Resistence, Fire, Chain Mail](https://www.dndbeyond.com/magic-items/5371-armor-of-resistance) 
 - 1x [Sword of life Stealing](https://www.dndbeyond.com/magic-items/5390-sword-of-life-stealing) 
-- 1x [Returning Dagger](https://dnd5e.wikidot.com/artificer:infusions#toc15) 
+- 1x [Boots of Levitation](https://www.dndbeyond.com/magic-items/4588-boots-of-levitation)
 
 ---
 ## Tränke
@@ -44,7 +42,7 @@
 ## Questgegenstände
 - [Empfehlungsschreiben](Quests/Abgeschlossen/Quest%207) 
 - [Giant Slayer](Gegenstände/Giantslayer)
-
+- 2 goldene Löwenfigurinen welche wenn aktiviert Goldene Löwen beschwören (6h - einmal alle 7 Tage)
 
 ---
 ## Wertgegenstände
@@ -57,15 +55,18 @@
 - 5x Saphir - a 30GP
 - 7x Smaragd - a 20GP
 - Samtschatule (100GP)
-- Juwellen (3000gp)
+- 1 roher Edelstein (15 GP)
+- 4 übergroßen Kupermünzen (je 1 Silber Wert)
 
 ---
 ## Zutaten
 - 1x Drachengalle in Fläschchen (Gift)
 
 ---
+
+## Sonstiges
+- 2 große Ledersäcke
+
+---
 ## Loot
-- 1 Kletterausrüstung 
-- 1 Alchemistenkit 
-- 5 Fuß Kette
-- 1 Handaxe Blade
+- 1 Kletterausrüstung

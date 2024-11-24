@@ -60,3 +60,14 @@
 
 ## Kolbaz
 
+---
+
+## Lordek
+
+- Schmied in Sunderbar
+---
+
+## König Morinn
+- Stadt Sunderbar
+Königin Tithmel
+Prinz Orwund

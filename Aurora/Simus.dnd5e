@@ -14,7 +14,7 @@
 		<archetype>
 		</archetype>
 		<background>Hermit</background>
-		<level>6</level>
+		<level>7</level>
 		<portrait>
 			<companion>
 			</companion>
@@ -28,14 +28,11 @@
 			<name>Simus</name>
 			<gender>Male</gender>
 			<player-name>Dominic</player-name>
-			<experience>18271</experience>
+			<experience>23078</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="f9eef82d-8ef0-4569-a7c0-183cb2d2f8bc" name="Quarterstaff" range="5 ft" attack="+2 vs AC" damage="1d6-1 bludgeoning" displayed="true" ability="Strength">
 					<description><![CDATA[Versatile]]></description>
-				</attack>
-				<attack identifier="924e560b-0fc4-4a40-8212-e5c9db62c133" name="Crossbow, Light +1" range="80/320" attack="+5 vs AC" damage="1d8+2 piercing" displayed="true" ability="Dexterity">
-					<description><![CDATA[Ammunition, Loading, Two-Handed]]></description>
 				</attack>
 				<attack identifier="bbfd2502-d887-4476-b458-b6d024289f22" name="Amulet" range="5 ft" attack="-1 vs AC" damage="-1 " displayed="true" ability="Strength">
 					<description><![CDATA[]]></description>
@@ -69,23 +66,26 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 				<copper>0</copper>
 				<silver>0</silver>
 				<electrum>0</electrum>
-				<gold>1522</gold>
+				<gold>1022</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[- 10 Glass Vials
 - 4 glass jars
 - 1 Tin Man Oil Can (empty)
 
-- 3 Bloodroot (15GP)
+- 2 Bloodroot (15GP)
 - 1 Dreamleaf (50GP)
 - 1 Königsblatt (12,5GP)
-- 1 Weißkappe (25GP)
 - 3 Morgennebel (7,5GP)
-- 1 Drachenminze (10GP)
 - 1 Wurmkraut (3GP)
 - 2 Kamille (2GP)
 
-- A perfume bottle]]></treasure>
+- A perfume bottle
+
+Bag of Holding:
+ - 2x Holztür mit abgebrochenen Metallhalterungen (100pd) (Bag of Holding)
+ - 1x 6 Fuß Zaunpfahl (50pd) (Bag of Holding)
+ - 15 Rations]]></treasure>
 			</currency>
 			<notes>
 				<note column="left">
@@ -113,7 +113,7 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 			<wisdom>15</wisdom>
 			<charisma>14</charisma>
 		</abilities>
-		<elements level-count="6" registered-count="29">
+		<elements level-count="7" registered-count="30">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Level" name="1" id="ID_LEVEL_1" rndhp="8,2,7,5,7,4,4,1,4,8,2,1,8,7,3,5,1,1,2,4">
 				<element type="Race" name="Race" requiredLevel="1" checksum="1597ef76" registered="ID_RACE_HUMAN">
@@ -163,7 +163,7 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 					<element type="Proficiency" name="Saving Throw Proficiency (Wisdom)" id="ID_PROFICIENCY_SAVINGTHROW_WISDOM" />
 					<element type="Proficiency" name="Saving Throw Proficiency (Charisma)" id="ID_PROFICIENCY_SAVINGTHROW_CHARISMA" />
 					<element type="Class Feature" name="Spellcasting" id="ID_WOTC_PHB_CLASS_FEATURE_CLERIC_SPELLCASTING_CLERIC">
-						<element type="Spell" name="Cantrip (Cleric)" requiredLevel="1" number="1" checksum="0b016099" registered="ID_PHB_SPELL_SPARE_THE_DYING" />
+						<element type="Spell" name="Cantrip (Cleric)" requiredLevel="1" number="1" checksum="0b016099" registered="ID_XGTE_SPELL_WORD_OF_RADIANCE" />
 						<element type="Spell" name="Cantrip (Cleric)" requiredLevel="1" number="2" checksum="531fc9b1" registered="ID_PHB_SPELL_LIGHT" />
 						<element type="Spell" name="Cantrip (Cleric)" requiredLevel="1" number="3" checksum="d23aac96" registered="ID_PHB_SPELL_MENDING" />
 						<element type="Spell" name="Cantrip (Cleric)" requiredLevel="4" checksum="5537ba6c" registered="ID_PHB_SPELL_SACRED_FLAME" />
@@ -192,6 +192,8 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 							<element type="Spell" name="Plant Growth" id="ID_PHB_SPELL_PLANT_GROWTH" />
 							<element type="Spell" name="Wind Wall" id="ID_PHB_SPELL_WIND_WALL" />
 							<element type="Archetype Feature" name="Dampen Elements" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_DAMPEN_ELEMENTS" />
+							<element type="Spell" name="Dominate Beast" id="ID_PHB_SPELL_DOMINATE_BEAST" />
+							<element type="Spell" name="Grasping Vine" id="ID_PHB_SPELL_GRASPING_VINE" />
 						</element>
 					</element>
 					<element type="Class Feature" name="Channel Divinity" id="ID_WOTC_PHB_CLASS_FEATURE_CLERIC_CHANNELDIVINITY">
@@ -231,6 +233,7 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 			<element type="Level" name="4" id="ID_LEVEL_4" />
 			<element type="Level" name="5" id="ID_LEVEL_5" />
 			<element type="Level" name="6" id="ID_LEVEL_6" />
+			<element type="Level" name="7" id="ID_LEVEL_7" />
 		</elements>
 		<defenses>
 			<conditional>
@@ -279,22 +282,6 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 		<equipment>
 			<storage name="#1" />
 			<storage name="#2" />
-			<item identifier="104ab321-6d30-404c-8865-0ff929dafe2b" name="Crossbow, Light" id="ID_WOTC_PHB_WEAPON_CROSSBOW_LIGHT" sidebar="true">
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
-			<item identifier="9901a91b-dc8b-45b5-b3e2-e2a74818b9f5" name="Crossbow Bolt" id="ID_WOTC_PHB_ITEM_CROSSBOWBOLT" amount="17">
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
 			<item identifier="4daab639-9eb3-4859-bd66-a9c86c873d75" name="Backpack" id="ID_WOTC_PHB_ITEM_BACKPACK">
 				<details card="true">
 					<name>
@@ -327,7 +314,7 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 					</notes>
 				</details>
 			</item>
-			<item identifier="c3a41350-06d6-4937-85e5-15e50679af54" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="17">
+			<item identifier="c3a41350-06d6-4937-85e5-15e50679af54" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY">
 				<details card="true">
 					<name>
 					</name>
@@ -343,7 +330,7 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 					</notes>
 				</details>
 			</item>
-			<item identifier="dc6fc8c6-d745-45db-a0ea-a7ffc37ea2e7" name="Rope, Hempen (50 feet)" id="ID_WOTC_PHB_ITEM_ROPE_HEMPEN_50FEET" amount="2">
+			<item identifier="dc6fc8c6-d745-45db-a0ea-a7ffc37ea2e7" name="Rope, Hempen (50 feet)" id="ID_WOTC_PHB_ITEM_ROPE_HEMPEN_50FEET">
 				<details card="true">
 					<name>
 					</name>
@@ -421,7 +408,7 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 					</notes>
 				</details>
 			</item>
-			<item identifier="281283c1-1215-430d-9b43-0e97b95c4e38" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING">
+			<item identifier="281283c1-1215-430d-9b43-0e97b95c4e38" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="2">
 				<details card="true">
 					<name>
 					</name>
@@ -455,8 +442,16 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 					</notes>
 				</details>
 			</item>
+			<item identifier="183edca7-01f3-4401-837e-db1443010198" name="Potion of Healing" id="ID_WOTC_PHB_ITEM_POTIONOFHEALING">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
 		</equipment>
-		<sum element-count="95">
+		<sum element-count="98">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Level" id="ID_LEVEL_1" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_CHARACTER_BASE" />
@@ -470,7 +465,6 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 			<element type="Language" id="ID_LANGUAGE_GOBLIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_INSIGHT" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_PERSUASION" />
-			<element type="Spell" id="ID_PHB_SPELL_SPARE_THE_DYING" />
 			<element type="Spell" id="ID_PHB_SPELL_LIGHT" />
 			<element type="Spell" id="ID_PHB_SPELL_MENDING" />
 			<element type="Spell" id="ID_PHB_SPELL_DRUIDCRAFT" />
@@ -494,6 +488,8 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
 			<element type="Item" id="ID_WOTC_PHB_ITEM_AMULET" />
 			<element type="Armor" id="ID_WOTC_ARMOR_MEDIUM_BREASTPLATE" />
+			<element type="Level" id="ID_LEVEL_7" />
+			<element type="Spell" id="ID_XGTE_SPELL_WORD_OF_RADIANCE" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_CLERIC" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
@@ -551,44 +547,50 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 			<element type="Spell" id="ID_PHB_SPELL_PLANT_GROWTH" />
 			<element type="Spell" id="ID_PHB_SPELL_WIND_WALL" />
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_DAMPEN_ELEMENTS" />
+			<element type="Spell" id="ID_PHB_SPELL_DOMINATE_BEAST" />
+			<element type="Spell" id="ID_PHB_SPELL_GRASPING_VINE" />
 			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_FEAT_4_CLERIC" />
 		</sum>
 		<magic>
 			<spellcasting name="Cleric" ability="Wisdom" attack="6" dc="14" source="ID_WOTC_PHB_CLASS_FEATURE_CLERIC_SPELLCASTING_CLERIC">
-				<slots s1="4" s2="3" s3="3" s4="0" s5="0" s6="0" s7="0" s8="0" s9="0" />
+				<slots s1="4" s2="3" s3="3" s4="1" s5="0" s6="0" s7="0" s8="0" s9="0" />
 				<cantrips>
 					<spell name="Druidcraft" level="0" id="ID_PHB_SPELL_DRUIDCRAFT" />
 					<spell name="Light" level="0" id="ID_PHB_SPELL_LIGHT" />
 					<spell name="Mending" level="0" id="ID_PHB_SPELL_MENDING" />
 					<spell name="Sacred Flame" level="0" id="ID_PHB_SPELL_SACRED_FLAME" />
-					<spell name="Spare the Dying" level="0" id="ID_PHB_SPELL_SPARE_THE_DYING" />
+					<spell name="Word of Radiance" level="0" id="ID_XGTE_SPELL_WORD_OF_RADIANCE" />
 				</cantrips>
 				<spells>
 					<spell name="Animal Friendship" level="1" id="ID_PHB_SPELL_ANIMAL_FRIENDSHIP" prepared="true" always-prepared="true" known="true" />
 					<spell name="Create or Destroy Water" level="1" id="ID_PHB_SPELL_CREATE_OR_DESTROY_WATER" prepared="true" />
-					<spell name="Detect Magic" level="1" id="ID_PHB_SPELL_DETECT_MAGIC" prepared="true" />
+					<spell name="Cure Wounds" level="1" id="ID_PHB_SPELL_CURE_WOUNDS" prepared="true" />
 					<spell name="Guiding Bolt" level="1" id="ID_PHB_SPELL_GUIDING_BOLT" prepared="true" />
 					<spell name="Healing Word" level="1" id="ID_PHB_SPELL_HEALING_WORD" prepared="true" />
-					<spell name="Shield of Faith" level="1" id="ID_PHB_SPELL_SHIELD_OF_FAITH" prepared="true" />
+					<spell name="Sanctuary" level="1" id="ID_PHB_SPELL_SANCTUARY" prepared="true" />
 					<spell name="Speak with Animals" level="1" id="ID_PHB_SPELL_SPEAK_WITH_ANIMALS" prepared="true" always-prepared="true" known="true" />
 					<spell name="Barkskin" level="2" id="ID_PHB_SPELL_BARKSKIN" prepared="true" always-prepared="true" known="true" />
 					<spell name="Enhance Ability" level="2" id="ID_PHB_SPELL_ENHANCE_ABILITY" prepared="true" />
+					<spell name="Silence" level="2" id="ID_PHB_SPELL_SILENCE" prepared="true" />
 					<spell name="Spike Growth" level="2" id="ID_PHB_SPELL_SPIKE_GROWTH" prepared="true" always-prepared="true" known="true" />
 					<spell name="Spiritual Weapon" level="2" id="ID_PHB_SPELL_SPIRITUAL_WEAPON" prepared="true" />
 					<spell name="Plant Growth" level="3" id="ID_PHB_SPELL_PLANT_GROWTH" prepared="true" always-prepared="true" known="true" />
+					<spell name="Revivify" level="3" id="ID_PHB_SPELL_REVIVIFY" prepared="true" />
 					<spell name="Spirit Guardians" level="3" id="ID_PHB_SPELL_SPIRIT_GUARDIANS" prepared="true" />
 					<spell name="Wind Wall" level="3" id="ID_PHB_SPELL_WIND_WALL" prepared="true" always-prepared="true" known="true" />
+					<spell name="Dominate Beast" level="4" id="ID_PHB_SPELL_DOMINATE_BEAST" prepared="true" always-prepared="true" known="true" />
+					<spell name="Grasping Vine" level="4" id="ID_PHB_SPELL_GRASPING_VINE" prepared="true" always-prepared="true" known="true" />
 					<spell name="Bane" level="1" id="ID_PHB_SPELL_BANE" />
 					<spell name="Bless" level="1" id="ID_PHB_SPELL_BLESS" />
 					<spell name="Ceremony" level="1" id="ID_XGTE_SPELL_CEREMONY" />
 					<spell name="Command" level="1" id="ID_PHB_SPELL_COMMAND" />
-					<spell name="Cure Wounds" level="1" id="ID_PHB_SPELL_CURE_WOUNDS" />
 					<spell name="Detect Evil and Good" level="1" id="ID_PHB_SPELL_DETECT_EVIL_AND_GOOD" />
+					<spell name="Detect Magic" level="1" id="ID_PHB_SPELL_DETECT_MAGIC" />
 					<spell name="Detect Poison and Disease" level="1" id="ID_PHB_SPELL_DETECT_POISON_AND_DISEASE" />
 					<spell name="Inflict Wounds" level="1" id="ID_PHB_SPELL_INFLICT_WOUNDS" />
 					<spell name="Protection from Evil and Good" level="1" id="ID_PHB_SPELL_PROTECTION_FROM_EVIL_AND_GOOD" />
 					<spell name="Purify Food and Drink" level="1" id="ID_PHB_SPELL_PURIFY_FOOD_AND_DRINK" />
-					<spell name="Sanctuary" level="1" id="ID_PHB_SPELL_SANCTUARY" />
+					<spell name="Shield of Faith" level="1" id="ID_PHB_SPELL_SHIELD_OF_FAITH" />
 					<spell name="Aid" level="2" id="ID_PHB_SPELL_AID" />
 					<spell name="Augury" level="2" id="ID_PHB_SPELL_AUGURY" />
 					<spell name="Blindness/Deafness" level="2" id="ID_PHB_SPELL_BLINDNESS_DEAFNESS" />
@@ -601,7 +603,6 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 					<spell name="Locate Object" level="2" id="ID_PHB_SPELL_LOCATE_OBJECT" />
 					<spell name="Prayer of Healing" level="2" id="ID_PHB_SPELL_PRAYER_OF_HEALING" />
 					<spell name="Protection from Poison" level="2" id="ID_PHB_SPELL_PROTECTION_FROM_POISON" />
-					<spell name="Silence" level="2" id="ID_PHB_SPELL_SILENCE" />
 					<spell name="Warding Bond" level="2" id="ID_PHB_SPELL_WARDING_BOND" />
 					<spell name="Zone of Truth" level="2" id="ID_PHB_SPELL_ZONE_OF_TRUTH" />
 					<spell name="Animate Dead" level="3" id="ID_PHB_SPELL_ANIMATE_DEAD" />
@@ -622,11 +623,18 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 					<spell name="Motivational Speech" level="3" id="ID_WOTC_ACQINC_SPELL_MOTIVATIONAL_SPEECH" />
 					<spell name="Protection from Energy" level="3" id="ID_PHB_SPELL_PROTECTION_FROM_ENERGY" />
 					<spell name="Remove Curse" level="3" id="ID_PHB_SPELL_REMOVE_CURSE" />
-					<spell name="Revivify" level="3" id="ID_PHB_SPELL_REVIVIFY" />
 					<spell name="Sending" level="3" id="ID_PHB_SPELL_SENDING" />
 					<spell name="Speak with Dead" level="3" id="ID_PHB_SPELL_SPEAK_WITH_DEAD" />
 					<spell name="Tongues" level="3" id="ID_PHB_SPELL_TONGUES" />
 					<spell name="Water Walk" level="3" id="ID_PHB_SPELL_WATER_WALK" />
+					<spell name="Banishment" level="4" id="ID_PHB_SPELL_BANISHMENT" />
+					<spell name="Control Water" level="4" id="ID_PHB_SPELL_CONTROL_WATER" />
+					<spell name="Death Ward" level="4" id="ID_PHB_SPELL_DEATH_WARD" />
+					<spell name="Divination" level="4" id="ID_PHB_SPELL_DIVINATION" />
+					<spell name="Freedom of Movement" level="4" id="ID_PHB_SPELL_FREEDOM_OF_MOVEMENT" />
+					<spell name="Guardian of Faith" level="4" id="ID_PHB_SPELL_GUARDIAN_OF_FAITH" />
+					<spell name="Locate Creature" level="4" id="ID_PHB_SPELL_LOCATE_CREATURE" />
+					<spell name="Stone Shape" level="4" id="ID_PHB_SPELL_STONE_SHAPE" />
 				</spells>
 			</spellcasting>
 		</magic>

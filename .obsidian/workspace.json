@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "afd8e66b6942fb01",
+        "id": "ff803f346185f3d6",
         "type": "tabs",
         "children": [
           {
-            "id": "c895c64c0df896ad",
+            "id": "d380e5bca6c764c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gemeinschaftskiste.md",
+                "file": "Spieler/Spieler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gemeinschaftskiste"
-            }
-          },
-          {
-            "id": "951bbd82b8720e8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/Quest 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quest 9"
-            }
-          },
-          {
-            "id": "43e08490dc4d9e04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spieler/Kriv/Kriv.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kriv"
-            }
-          },
-          {
-            "id": "5dd28474de54ace2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spieler/Kriv/Essen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Essen"
-            }
-          },
-          {
-            "id": "5e257fa1eb0fc58f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tagebuch/241103.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "241103"
+              "title": "Spieler"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spieler/Kriv/Kriv.md",
+                "file": "Spieler/Spieler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kriv"
+              "title": "Backlinks for Spieler"
             }
           },
           {
@@ -169,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spieler/Kriv/Kriv.md",
+                "file": "Spieler/Spieler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kriv"
+              "title": "Outgoing links from Spieler"
             }
           },
           {
@@ -196,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spieler/Kriv/Kriv.md"
+                "file": "Spieler/Spieler.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Kriv"
+              "title": "Outline of Spieler"
             }
           }
         ]
@@ -219,37 +162,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d4479cdeb0fef2d",
+  "active": "d380e5bca6c764c0",
   "lastOpenFiles": [
-    "Bilder/Monster/Werebear.png",
-    "Tagebuch/241103.md",
-    "Spieler/Kriv/Kriv.md",
-    "Spieler/Spieler.md",
-    "Gemeinschaftskiste.md",
-    "Monster.md",
+    "Tagebuch/241124.md",
     "NPCs.md",
-    "Nützliche Resourcen.md",
-    "Organisationen.md",
-    "README.md",
-    "Welt.md",
-    "Quests/Quest 9.md",
-    "Quests/Quest 3.md",
+    "Gemeinschaftskiste.md",
     "Quests/Quest 5.md",
-    "Quests/Quest 6.md",
+    "Spieler/Desmond/Desmond.md",
+    "Spieler/Simus/Simus.md",
     "Quests/Quest 8.md",
+    "Quests/Quest 6.md",
+    "Spieler/Sindrir Gerrick/Sindrir Gerrick.md",
+    "Spieler/Spieler.md",
+    "Quests/Abgeschlossen/Quest 9.md",
+    "Quests/Abgeschlossen/Quest 3.md",
+    "Gegenstände/Giantslayer.md",
+    "Welt.md",
+    "Organisationen.md",
+    "Tresendar Villa/Tresendar Villa.md",
+    "Tresendar Villa/Ausbau.md",
+    "Tagebuch/241103.md",
+    "Tagebuch/241006.md",
+    "README.md",
+    "Nützliche Resourcen.md",
+    "Bilder/Monster/Werebear.png",
+    "Spieler/Kriv/Kriv.md",
+    "Monster.md",
     "Spieler/Kriv/Essen.md",
     "Spieler/Kriv/Guide.md",
     "Spieler/Kriv/Reaktionen.md",
     "Spieler/Kriv/Dra'kalthor-Clan.jpg",
-    "Tagebuch/241006.md",
     "Bilder/Weltkarte.jpg",
-    "Spieler/Ander Thorngage/Ander Thorngage.md",
-    "Spieler/Simus/Simus.md",
     "Bilder/Städte/Silverymoon/Nahansicht 1.png",
-    "Spieler/Amber Ironfist/Amber Ironfist.md",
-    "Tagebuch/240505.md",
-    "Tagebuch/240520.md",
-    "Spieler/Thokk/Thokk.md",
     "Spieler/Ander",
     "Bilder/Städte/Silverymoon/Nahansicht 2.png",
     "Spieler/Silver",
@@ -265,7 +209,6 @@
     "Aurora/amber ironfist.pdf",
     "Bilder/Städte/Phandalin/Nahansicht.png",
     "Bilder/Städte/Phandalin/Weltansicht.png",
-    "Spieler/Kriv/Schwarze-Klingen.jpg",
-    "Bilder/Boris.jpg"
+    "Spieler/Kriv/Schwarze-Klingen.jpg"
   ]
 }

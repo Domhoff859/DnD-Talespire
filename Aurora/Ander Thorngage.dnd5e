@@ -14,7 +14,7 @@
 		<archetype>
 		</archetype>
 		<background>Acolyte</background>
-		<level>6</level>
+		<level>7</level>
 		<portrait>
 			<companion>
 			</companion>
@@ -28,7 +28,7 @@
 			<name>Ander Thorngage</name>
 			<gender>Male</gender>
 			<player-name>Johannes Blab</player-name>
-			<experience>18271</experience>
+			<experience>23514</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword +1" range="5 ft" attack="+8 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
@@ -64,12 +64,12 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 			<additional-features><![CDATA[Deity: Catgirl
 
 Titel: Treant-Schlächter
-Sprache: Primordial (Elementals)      44/125 gelernt]]></additional-features>
+Sprache: Primordial (Elementals)      58/125 gelernt]]></additional-features>
 			<currency>
 				<copper>8</copper>
-				<silver>1</silver>
+				<silver>4</silver>
 				<electrum>0</electrum>
-				<gold>576</gold>
+				<gold>420</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[Mineneinnahmen: 300 - 1500 Gold/Monat
@@ -85,7 +85,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 1 Wolfsmantel (angezogen)
 1 Roter Umhang (Rotbrenner) 
 1 Köcher
-60 Bolzen
+59 Bolzen
 1 Brecheisen
 1 Hammer
 10 Nägel
@@ -98,15 +98,17 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 1 dreckige Robe (Messdiener-Goblin)
 1 Vorhang (Messdiener-Goblin)
 1 verdreckter, mottiger Umhang (König Grol)
-3 Weihwasser
+3 Weihwasser (Protection from evil and good)
 11 grüner Fetzen Stoff
 1 braunerdfarbener Umhang (zerfetzt, blutig)
 1 bläulicher Umhang mir rotem Innenfutter (Neznar, die schwarze Spinne) (angezogen)
-14 Heilige Schriften
-2 Fläschchen Schleim (Aboleth)
-1 kleiner Silberspiegel
+6 Heilige Schriften (Shield of Faith)
+1 kleiner Silberspiegel (Sanctuary)
 1 riesiger, zerfetzter Wollumhang (Frostriese)
 1 Umhang aus getrockneter Kuhhaut (Hügelriese)
+1 Stück weiße Kleidung (Aid)
+1 "wunderschöner, makelloser" Umhang
+1 Zwergenumhang
 
 1 Riesenauge
 1 blutiger Felllendenschurz]]></treasure>
@@ -129,7 +131,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<skin>Pale</skin>
 			<hair>White</hair>
 		</appearance>
-		<abilities available-points="0">
+		<abilities available-points="15">
 			<strength>16</strength>
 			<dexterity>10</dexterity>
 			<constitution>10</constitution>
@@ -137,12 +139,12 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<wisdom>12</wisdom>
 			<charisma>14</charisma>
 		</abilities>
-		<elements level-count="6" registered-count="26">
+		<elements level-count="7" registered-count="27">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
 			</element>
-			<element type="Level" name="1" id="ID_LEVEL_1" rndhp="10,9,3,10,7,7,3,7,2,1,5,5,5,2,1,6,8,3,6,8">
+			<element type="Level" name="1" id="ID_LEVEL_1" rndhp="10,9,5,10,7,7,9,7,2,1,5,5,5,2,1,6,8,3,6,8">
 				<element type="Race" name="Race" requiredLevel="1" checksum="1597ef76" registered="ID_RACE_ELF">
 					<element type="Size" name="Medium" id="ID_SIZE_MEDIUM" />
 					<element type="Vision" name="Darkvision" id="ID_VISION_DARKVISION" />
@@ -267,6 +269,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 								<element type="Archetype Feature" name="Channel Divinity: Sacred Weapon" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_CHANNEL_DIVINITY_SACRED_WEAPON" />
 								<element type="Archetype Feature" name="Channel Divinity: Turn the Unholy" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_CHANNEL_DIVINITY_TURN_THE_UNHOLY" />
 							</element>
+							<element type="Archetype Feature" name="Aura of Devotion" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_AURA_OF_DEVOTION" />
 						</element>
 					</element>
 					<element type="Class Feature" name="Ability Score Improvement" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_ASI">
@@ -304,6 +307,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Level" name="4" id="ID_LEVEL_4" />
 			<element type="Level" name="5" id="ID_LEVEL_5" />
 			<element type="Level" name="6" id="ID_LEVEL_6" />
+			<element type="Level" name="7" id="ID_LEVEL_7" />
 			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
 				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			</element>
@@ -395,7 +399,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					</notes>
 				</details>
 			</item>
-			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="16">
+			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="34">
 				<details card="true">
 					<name>
 					</name>
@@ -490,7 +494,15 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					</notes>
 				</details>
 			</item>
-			<item identifier="a89bf9c1-9fc8-4cac-b4a2-0b37d7ab0bf6" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING">
+			<item identifier="a89bf9c1-9fc8-4cac-b4a2-0b37d7ab0bf6" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="4">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="8c9ff1bd-e378-42df-915b-205b54416bec" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING" amount="2">
 				<details card="true">
 					<name>
 					</name>
@@ -499,7 +511,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 				</details>
 			</item>
 		</equipment>
-		<sum element-count="134">
+		<sum element-count="136">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -548,6 +560,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
+			<element type="Level" id="ID_LEVEL_7" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_PALADIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
@@ -633,11 +646,12 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_DEVOTION_CHANNEL_DIVINITY" />
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_CHANNEL_DIVINITY_SACRED_WEAPON" />
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_CHANNEL_DIVINITY_TURN_THE_UNHOLY" />
+			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_AURA_OF_DEVOTION" />
 			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_ASI_4_PALADIN" />
 		</sum>
 		<magic>
 			<spellcasting name="Paladin" ability="Charisma" attack="5" dc="13" source="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_SPELLCASTING">
-				<slots s1="4" s2="2" s3="0" s4="0" s5="0" s6="0" s7="0" s8="0" s9="0" />
+				<slots s1="4" s2="3" s3="0" s4="0" s5="0" s6="0" s7="0" s8="0" s9="0" />
 				<cantrips />
 				<spells>
 					<spell name="Cure Wounds" level="1" id="ID_PHB_SPELL_CURE_WOUNDS" prepared="true" />
@@ -645,6 +659,8 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					<spell name="Sanctuary" level="1" id="ID_PHB_SPELL_SANCTUARY" prepared="true" always-prepared="true" known="true" />
 					<spell name="Searing Smite" level="1" id="ID_PHB_SPELL_SEARING_SMITE" prepared="true" />
 					<spell name="Shield of Faith" level="1" id="ID_PHB_SPELL_SHIELD_OF_FAITH" prepared="true" />
+					<spell name="Aid" level="2" id="ID_PHB_SPELL_AID" prepared="true" />
+					<spell name="Find Steed" level="2" id="ID_PHB_SPELL_FIND_STEED" prepared="true" />
 					<spell name="Lesser Restoration" level="2" id="ID_PHB_SPELL_LESSER_RESTORATION" prepared="true" always-prepared="true" known="true" />
 					<spell name="Zone of Truth" level="2" id="ID_PHB_SPELL_ZONE_OF_TRUTH" prepared="true" always-prepared="true" known="true" />
 					<spell name="Bless" level="1" id="ID_PHB_SPELL_BLESS" />
@@ -658,9 +674,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					<spell name="Purify Food and Drink" level="1" id="ID_PHB_SPELL_PURIFY_FOOD_AND_DRINK" />
 					<spell name="Thunderous Smite" level="1" id="ID_PHB_SPELL_THUNDEROUS_SMITE" />
 					<spell name="Wrathful Smite" level="1" id="ID_PHB_SPELL_WRATHFUL_SMITE" />
-					<spell name="Aid" level="2" id="ID_PHB_SPELL_AID" />
 					<spell name="Branding Smite" level="2" id="ID_PHB_SPELL_BRANDING_SMITE" />
-					<spell name="Find Steed" level="2" id="ID_PHB_SPELL_FIND_STEED" />
 					<spell name="Locate Object" level="2" id="ID_PHB_SPELL_LOCATE_OBJECT" />
 					<spell name="Magic Weapon" level="2" id="ID_PHB_SPELL_MAGIC_WEAPON" />
 					<spell name="Protection from Poison" level="2" id="ID_PHB_SPELL_PROTECTION_FROM_POISON" />
