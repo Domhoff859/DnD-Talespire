@@ -57,3 +57,9 @@ Kriv verließ die Söldner und begann eine neue Reise, diesmal nicht auf der Suc
 
 **Ablehnung**:
 - Wassermelone
+
+Lieblings Essen:
+- Eulenbärsteak (aristrokatisches Essen)
+
+Lieblings Getränke:
+- Evermet Redwine (aistrokatisches Essen)

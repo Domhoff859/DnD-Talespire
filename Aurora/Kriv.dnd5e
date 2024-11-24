@@ -28,7 +28,7 @@
 			<name>Kriv</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>23000</experience>
+			<experience>23514</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="efb6620e-79d4-4e68-927d-6be54e9c25e4" name="Longsword" range="5 ft" attack="+7 vs AC" damage="1d8+4 slashing" displayed="true" ability="Strength">
@@ -39,6 +39,9 @@
 				</attack>
 				<attack identifier="166e4b55-bd48-4b33-8889-e110aeb008b1" name="Greataxe +1" range="5 ft" attack="+8 vs AC" damage="1d12+5 slashing" displayed="true" ability="Strength">
 					<description><![CDATA[Heavy, Two-Handed]]></description>
+				</attack>
+				<attack identifier="1218f6c0-6919-48f6-9069-fa442f051f76" name="Glaive +1" range="5 ft" attack="+8 vs AC" damage="1d10+5 slashing" displayed="true" ability="Strength">
+					<description><![CDATA[Heavy, Reach, Two-Handed]]></description>
 				</attack>
 			</attacks>
 			<backstory><![CDATA[.]]></backstory>
@@ -65,7 +68,7 @@
 				<copper>6</copper>
 				<silver>6</silver>
 				<electrum>1</electrum>
-				<gold>571</gold>
+				<gold>48</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[# Gewand
@@ -84,7 +87,6 @@
 - 1 Iarno (Magier) Kopf
 - 1 Schritrolle der Vorahnung
 - 1 Schriftrolle der Dunkelheit
-- 5 Zuckermelonen
 
 Was Sinvoll wäre:
 - Heiltrank kaufen
@@ -96,21 +98,36 @@ Was Sinvoll wäre:
 Karte mit Wegbeschreibung zum Horst eines grünen Drachen]]></treasure>
 			</currency>
 			<notes>
-				<note column="left">Smarakthalskette (sehr wertvoll) über einem Lageregal hinter einem Brett in einem Alchemie und Kräuterladen in Südöstliche Donerbaum
-
-Death Saving Throw:
+				<note column="left">Death Saving Throw:
 - 0 Success
 - 0 Failure
 
+Stats:
+- 66/66 HP
+- 1/1 Breath Weapon (1x per Short Rest)
+- 1/1 Vengeful Assault (1x per Short Rest)
+- 1/1 Second Wind (1x per Short Rest)
+- 1/1 Action Surge (1x per Short Rest)
+
 ### Neue Sprache lernen ###
-Dwelvisch (Zwergisch): 46/125 Benjamin bringt es mir bei
+Dwelvisch (Zwergisch): 53/125 Benjamin bringt es mir bei
 
 ### Welt ###
 Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 
 ### Zusatinventar ###
+# Gewand:
+- Seidenschlafpyjama
+# Getränke
+-  1 Fass spezielles Ale aus Hawks Nest
+# Sonstiges
 - Goldschlacke aus dem Ofen circa 10 Gold Wert
-- 1 Fass spezielles Ale aus Hawks Nest</note>
+- 1 Zuckermelonenkern mit Fruchtfleisch
+
+### Zukünftiger Plan ###
+- Feats
+  - Great Weapon Master (S-Tier)
+  - Problem Master (S-Tier)</note>
 				<note column="right">
 				</note>
 			</notes>
@@ -135,7 +152,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<wisdom>14</wisdom>
 			<charisma>9</charisma>
 		</abilities>
-		<elements level-count="7" registered-count="30">
+		<elements level-count="7" registered-count="31">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -374,7 +391,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 					</notes>
 				</details>
 			</item>
-			<item identifier="b1f4eb74-4f7b-447d-9b89-c9dab1328da7" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="25">
+			<item identifier="b1f4eb74-4f7b-447d-9b89-c9dab1328da7" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="32">
 				<details card="true">
 					<name>
 					</name>
@@ -572,8 +589,30 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 					</notes>
 				</details>
 			</item>
-			<item identifier="fbecd37d-3e93-4f63-8055-c31cdc1f604f" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
+			<item identifier="72da46ce-2bed-47df-bd34-71a7e8d39dac" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="3">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="3e788ae4-66c1-4219-b069-de92e52486cb" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE" sidebar="true">
 				<equipped location="Armor">true</equipped>
+				<items>
+					<adorner name="Armor, +1" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_1" />
+				</items>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="1218f6c0-6919-48f6-9069-fa442f051f76" name="Glaive" id="ID_WOTC_PHB_WEAPON_GLAIVE">
+				<items>
+					<adorner name="Weapon, +1" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
+				</items>
 				<details card="true">
 					<name>
 					</name>
@@ -582,7 +621,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 				</details>
 			</item>
 		</equipment>
-		<sum element-count="122">
+		<sum element-count="123">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -620,12 +659,13 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Level" id="ID_LEVEL_6" />
 			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
 			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
+			<element type="Level" id="ID_LEVEL_7" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_PROTECTION" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_GREATAXE" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
-			<element type="Level" id="ID_LEVEL_7" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_1" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_FIGHTER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
