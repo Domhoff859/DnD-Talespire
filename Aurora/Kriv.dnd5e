@@ -28,7 +28,7 @@
 			<name>Kriv</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>23514</experience>
+			<experience>25614</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="efb6620e-79d4-4e68-927d-6be54e9c25e4" name="Longsword" range="5 ft" attack="+7 vs AC" damage="1d8+4 slashing" displayed="true" ability="Strength">
@@ -110,7 +110,7 @@ Stats:
 - 1/1 Action Surge (1x per Short Rest)
 
 ### Neue Sprache lernen ###
-Dwelvisch (Zwergisch): 53/125 Benjamin bringt es mir bei
+Dwelvisch (Zwergisch): 54/125 Benjamin bringt es mir bei
 
 ### Welt ###
 Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
@@ -125,6 +125,14 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 - 1 Zuckermelonenkern mit Fruchtfleisch
 
 ### Zukünftiger Plan ###
+- Main Stats:
+  - Strength (★★★★★):
+  - Constitution (★★★★): Adds HP and healing surges, which are always good to have.
+  - Wisdom (★★★★): Makes you stickier, and boosts that all-important Will defense (the bane of Fighters since, well, forever).
+  - Dexterity (★★★): Gives you Reflex defense and AC in light armor. The thing is, Fighters can use shields (which boost AC and Reflex) and/or wear heavy armor, reducing their need for it pretty drastically. Two-handed Fighters might want a decent score here, since they don't use shields and therefore their Reflex defense is lower.
+  - Charisma (★★): Useless for fighting, and boosts the same defense as Wisdom, BUT it does see some use in your skills (Intimidate being the shining example).
+  - Intelligence (★): Your designated dump stat. Has a redundant function with Dex (except initiative), grants you a bonus to skills you will (hopefully) never have to use.
+
 - Feats
   - Great Weapon Master (S-Tier)
   - Problem Master (S-Tier)</note>
@@ -152,7 +160,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<wisdom>14</wisdom>
 			<charisma>9</charisma>
 		</abilities>
-		<elements level-count="7" registered-count="31">
+		<elements level-count="7" registered-count="32">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -303,10 +311,14 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
 				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			</element>
+			<element type="Magic Item" name="Belt of Dwarvenkind" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND">
+				<element type="Condition" name="Resistance (Poison)" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
+				<element type="Vision" name="Darkvision" id="ID_VISION_DARKVISION" />
+				<element type="Language" name="Dwarvish" id="ID_LANGUAGE_DWARVISH" />
+			</element>
 		</elements>
 		<defenses>
-			<conditional>
-			</conditional>
+			<conditional>HP: 73-8-6 = 59-1 = 58-5= 53-4 = 49+14 = 63-18 = 45-19</conditional>
 		</defenses>
 		<companion name="">
 			<attributes>
@@ -573,7 +585,9 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 					</notes>
 				</details>
 			</item>
-			<item identifier="6288f750-9a00-4571-8e5b-c7596a13f9de" name="Belt of Dwarvenkind" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND">
+			<item identifier="6288f750-9a00-4571-8e5b-c7596a13f9de" name="Belt of Dwarvenkind" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND" sidebar="true">
+				<equipped>true</equipped>
+				<attunement>true</attunement>
 				<details card="true">
 					<name>
 					</name>
@@ -621,7 +635,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 				</details>
 			</item>
 		</equipment>
-		<sum element-count="123">
+		<sum element-count="127">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -666,6 +680,10 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_1" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND" />
+			<element type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
+			<element type="Vision" id="ID_VISION_DARKVISION" />
+			<element type="Language" id="ID_LANGUAGE_DWARVISH" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_FIGHTER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
