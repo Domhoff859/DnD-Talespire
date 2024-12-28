@@ -5,7 +5,7 @@
 
 | Kupfer KP | Silber SP | Elektron EP | Gold GP | Platin PP |
 | --------- | --------- | ----------- | ------- | --------- |
-| 0         | 8         | 0           | 1265    | 0         |
+| 0         | 8         | 0           | 1585    | 0         |
 | 10->S     | 10->G     | 5->G        | 10->P   |           |
 
 ---
@@ -16,6 +16,8 @@
 - 1x [Ring of Water Walking](https://www.dndbeyond.com/magic-items/4737-ring-of-water-walking) 
 - 1x [Sword of life Stealing](https://www.dndbeyond.com/magic-items/5390-sword-of-life-stealing) 
 - 1x [Boots of Levitation](https://www.dndbeyond.com/magic-items/4588-boots-of-levitation)
+- 4x Langbogen
+- 21x Pfeile
 
 ---
 ## Tränke
@@ -28,6 +30,7 @@
 - 1x [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater) 
 - 1x [Potion of Growth](https://www.dndbeyond.com/magic-items/4707-potion-of-growth)  
 - 1x [Potion of Invisibility](https://www.dndbeyond.com/magic-items/4710-potion-of-invisibility) 
+- 3x Einfache Heiltränke
 
 ---
 ## Schriftrollen:
@@ -43,6 +46,7 @@
 - [Empfehlungsschreiben](Quests/Abgeschlossen/Quest%207) 
 - [Giant Slayer](Gegenstände/Giantslayer)
 - 2 goldene Löwenfigurinen welche wenn aktiviert Goldene Löwen beschwören (6h - einmal alle 7 Tage)
+- Leicht verbrannte Karte von Iron Slack
 
 ---
 ## Wertgegenstände
@@ -57,6 +61,9 @@
 - Samtschatule (100GP)
 - 1 roher Edelstein (15 GP)
 - 4 übergroßen Kupermünzen (je 1 Silber Wert)
+- 2x Feueropale (je 100GP)
+- 4x Kleine Rubine (je 50GP)
+- 
 
 ---
 ## Zutaten

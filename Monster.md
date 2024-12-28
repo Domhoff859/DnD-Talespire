@@ -42,18 +42,22 @@
 ## Grick
 - Kann Wände hochklettern
 ![Grick|250](Bilder/Monster/Grick.png)
-
+---
 ## Aboleth
 - Tiefseemonster
 - Kann einen Tale Swipe Angriff durchführen
 ![Aboleth|250](Bilder/Monster/Aboleth.png)
-
+---
 ## Eisriesen 
 - Immun gegen Frostschaden
 - 15 trifft
 - Schwächer als Feuerriesen
-
+![[Eisriesen.png]]
+---
 ## Feuerriesen
 - Immun gegen Feuerschaden
 - 18 trifft
-- 
+![[Feuerriesen.png]]
+---
+## Fire Elemental
+- Immunity: Fire, Poison

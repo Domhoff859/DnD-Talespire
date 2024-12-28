@@ -28,7 +28,7 @@
 			<name>Simus</name>
 			<gender>Male</gender>
 			<player-name>Dominic</player-name>
-			<experience>23078</experience>
+			<experience>25614</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="f9eef82d-8ef0-4569-a7c0-183cb2d2f8bc" name="Quarterstaff" range="5 ft" attack="+2 vs AC" damage="1d6-1 bludgeoning" displayed="true" ability="Strength">
@@ -66,25 +66,28 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 				<copper>0</copper>
 				<silver>0</silver>
 				<electrum>0</electrum>
-				<gold>1022</gold>
+				<gold>121</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
-				<treasure><![CDATA[- 10 Glass Vials
+				<treasure><![CDATA[- 1x Inspiration
+
+- 5x Revifiy
+
+- 10 Glass Vials
 - 4 glass jars
 - 1 Tin Man Oil Can (empty)
 
-- 2 Bloodroot (15GP)
 - 1 Dreamleaf (50GP)
 - 1 Königsblatt (12,5GP)
-- 3 Morgennebel (7,5GP)
-- 1 Wurmkraut (3GP)
 - 2 Kamille (2GP)
 
 - A perfume bottle
 
 Bag of Holding:
+ - 1x  Riesengroßschwert (150pd)
  - 2x Holztür mit abgebrochenen Metallhalterungen (100pd) (Bag of Holding)
  - 1x 6 Fuß Zaunpfahl (50pd) (Bag of Holding)
+ - 1x 5 Fuß Kette
  - 15 Rations]]></treasure>
 			</currency>
 			<notes>
@@ -236,8 +239,11 @@ Bag of Holding:
 			<element type="Level" name="7" id="ID_LEVEL_7" />
 		</elements>
 		<defenses>
-			<conditional>
-			</conditional>
+			<conditional>Leben: 37/37
+1st: 4/4
+2nd: 3/3
+3rd: 3/3
+4th: 2/2</conditional>
 		</defenses>
 		<companion name="">
 			<attributes>
@@ -314,7 +320,7 @@ Bag of Holding:
 					</notes>
 				</details>
 			</item>
-			<item identifier="c3a41350-06d6-4937-85e5-15e50679af54" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY">
+			<item identifier="c3a41350-06d6-4937-85e5-15e50679af54" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="12">
 				<details card="true">
 					<name>
 					</name>
@@ -381,14 +387,6 @@ Bag of Holding:
 					</notes>
 				</details>
 			</item>
-			<item identifier="c7aea1b7-b223-453e-96a4-b527362e6802" name="Bag of Holding" id="ID_WOTC_DMG_MAGIC_ITEM_BAG_OF_HOLDING">
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
 			<item identifier="924e560b-0fc4-4a40-8212-e5c9db62c133" name="Crossbow, Light" id="ID_WOTC_PHB_WEAPON_CROSSBOW_LIGHT">
 				<items>
 					<adorner name="Weapon, +1" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
@@ -408,7 +406,7 @@ Bag of Holding:
 					</notes>
 				</details>
 			</item>
-			<item identifier="281283c1-1215-430d-9b43-0e97b95c4e38" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="2">
+			<item identifier="281283c1-1215-430d-9b43-0e97b95c4e38" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="4">
 				<details card="true">
 					<name>
 					</name>
@@ -442,7 +440,15 @@ Bag of Holding:
 					</notes>
 				</details>
 			</item>
-			<item identifier="183edca7-01f3-4401-837e-db1443010198" name="Potion of Healing" id="ID_WOTC_PHB_ITEM_POTIONOFHEALING">
+			<item identifier="183edca7-01f3-4401-837e-db1443010198" name="Potion of Healing" id="ID_WOTC_PHB_ITEM_POTIONOFHEALING" amount="3">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="38197b2d-0c53-437b-b9ed-76fc675e3dba" name="Alchemist’s Supplies" id="ID_WOTC_PHB_ITEM_TOOL_ALCHEMISTS_SUPPLIES">
 				<details card="true">
 					<name>
 					</name>
@@ -465,6 +471,7 @@ Bag of Holding:
 			<element type="Language" id="ID_LANGUAGE_GOBLIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_INSIGHT" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_PERSUASION" />
+			<element type="Spell" id="ID_XGTE_SPELL_WORD_OF_RADIANCE" />
 			<element type="Spell" id="ID_PHB_SPELL_LIGHT" />
 			<element type="Spell" id="ID_PHB_SPELL_MENDING" />
 			<element type="Spell" id="ID_PHB_SPELL_DRUIDCRAFT" />
@@ -484,12 +491,11 @@ Bag of Holding:
 			<element type="Feat" id="ID_PHB_FEAT_MOBILE" />
 			<element type="Level" id="ID_LEVEL_5" />
 			<element type="Level" id="ID_LEVEL_6" />
+			<element type="Level" id="ID_LEVEL_7" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_CLOAK_OF_DISPLACEMENT" />
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
 			<element type="Item" id="ID_WOTC_PHB_ITEM_AMULET" />
 			<element type="Armor" id="ID_WOTC_ARMOR_MEDIUM_BREASTPLATE" />
-			<element type="Level" id="ID_LEVEL_7" />
-			<element type="Spell" id="ID_XGTE_SPELL_WORD_OF_RADIANCE" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_CLERIC" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
@@ -570,11 +576,11 @@ Bag of Holding:
 					<spell name="Sanctuary" level="1" id="ID_PHB_SPELL_SANCTUARY" prepared="true" />
 					<spell name="Speak with Animals" level="1" id="ID_PHB_SPELL_SPEAK_WITH_ANIMALS" prepared="true" always-prepared="true" known="true" />
 					<spell name="Barkskin" level="2" id="ID_PHB_SPELL_BARKSKIN" prepared="true" always-prepared="true" known="true" />
-					<spell name="Enhance Ability" level="2" id="ID_PHB_SPELL_ENHANCE_ABILITY" prepared="true" />
-					<spell name="Silence" level="2" id="ID_PHB_SPELL_SILENCE" prepared="true" />
 					<spell name="Spike Growth" level="2" id="ID_PHB_SPELL_SPIKE_GROWTH" prepared="true" always-prepared="true" known="true" />
 					<spell name="Spiritual Weapon" level="2" id="ID_PHB_SPELL_SPIRITUAL_WEAPON" prepared="true" />
+					<spell name="Fast Friends" level="3" id="ID_WOTC_ACQINC_SPELL_FAST_FRIENDS" prepared="true" />
 					<spell name="Plant Growth" level="3" id="ID_PHB_SPELL_PLANT_GROWTH" prepared="true" always-prepared="true" known="true" />
+					<spell name="Protection from Energy" level="3" id="ID_PHB_SPELL_PROTECTION_FROM_ENERGY" prepared="true" />
 					<spell name="Revivify" level="3" id="ID_PHB_SPELL_REVIVIFY" prepared="true" />
 					<spell name="Spirit Guardians" level="3" id="ID_PHB_SPELL_SPIRIT_GUARDIANS" prepared="true" />
 					<spell name="Wind Wall" level="3" id="ID_PHB_SPELL_WIND_WALL" prepared="true" always-prepared="true" known="true" />
@@ -596,6 +602,7 @@ Bag of Holding:
 					<spell name="Blindness/Deafness" level="2" id="ID_PHB_SPELL_BLINDNESS_DEAFNESS" />
 					<spell name="Calm Emotions" level="2" id="ID_PHB_SPELL_CALM_EMOTIONS" />
 					<spell name="Continual Flame" level="2" id="ID_PHB_SPELL_CONTINUAL_FLAME" />
+					<spell name="Enhance Ability" level="2" id="ID_PHB_SPELL_ENHANCE_ABILITY" />
 					<spell name="Find Traps" level="2" id="ID_PHB_SPELL_FIND_TRAPS" />
 					<spell name="Gentle Repose" level="2" id="ID_PHB_SPELL_GENTLE_REPOSE" />
 					<spell name="Hold Person" level="2" id="ID_PHB_SPELL_HOLD_PERSON" />
@@ -603,6 +610,7 @@ Bag of Holding:
 					<spell name="Locate Object" level="2" id="ID_PHB_SPELL_LOCATE_OBJECT" />
 					<spell name="Prayer of Healing" level="2" id="ID_PHB_SPELL_PRAYER_OF_HEALING" />
 					<spell name="Protection from Poison" level="2" id="ID_PHB_SPELL_PROTECTION_FROM_POISON" />
+					<spell name="Silence" level="2" id="ID_PHB_SPELL_SILENCE" />
 					<spell name="Warding Bond" level="2" id="ID_PHB_SPELL_WARDING_BOND" />
 					<spell name="Zone of Truth" level="2" id="ID_PHB_SPELL_ZONE_OF_TRUTH" />
 					<spell name="Animate Dead" level="3" id="ID_PHB_SPELL_ANIMATE_DEAD" />
@@ -612,7 +620,6 @@ Bag of Holding:
 					<spell name="Create Food and Water" level="3" id="ID_PHB_SPELL_CREATE_FOOD_AND_WATER" />
 					<spell name="Daylight" level="3" id="ID_PHB_SPELL_DAYLIGHT" />
 					<spell name="Dispel Magic" level="3" id="ID_PHB_SPELL_DISPEL_MAGIC" />
-					<spell name="Fast Friends" level="3" id="ID_WOTC_ACQINC_SPELL_FAST_FRIENDS" />
 					<spell name="Feign Death" level="3" id="ID_PHB_SPELL_FEIGN_DEATH" />
 					<spell name="Glyph of Warding" level="3" id="ID_PHB_SPELL_GLYPH_OF_WARDING" />
 					<spell name="Incite Greed" level="3" id="ID_WOTC_ACQINC_SPELL_INCITE_GREED" />
@@ -621,7 +628,6 @@ Bag of Holding:
 					<spell name="Mass Healing Word" level="3" id="ID_PHB_SPELL_MASS_HEALING_WORD" />
 					<spell name="Meld into Stone" level="3" id="ID_PHB_SPELL_MELD_INTO_STONE" />
 					<spell name="Motivational Speech" level="3" id="ID_WOTC_ACQINC_SPELL_MOTIVATIONAL_SPEECH" />
-					<spell name="Protection from Energy" level="3" id="ID_PHB_SPELL_PROTECTION_FROM_ENERGY" />
 					<spell name="Remove Curse" level="3" id="ID_PHB_SPELL_REMOVE_CURSE" />
 					<spell name="Sending" level="3" id="ID_PHB_SPELL_SENDING" />
 					<spell name="Speak with Dead" level="3" id="ID_PHB_SPELL_SPEAK_WITH_DEAD" />
