@@ -28,7 +28,7 @@
 			<name>Ander Thorngage</name>
 			<gender>Male</gender>
 			<player-name>Johannes Blab</player-name>
-			<experience>23514</experience>
+			<experience>25614</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword +1" range="5 ft" attack="+8 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
@@ -64,7 +64,7 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 			<additional-features><![CDATA[Deity: Catgirl
 
 Titel: Treant-Schlächter
-Sprache: Primordial (Elementals)      58/125 gelernt]]></additional-features>
+Sprache: Primordial (Elementals)      60/125 gelernt]]></additional-features>
 			<currency>
 				<copper>8</copper>
 				<silver>4</silver>
@@ -502,7 +502,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					</notes>
 				</details>
 			</item>
-			<item identifier="8c9ff1bd-e378-42df-915b-205b54416bec" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING" amount="2">
+			<item identifier="8c9ff1bd-e378-42df-915b-205b54416bec" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING">
 				<details card="true">
 					<name>
 					</name>
@@ -557,10 +557,10 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
 			<element type="Level" id="ID_LEVEL_5" />
 			<element type="Level" id="ID_LEVEL_6" />
+			<element type="Level" id="ID_LEVEL_7" />
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
-			<element type="Level" id="ID_LEVEL_7" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_PALADIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
