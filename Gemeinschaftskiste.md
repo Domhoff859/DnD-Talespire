@@ -5,7 +5,7 @@
 
 | Kupfer KP | Silber SP | Elektron EP | Gold GP | Platin PP |
 | --------- | --------- | ----------- | ------- | --------- |
-| 120       | 3         | 0           | 1850    | 0         |
+| 120       | 3         | 420         | 2120    | 0         |
 | 10->S     | 10->G     | 5->G        | 10->P   |           |
 
 ---
@@ -74,6 +74,7 @@
 - 1x Elfenhand die alchemistisch im Glas erhalten worden ist
 - 1x Zeichnung von Gruumsh
 - 1x Electrum Music Box (à 50g)
+- Tongefäß mit fliegendem Jin (à 25GP)
 
 ---
 ## Zutaten
@@ -87,6 +88,30 @@
 ---
 ## Loot
 - 1 Kletterausrüstung
+
+- 3 Kurzschwerter
+- 4 Dolche
+- 2 Kmapfäxte
+- 3 Kurzbögen
+- 3 Köcher (à 12 Pfeile)
+- 9 Pfeile+2
+- 1 Elektrum Klammern (à 250GP)
+- Flametongue Greatsword (wenn Brennt +2D6 extra fire damage)
+- 3 Dagger
+- 1 Sling
+- Pouch mit 13 Slingstones
+- 1 Handcrossbow + 12 Bolts
+- 3 Kleine Lederpocuhes à 10 Gemsstones (150GP)
+- Krob mit 10 Perlenketten (250GP)
+- 500GP Gemstone
+- 3 Elfen (Halani Meliamne (Prinzessin)) + 1 Gnome (sicher absetzen)
+- Gold Censer (250GP) + 4 Blöcke Incense (à 25GP)
+- 4 Hölzerne Ritualmasken (à 250GP)
+- Korb mit 150 GP
+- 10 Perlenketten (à 25GP)
+- 250 GP
+- 1x Greater Healing Potion
+- 
 
 ---
 

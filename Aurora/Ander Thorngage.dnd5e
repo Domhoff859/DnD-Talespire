@@ -28,7 +28,7 @@
 			<name>Ander Thorngage</name>
 			<gender>Male</gender>
 			<player-name>Johannes Blab</player-name>
-			<experience>25614</experience>
+			<experience>28215</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword +1" range="5 ft" attack="+8 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
@@ -64,7 +64,7 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 			<additional-features><![CDATA[Deity: Catgirl
 
 Titel: Treant-Schlächter
-Sprache: Primordial (Elementals)      60/125 gelernt]]></additional-features>
+Sprache: Primordial (Elementals)      62/125 gelernt]]></additional-features>
 			<currency>
 				<copper>8</copper>
 				<silver>4</silver>
@@ -94,7 +94,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 1 Fläschchen Quecksilber
 220ml Gift in Fläschchen
 1 Violettes Taschentuch von Yegg
-4 Molotovcocktails
+3 Molotovcocktails
 1 dreckige Robe (Messdiener-Goblin)
 1 Vorhang (Messdiener-Goblin)
 1 verdreckter, mottiger Umhang (König Grol)
@@ -109,6 +109,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 1 Stück weiße Kleidung (Aid)
 1 "wunderschöner, makelloser" Umhang
 1 Zwergenumhang
+1 Wolfspelzumhang (8Gold)
 
 1 Riesenauge
 1 blutiger Felllendenschurz]]></treasure>
@@ -131,7 +132,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<skin>Pale</skin>
 			<hair>White</hair>
 		</appearance>
-		<abilities available-points="15">
+		<abilities available-points="0">
 			<strength>16</strength>
 			<dexterity>10</dexterity>
 			<constitution>10</constitution>
@@ -294,7 +295,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					<element type="Proficiency" name="Religion" id="ID_PROFICIENCY_SKILL_RELIGION" />
 					<element type="Background Feature" name="Feature: Shelter of the Faithful" id="ID_BACKGROUND_FEATURE_SHELTER_OF_THE_FAITHFUL" />
 				</element>
-				<element type="Alignment" name="Alignment" requiredLevel="1" checksum="c9ac49d5" registered="ID_ALIGNMENT_NEUTRAL" />
+				<element type="Alignment" name="Alignment" requiredLevel="1" checksum="c9ac49d5" registered="ID_ALIGNMENT_LAWFUL_GOOD" />
 				<element type="Deity" name="Deity" requiredLevel="1" checksum="989cce4c" registered="" />
 				<element type="Grants" name="Base" id="ID_INTERNAL_GRANTS_CHARACTER_BASE" />
 				<element type="Grants" name="Spellcasting Base" id="ID_INTERNAL_GRANTS_SPELLCASTING_BASE" />
@@ -399,7 +400,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					</notes>
 				</details>
 			</item>
-			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="34">
+			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="33">
 				<details card="true">
 					<name>
 					</name>
@@ -494,7 +495,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					</notes>
 				</details>
 			</item>
-			<item identifier="a89bf9c1-9fc8-4cac-b4a2-0b37d7ab0bf6" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="4">
+			<item identifier="a89bf9c1-9fc8-4cac-b4a2-0b37d7ab0bf6" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="3">
 				<details card="true">
 					<name>
 					</name>
@@ -549,7 +550,6 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Background Feature" id="ID_BACKGROUND_FEATURE_SHELTER_OF_THE_FAITHFUL" />
 			<element type="Language" id="ID_LANGUAGE_DRACONIC" />
 			<element type="Language" id="ID_LANGUAGE_CELESTIAL" />
-			<element type="Alignment" id="ID_ALIGNMENT_NEUTRAL" />
 			<element type="Level" id="ID_LEVEL_2" />
 			<element type="Level" id="ID_LEVEL_3" />
 			<element type="Level" id="ID_LEVEL_4" />
@@ -561,6 +561,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
+			<element type="Alignment" id="ID_ALIGNMENT_LAWFUL_GOOD" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_PALADIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
