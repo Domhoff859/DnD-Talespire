@@ -5,7 +5,7 @@
 
 | Kupfer KP | Silber SP | Elektron EP | Gold GP | Platin PP |
 | --------- | --------- | ----------- | ------- | --------- |
-| 0         | 8         | 0           | 1585    | 0         |
+| 120       | 3         | 0           | 1850    | 0         |
 | 10->S     | 10->G     | 5->G        | 10->P   |           |
 
 ---
@@ -14,10 +14,12 @@
 - 1x alte Lederrüstung
 - 5x Javelin
 - 1x [Ring of Water Walking](https://www.dndbeyond.com/magic-items/4737-ring-of-water-walking) 
-- 1x [Sword of life Stealing](https://www.dndbeyond.com/magic-items/5390-sword-of-life-stealing) 
-- 1x [Boots of Levitation](https://www.dndbeyond.com/magic-items/4588-boots-of-levitation)
+- 1x [Sword of life Stealing](https://www.dndbeyond.com/magic-items/5390-sword-of-life-stealing)
 - 4x Langbogen
 - 21x Pfeile
+- 1x Dolch mit einer Obsidianklinge (à 50g)
+- 1x Goldplates Helm mit Gemstones und einem Goldenenamboss (à 750g)
+- 1x Zerissener Lederanzug (Zwergengröße)
 
 ---
 ## Tränke
@@ -26,11 +28,11 @@
 - 1x [Potion of Frost Giant Strenght](https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength) 
 - 1x [Potion of Mind Reading](https://www.dndbeyond.com/magic-items/4711-potion-of-mind-reading) 
 - 1x [Potion of Water Breathing](https://www.dndbeyond.com/magic-items/4715-potion-of-water-breathing) 
-- 1x [Potion of Healing](https://www.dndbeyond.com/magic-items/4708-potion-of-healing) 
+- 4x [Potion of Healing](https://www.dndbeyond.com/magic-items/4708-potion-of-healing) 
 - 1x [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater) 
 - 1x [Potion of Growth](https://www.dndbeyond.com/magic-items/4707-potion-of-growth)  
 - 1x [Potion of Invisibility](https://www.dndbeyond.com/magic-items/4710-potion-of-invisibility) 
-- 3x Einfache Heiltränke
+- 1x [Potion of Animal Friendship](https://www.dndbeyond.com/magic-items/4700-potion-of-animal-friendship)
 
 ---
 ## Schriftrollen:
@@ -40,6 +42,7 @@
 - 1x Sending
 - 1x Toungs
 - 1x Waterbreathing
+- 1x [Scroll of Lightning Bolt (lvl 3)](https://www.dndbeyond.com/spells/2167-lightning-bolt)
 
 ---
 ## Questgegenstände
@@ -52,18 +55,25 @@
 ## Wertgegenstände
 - 1x Wolfskopf
 - Skelett Knochen
-- 1x Wolfspelz - 5 SP
+- 1x Wolfspelz (5s)
 - 1x Perfümeflacon
-- 1x Goldene Halskette - 500GP
-- 2x Rubin - a 50GP
-- 5x Saphir - a 30GP
-- 7x Smaragd - a 20GP
-- Samtschatule (100GP)
-- 1 roher Edelstein (15 GP)
-- 4 übergroßen Kupermünzen (je 1 Silber Wert)
-- 2x Feueropale (je 100GP)
-- 4x Kleine Rubine (je 50GP)
-- 
+- 1x Goldene Halskette  (à 500g)
+- 2x Rubin (à 50g)
+- 5x Saphir (à 30g)
+- 7x Smaragd (à 20g)
+- Samtschatule (à 100g)
+- 1x roher Edelstein (à 15g)
+- 4x übergroßen Kupermünzen (à 1s)
+- 2x Feueropale (à 100g)
+- 4x Kleine Rubine (à 50g)
+- 3x polished Garnits (à 10g)
+- 6x Gemstones (à 100g) (gefunden bei der Chimera)
+- 1x Orkisches Kriegshorn (à 10g)
+- 1x gesprungener Spiegel mit einem Golden Rand (à 5g)
+- 1x eingedelter Silberkelch (à 12g)
+- 1x Elfenhand die alchemistisch im Glas erhalten worden ist
+- 1x Zeichnung von Gruumsh
+- 1x Electrum Music Box (à 50g)
 
 ---
 ## Zutaten
@@ -77,3 +87,8 @@
 ---
 ## Loot
 - 1 Kletterausrüstung
+
+---
+
+## Wagen
+- 20x [Javelins](https://www.dndbeyond.com/equipment/8-javelin)

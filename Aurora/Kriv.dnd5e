@@ -28,7 +28,7 @@
 			<name>Kriv</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>25614</experience>
+			<experience>26248</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="efb6620e-79d4-4e68-927d-6be54e9c25e4" name="Longsword" range="5 ft" attack="+7 vs AC" damage="1d8+4 slashing" displayed="true" ability="Strength">
@@ -71,16 +71,16 @@
 				<gold>48</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
-				<treasure><![CDATA[# Gewand
+				<treasure><![CDATA[# Zusätzliche Ausrüstung
+- Totem of Gruumsh: kleines hölzernes Idol mit einer magischen Aura; ein misslungener Angriff kann 1 mal am Tag neugerollt werden
+
+# Gewand
 - 1 Iarno (Magier) Hutt (angezogen)
 - 1 Iarno (Magier) Mantel (angezogen)
 - 1 Hawaii Hemd
 - 1 Rotenumhang
 - 1x Roter Umhang
 - 1x Siegelring aus Platin (à 50 Gold) (angezogen)
-
-# Werkzeug
-- 10 Nägel
 
 # Sonstiges
 - 1 Flasche Nachtschattenpulver
@@ -98,19 +98,8 @@ Was Sinvoll wäre:
 Karte mit Wegbeschreibung zum Horst eines grünen Drachen]]></treasure>
 			</currency>
 			<notes>
-				<note column="left">Death Saving Throw:
-- 0 Success
-- 0 Failure
-
-Stats:
-- 66/66 HP
-- 1/1 Breath Weapon (1x per Short Rest)
-- 1/1 Vengeful Assault (1x per Short Rest)
-- 1/1 Second Wind (1x per Short Rest)
-- 1/1 Action Surge (1x per Short Rest)
-
-### Neue Sprache lernen ###
-Dwelvisch (Zwergisch): 54/125 Benjamin bringt es mir bei
+				<note column="left">### Neue Sprache lernen ###
+Dwelvisch (Zwergisch): 55/125 Benjamin bringt es mir bei
 
 ### Welt ###
 Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
@@ -308,17 +297,27 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Level" name="5" id="ID_LEVEL_5" />
 			<element type="Level" name="6" id="ID_LEVEL_6" />
 			<element type="Level" name="7" id="ID_LEVEL_7" />
-			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
-				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
-			</element>
 			<element type="Magic Item" name="Belt of Dwarvenkind" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND">
 				<element type="Condition" name="Resistance (Poison)" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
 				<element type="Vision" name="Darkvision" id="ID_VISION_DARKVISION" />
 				<element type="Language" name="Dwarvish" id="ID_LANGUAGE_DWARVISH" />
 			</element>
+			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
+				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
+			</element>
 		</elements>
 		<defenses>
-			<conditional>HP: 73-8-6 = 59-1 = 58-5= 53-4 = 49+14 = 63-18 = 45-19</conditional>
+			<conditional>Hit dice expenditure: 3
+HP: 73 (72)-4=68-16-18=34-19=15+12=27-12=15+16=31
+
+0/1 Breath Weapon (1x per Short Rest)
+0/1 Vengeful Assault (1x per Short Rest)
+0/1 Second Wind (1x per Short Rest)
+0/1 Action Surge (1x per Short Rest)
+
+Death Saving Throw:
+- 0 Success
+- 0 Failure</conditional>
 		</defenses>
 		<companion name="">
 			<attributes>
@@ -603,7 +602,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 					</notes>
 				</details>
 			</item>
-			<item identifier="72da46ce-2bed-47df-bd34-71a7e8d39dac" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="3">
+			<item identifier="72da46ce-2bed-47df-bd34-71a7e8d39dac" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="2">
 				<details card="true">
 					<name>
 					</name>
@@ -677,13 +676,13 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_PROTECTION" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_GREATAXE" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
-			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
-			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
-			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_1" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND" />
 			<element type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
 			<element type="Vision" id="ID_VISION_DARKVISION" />
 			<element type="Language" id="ID_LANGUAGE_DWARVISH" />
+			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
+			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_1" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_FIGHTER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
