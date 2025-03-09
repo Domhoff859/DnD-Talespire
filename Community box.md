@@ -43,12 +43,12 @@
 - 1x Magic Weapon
 - 1x Sending
 - 1x Toungs
-- 1x Waterbreathing
+- 1x Scroll of Water Breathing
 - 1x [Scroll of Lightning Bolt (lvl 3)](https://www.dndbeyond.com/spells/2167-lightning-bolt)
 
 ---
 ## Quest items
-- [Empfehlungsschreiben](Quests/Abgeschlossen/Quest%207) 
+- [Empfehlungsschreiben](Quest%207.md) 
 - [Giant Slayer](Giantslayer.md)
 - 2 goldene Löwenfigurinen welche wenn aktiviert Goldene Löwen beschwören (6h - einmal alle 7 Tage)
 - Leicht verbrannte Karte von Iron Slack
@@ -91,18 +91,6 @@
 - 1x Tongefäß mit fliegendem Jin (à 25 GP)
 - 10x Perlenketten (à 25 GP)
 - 9x Arrows +2
-
----
-## Zutaten
-- 1x Drachengalle in Fläschchen (Gift)
-
----
-
-## Sonstiges
-- 2 große Ledersäcke
-
----
-## Loot
 - 1 Elektrum Klammern (à 250GP)
 - 3 Kleine Lederpocuhes à 10 Gemsstones (150GP)
 - Korb mit 10 Perlenketten (250GP)
@@ -112,5 +100,14 @@
 
 ---
 
-## Wagen
+## Zutaten
+- 1x Drachengalle in Fläschchen (Gift)
+
+---
+## Sonstiges
+- 2 große Ledersäcke
+
+---
+
+## Wagon
 - 20x [Javelins](https://www.dndbeyond.com/equipment/8-javelin)

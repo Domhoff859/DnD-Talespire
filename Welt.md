@@ -1,24 +1,15 @@
-![Weltkarte](./Bilder/Weltkarte.jpg)
+![Weltkarte](Weltkarte.jpg)
 
 ## Dorf - Phandalin 
 Ein kleines Dorf mit einer alten zerfallenen Villa -[Tresendar Manor](Tresendar%20Villa.md)- wo sich die Gruppe niedergelassen hat. Geleitet wird das Dorf vom Rat der Adeligen und Reichen.
 
 
-![Phandalin](Bilder/Cities/Phandalin/Weltansicht.png)
-
-
-## Die Mine
-- 6k GP gezahlt 
-- 10% vom Gewinn der Mine
-- 1% vom Gewinn für das Waisenhaus
-- 300-1500GP pro Monat (30 Tage)
-- Die Mine hat Tag 124 Angefangen zu Produzieren
-
+![Phandalin](Images/Cities/Phandalin/Weltansicht.png)
 
 ## Dreiebersdorf
 Handelssiedlung an einer Straßenkreuzung. Flaches fruchtbares Land mit kleinen Anhöhen. 
-![Dreiebersdorf](Bilder/Cities/Dreiebersdorf/Nahansicht.png)
-![Dreiebersdorf Welt](Bilder/Cities/Dreiebersdorf/Weltansicht.png)
+![Dreiebersdorf](Images/Cities/Dreiebersdorf/Nahansicht.png)
+![Dreiebersdorf Welt](Images/Cities/Dreiebersdorf/Weltansicht.png)
 Alle sechs NPCs haben Quests und Belohnungen
 
 ## Silverymoon

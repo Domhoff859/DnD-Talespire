@@ -27,7 +27,7 @@
 			<name>Kriv</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>28215</experience>
+			<experience>28415</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="efb6620e-79d4-4e68-927d-6be54e9c25e4" name="Longsword" range="5 ft" attack="+7 vs AC" damage="1d8+4 slashing" displayed="true" ability="Strength">
@@ -98,7 +98,7 @@ Karte mit Wegbeschreibung zum Horst eines grünen Drachen]]></treasure>
 			</currency>
 			<notes>
 				<note column="left">### Neue Sprache lernen ###
-Dwelvisch (Zwergisch): 55/125 Benjamin bringt es mir bei
+Dwelvisch (Zwergisch): 56/125 Benjamin bringt es mir bei
 
 ### Welt ###
 Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
@@ -292,13 +292,13 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Level" name="5" id="ID_LEVEL_5" />
 			<element type="Level" name="6" id="ID_LEVEL_6" />
 			<element type="Level" name="7" id="ID_LEVEL_7" />
+			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
+				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
+			</element>
 			<element type="Magic Item" name="Belt of Dwarvenkind" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND">
 				<element type="Condition" name="Resistance (Poison)" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
 				<element type="Vision" name="Darkvision" id="ID_VISION_DARKVISION" />
 				<element type="Language" name="Dwarvish" id="ID_LANGUAGE_DWARVISH" />
-			</element>
-			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
-				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			</element>
 		</elements>
 		<defenses>
@@ -571,16 +571,6 @@ Death Saving Throw:
 					</notes>
 				</details>
 			</item>
-			<item identifier="6288f750-9a00-4571-8e5b-c7596a13f9de" name="Belt of Dwarvenkind" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND" sidebar="true">
-				<equipped>true</equipped>
-				<attunement>true</attunement>
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
 			<item identifier="8f7ec5a6-efbd-490b-a7e1-1a631b836277" name="Grappling Hook" id="ID_WOTC_PHB_ITEM_GRAPPLINGHOOK">
 				<details card="true">
 					<name>
@@ -605,6 +595,16 @@ Death Saving Throw:
 				<items>
 					<adorner name="Weapon, +1" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
 				</items>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="878b2b92-b170-4b11-a0d2-83779df3524f" name="Belt of Dwarvenkind" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND" sidebar="true">
+				<equipped>true</equipped>
+				<attunement>true</attunement>
 				<details card="true">
 					<name>
 					</name>
@@ -652,13 +652,13 @@ Death Saving Throw:
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_PROTECTION" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_GREATAXE" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
+			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
+			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_1" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND" />
 			<element type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
 			<element type="Vision" id="ID_VISION_DARKVISION" />
 			<element type="Language" id="ID_LANGUAGE_DWARVISH" />
-			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
-			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
-			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_1" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_FIGHTER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />

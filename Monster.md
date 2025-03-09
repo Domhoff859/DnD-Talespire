@@ -1,7 +1,7 @@
 ## Nothic
 - Bewacht einen Schatz in der Tresendar Villa
 - Kann einen verfaulten Blick anwenden -> macht viel Schaden
-![Nothic|250](Bilder/Monster/Nothic.png)
+![Nothic|250](Nothic.png)
 
 ---
 ## Vanomfang
@@ -15,14 +15,14 @@
 - Donerbraum (nicht mehr aktuell)
 	- Lebt in einem Turm in Donerbraum (hat vermutlich 140-150 Leben)
 	- Alle 5-6 Runden kann er einen Giftangriffen welcher maximal 72 Schaden pro Spieler zufügt
-![Vanomfang|250](Bilder/Monster/Vanomfang.png)
+![Vanomfang|250](Vanomfang.png)
 
 ---
 ## Beobachter
 - Beschützt Gegenstände
 - Stirbt wenn es erblindet (z.B. weil ein Pfeil das Mitte des Auges getroffen hatte)
 - Sprache: `common`
-![Beobachter|250](Bilder/Monster/Beobachter.png)
+![Beobachter|250](Beobachter.png)
 
 ---
 ## Gargoyle
@@ -36,17 +36,17 @@
 - Kann einen Feuerball casten
 - Braucht circa 1 Stunde um wieder volles Leben zu kriegen
 - Der Schädel kann mit Weihwasser getötet werden
-![Flamenschädel|250](Bilder/Monster/Flamenschädel.png)
+![Flamenschädel|250](Flamenschädel.png)
 
 ---
 ## Grick
 - Kann Wände hochklettern
-![Grick|250](Bilder/Monster/Grick.png)
+![Grick|250](Grick.png)
 ---
 ## Aboleth
 - Tiefseemonster
 - Kann einen Tale Swipe Angriff durchführen
-![Aboleth|250](Bilder/Monster/Aboleth.png)
+![Aboleth|250](Aboleth.png)
 ---
 ## Eisriesen 
 - Immun gegen Frostschaden

@@ -56,7 +56,7 @@
 - **True Sight**: Gibt dem Nutzer die Fähigkeit [True Sight](Abilities.md#True%20Sight)
 - **Begrenzte Nutzung**: Die Fähigkeiten des Juwels können bis zu **3 Mal** verwendet werden. Bei der Verwendung der **letzten Ladung** kann es sein das das Juwel seine magischen Fähigkeiten verliert und zu einem gewöhnlichen Edelstein wird **(1d20=1)**. Die Ladungen erneuern sich zu **Beginn jedes Tages um 1d3**
 - **Begrenzte Dauer**: Der Effekt hält für eine Dauer von **10 Minuten**
-![Gem of Seeing](Bilder/GemOfSeeing.png)
+![Gem of Seeing](GemOfSeeing.png)
 ---
 ## Staff of Magic Missile
 - **Wirken von Magic Missile**: Der Stab erlaubt es dem Träger, den Zauber "Magic Missile" zu wirken, ohne dass er dazu über eigene Zauberfähigkeiten verfügen muss. "Magic Missile" ist ein Zauber, der automatisch trifft und magischen Schaden verursacht, unabhängig von der Rüstung oder anderen Verteidigungsmaßnahmen des Ziels.

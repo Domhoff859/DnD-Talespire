@@ -1,7 +1,7 @@
 ## Boris
 - Treuer Begleiter 
-![](Bilder/Boris%20Stats.png)
-![](Bilder/Boris.jpg)
+![](Boris%20Stats.png)
+![](Boris.jpg)
 
 
 ## Golden Lion
