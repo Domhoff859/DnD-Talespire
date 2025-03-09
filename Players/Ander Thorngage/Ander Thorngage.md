@@ -4,8 +4,8 @@
 **Klasse:** Paladin
 
 Seziall Gegenstände:
- - [Staff of Charming](Effekte/Ausrüstung#Staff%20of%20Charming) 
-- [Weapon of Warning](Effekte/Ausrüstung.md#Weapon%20of%20Warning) 
+ - [Staff of Charming](Equipment.md#Staff%20of%20Charming) 
+- [Weapon of Warning](Equipment.md#Weapon%20of%20Warning) 
 
 Flüche:
 - Fluch des Werbären

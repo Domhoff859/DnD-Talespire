@@ -8,7 +8,7 @@
 **Sprachen**: Common (sprechen/lesen/schreiben), Draconic (sprechen), Giant (sprechen), Abyssal (sprechen)
 
 Sepziall Gegenstände:
-- [Belt of dwarven kind](Effekte/Ausrüstung#Belt%20of%20dwarven%20kind) 
+- [Belt of dwarven kind](Equipment.md#Belt%20of%20dwarven%20kind) 
 
 Flüche:
 - Fluch des [Werbären![[Werebear.png]]](https://www.dndbeyond.com/monsters/17053-werebear)

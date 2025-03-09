@@ -4,7 +4,7 @@
 **Klasse:** Fighter, Cleric
 
 Speziall Gegenstände:
-- [Ring of Jumping](Effekte/Ausrüstung.md#Ring%20of%20Jumping)
+- [Ring of Jumping](Equipment.md#Ring%20of%20Jumping)
 
 Schriftrollen:
 - 1x Lightning Bolt

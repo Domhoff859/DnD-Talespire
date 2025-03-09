@@ -148,18 +148,13 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<wisdom>14</wisdom>
 			<charisma>9</charisma>
 		</abilities>
-		<elements level-count="7" registered-count="32">
+		<elements level-count="7" registered-count="30">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
 			</element>
 			<element type="Level" name="1" id="ID_LEVEL_1" rndhp="10,7,4,6,9,9,7,1,1,6,6,1,2,9,5,4,8,10,7,4">
 				<element type="Race" name="Race" requiredLevel="1" checksum="1597ef76" registered="ID_RACE_DRAGONBORN">
-					<element type="Race Variant" name="Dragonborn Variant" requiredLevel="1" checksum="de1c8f81" registered="ID_WOTC_EGTW_RACE_VARIANT_DRAGONBORN_RAVENITE">
-						<element type="Grants" name="Dragonborn Variant" id="ID_WOTC_EGTW_GRANTS_DRAGONBORN_VARIANT" />
-						<element type="Vision" name="Darkvision" id="ID_VISION_DARKVISION" />
-						<element type="Racial Trait" name="Vengeful Assault" id="ID_WOTC_EGTW_RACIAL_TRAIT_RAVENITE_VENGEFUL_ASSAULT" />
-					</element>
 					<element type="Size" name="Medium" id="ID_SIZE_MEDIUM" />
 					<element type="Language" name="Common" id="ID_LANGUAGE_COMMON" />
 					<element type="Language" name="Draconic" id="ID_LANGUAGE_DRACONIC" />
@@ -167,6 +162,9 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 						<element type="Racial Trait" name="Draconic Ancestry" requiredLevel="1" checksum="62b5ccd3" registered="ID_RACIAL_TRAIT_DRACONIC_ANCESTRY_WHITE" />
 					</element>
 					<element type="Racial Trait" name="Breath Weapon" id="ID_RACIAL_TRAIT_BREATH_WEAPON" />
+					<element type="Racial Trait" name="Damage Resistance" id="ID_RACIAL_TRAIT_DAMAGE_RESISTANCE">
+						<element type="Condition" name="Resistance (Cold)" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
+					</element>
 				</element>
 				<element type="Class" name="Class" requiredLevel="1" checksum="33a7b15b" registered="ID_WOTC_PHB_CLASS_FIGHTER">
 					<element type="Proficiency" name="Skill Proficiency (Fighter)" requiredLevel="1" number="1" checksum="5f3c7a8a" registered="ID_PROFICIENCY_SKILL_INTIMIDATION" />
@@ -182,7 +180,6 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 						<element type="Proficiency" name="Armor Proficiency (Scale Mail)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_SCALE_MAIL" />
 						<element type="Proficiency" name="Armor Proficiency (Breastplate)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_BREASTPLATE" />
 						<element type="Proficiency" name="Armor Proficiency (Half Plate)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_HALF_PLATE" />
-						<element type="Proficiency" name="Armor Proficiency (Spiked Armor)" id="ID_SCAG_PROFICIENCY_ARMOR_PROFICIENCY_SPIKED_ARMOR" />
 					</element>
 					<element type="Proficiency" name="Armor Proficiency (Heavy Armor)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_HEAVY_ARMOR">
 						<element type="Proficiency" name="Armor Proficiency (Ring Mail)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_RING_MAIL" />
@@ -234,7 +231,6 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 							<element type="Proficiency" name="Weapon Proficiency (War Pick)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_WAR_PICK" />
 							<element type="Proficiency" name="Weapon Proficiency (Warhammer)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_WARHAMMER" />
 							<element type="Proficiency" name="Weapon Proficiency (Whip)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_WHIP" />
-							<element type="Proficiency" name="Weapon Proficiency (Double-Bladed Scimitar)" id="ID_WOTC_ERLW_WEAPON_PROFICIENCY_DOUBLE_BLADED_SCIMITAR" />
 						</element>
 						<element type="Proficiency" name="Weapon Proficiency (Martial Ranged Weapons)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_MARTIAL_RANGED_WEAPONS">
 							<element type="Proficiency" name="Weapon Proficiency (Blowgun)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_BLOWGUN" />
@@ -260,7 +256,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 					</element>
 					<element type="Class Feature" name="Ability Score Improvement" id="ID_WOTC_PHB_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_FIGHTER">
 						<element type="Class Feature" name="Improvement Option (Fighter 4)" requiredLevel="4" checksum="bdeed0c6" registered="ID_INTERNAL_CLASS_FEATURE_FEAT_4_FIGHTER">
-							<element type="Feat" name="Feat (FIGHTER 4)" requiredLevel="4" checksum="4969331d" registered="ID_PHB_FEAT_SENTINEL" />
+							<element type="Feat" name="Feat (FIGHTER 4)" requiredLevel="4" checksum="4969331d" registered="" />
 						</element>
 						<element type="Class Feature" name="Improvement Option (Fighter 6)" requiredLevel="6" checksum="5be42283" registered="ID_INTERNAL_CLASS_FEATURE_ASI_6_FIGHTER">
 							<element type="Ability Score Improvement" name="Ability Score Increase (FIGHTER 6)" requiredLevel="6" number="1" checksum="02d78713" registered="ID_INTERNAL_ASI_STRENGTH" />
@@ -307,12 +303,12 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 		</elements>
 		<defenses>
 			<conditional>Hit dice expenditure: 3
-HP: 73 (72)-4=68-16-18=34-19=15+12=27-12=15+16=21
+HP: 66
 
-0/1 Breath Weapon (1x per Short Rest)
-0/1 Vengeful Assault (1x per Short Rest)
-0/1 Second Wind (1x per Short Rest)
-0/1 Action Surge (1x per Short Rest)
+1/1 Breath Weapon (1x per Short Rest)
+1/1 Vengeful Assault (1x per Short Rest)
+1/1 Second Wind (1x per Short Rest)
+1/1 Action Surge (1x per Short Rest)
 
 Death Saving Throw:
 - 0 Success
@@ -617,7 +613,7 @@ Death Saving Throw:
 				</details>
 			</item>
 		</equipment>
-		<sum element-count="127">
+		<sum element-count="122">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -633,10 +629,8 @@ Death Saving Throw:
 			<element type="Language" id="ID_LANGUAGE_DRACONIC" />
 			<element type="Racial Trait" id="ID_RACIAL_TRAIT_DRACONIC_ANCESTRY" />
 			<element type="Racial Trait" id="ID_RACIAL_TRAIT_BREATH_WEAPON" />
-			<element type="Race Variant" id="ID_WOTC_EGTW_RACE_VARIANT_DRAGONBORN_RAVENITE" />
-			<element type="Grants" id="ID_WOTC_EGTW_GRANTS_DRAGONBORN_VARIANT" />
-			<element type="Vision" id="ID_VISION_DARKVISION" />
-			<element type="Racial Trait" id="ID_WOTC_EGTW_RACIAL_TRAIT_RAVENITE_VENGEFUL_ASSAULT" />
+			<element type="Racial Trait" id="ID_RACIAL_TRAIT_DAMAGE_RESISTANCE" />
+			<element type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
 			<element type="Racial Trait" id="ID_RACIAL_TRAIT_DRACONIC_ANCESTRY_WHITE" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_INTIMIDATION" />
 			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_PERCEPTION" />
@@ -650,7 +644,6 @@ Death Saving Throw:
 			<element type="Level" id="ID_LEVEL_2" />
 			<element type="Level" id="ID_LEVEL_3" />
 			<element type="Level" id="ID_LEVEL_4" />
-			<element type="Feat" id="ID_PHB_FEAT_SENTINEL" />
 			<element type="Level" id="ID_LEVEL_5" />
 			<element type="Level" id="ID_LEVEL_6" />
 			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
@@ -677,7 +670,6 @@ Death Saving Throw:
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_SCALE_MAIL" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_BREASTPLATE" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_HALF_PLATE" />
-			<element type="Proficiency" id="ID_SCAG_PROFICIENCY_ARMOR_PROFICIENCY_SPIKED_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_HEAVY_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_RING_MAIL" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_CHAIN_MAIL" />
@@ -723,7 +715,6 @@ Death Saving Throw:
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_WAR_PICK" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_WARHAMMER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_WHIP" />
-			<element type="Proficiency" id="ID_WOTC_ERLW_WEAPON_PROFICIENCY_DOUBLE_BLADED_SCIMITAR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_MARTIAL_RANGED_WEAPONS" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_BLOWGUN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_CROSSBOW_HAND" />

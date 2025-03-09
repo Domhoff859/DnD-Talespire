@@ -1,6 +1,6 @@
 Die „Schwarze Klingen“ sind eine berüchtigte Söldnertruppe, die seit Jahrzehnten in den dunklen Ecken der Welt operiert. Ihr Ruf als gnadenlose Krieger, die für den richtigen Preis jeden Auftrag annehmen, hat sie zu einer der gefürchtetsten und gefragtesten Söldnergruppen in den Reichen gemacht. Doch die Ursprünge der Schwarze Klingen sind so düster und komplex wie die Aufträge, die sie ausführen.
 
-![Schwarze Klingen|250](Spieler/Kriv/Schwarze-Klingen.jpg)
+![Schwarze Klingen|250](Schwarze-Klingen.jpg)
 
 ### Die Gründung
 Die Schwarze Klingen wurden vor über einem Jahrhundert von einem abtrünnigen Ritter namens Armand Schwarzherr gegründet. Armand war einst ein angesehener Krieger im Dienste eines mächtigen Barons, doch seine skrupellose Art und seine Bereitschaft, alles und jeden für Macht zu opfern, führten zu seinem Sturz. Verraten und entehrt, sammelte Armand andere Ausgestoßene und verlorene Seelen um sich – Männer und Frauen, die nichts mehr zu verlieren hatten und deren Loyalität nur demjenigen gehörte, der sie bezahlen konnte.

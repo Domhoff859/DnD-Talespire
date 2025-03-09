@@ -1,4 +1,4 @@
-## Architektur
+## Architecture
 ### Erdgeschos
 - Am Eingang steht ein Meisterwerk von Statue aus
 	- Langschwert

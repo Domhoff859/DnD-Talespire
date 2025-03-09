@@ -1,7 +1,7 @@
 **Name des Clans:** Dra'kalthor  
 **Standort:** Dorant-Gebirge  
 **Wappen:**
-![Dra'kalthor|250](Spieler/Kriv/Dra'kalthor-Clan.jpg)
+![Dra'kalthor|250](Dra'kalthor-Clan.jpg)
 
 ### Beschreibung
 Der Dra'kalthor-Clan ist einer der ältesten und angesehensten Dragonborn-Clans, dessen Wurzeln tief in die uralten Traditionen der Drachen zurückreichen. Gelegen in den abgelegenen und schneebedeckten Gipfeln des Dorant-Gebirges, führt der Clan ein Leben, das stark von Disziplin, Ehre und Gemeinschaft geprägt ist. Sie sehen sich als die Erben eines mächtigen Erbes, das von ihren Ahnen, den Drachen selbst, weitergegeben wurde.
