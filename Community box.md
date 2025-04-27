@@ -5,7 +5,7 @@
 
 | Kupfer KP | Silber SP | Elektron EP | Gold GP | Platin PP |
 | --------- | --------- | ----------- | ------- | --------- |
-| 120       | 3         | 420         | 2520    | 0         |
+| 120       | 323       | 420         | 3130    | 0         |
 | 10->S     | 10->G     | 5->G        | 10->P   |           |
 
 ---
@@ -29,12 +29,10 @@
 - 1x [Potion of Frost Giant Strenght](https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength) 
 - 1x [Potion of Mind Reading](https://www.dndbeyond.com/magic-items/4711-potion-of-mind-reading) 
 - 1x [Potion of Water Breathing](https://www.dndbeyond.com/magic-items/4715-potion-of-water-breathing) 
-- 4x [Potion of Healing](https://www.dndbeyond.com/magic-items/4708-potion-of-healing) 
-- 1x [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater) 
 - 1x [Potion of Growth](https://www.dndbeyond.com/magic-items/4707-potion-of-growth)  
 - 1x [Potion of Invisibility](https://www.dndbeyond.com/magic-items/4710-potion-of-invisibility) 
 - 1x [Potion of Animal Friendship](https://www.dndbeyond.com/magic-items/4700-potion-of-animal-friendship)
-- 1x [Potion of Greater Healing](https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater)
+- 1x Potion of Stone Skin (immunity to non magical damage for 1 hour)
 
 ---
 ## Scrolls
@@ -64,12 +62,16 @@
 - 1x Climber's Kit (à 25 GP)
 - 1x Crossbowd, Hand (à 75 GP) + 12 Crossbow Bolt (à 5 CP)
 - 1x Sling with 13 Sling Bullets
+- 3x Glücksteine (Kiesel mit Blut und Ashe bemahlt)
 
 ---
 ## Valuable items
+- 2x Salamanderschuppen (every 4 à 150 GP)
+	- Aus Salamderschuppen kann ein Umhang der Feuerresistenz angefertigt werden
 - 1x Wolfskopf
 - Skelett Knochen
 - 1x Wolfspelz (5 SP)
+- 2x Wolfsfälle (à 1)
 - 1x Perfümeflacon
 - 1x Goldene Halskette  (à 500 GP)
 - 2x Rubin (à 50 GP)
@@ -80,6 +82,7 @@
 - 4x übergroßen Kupermünzen (à 1 SP)
 - 2x Feueropale (à 100 GP)
 - 4x Kleine Rubine (à 50 GP)
+- 3x Rubin (à 100 GP)
 - 3x polished Garnits (à 10 GP)
 - 6x Gemstones (à 100 GP) (gefunden bei der Chimera)
 - 1x Orkisches Kriegshorn (à 10 GP)
@@ -97,6 +100,11 @@
 - 500GP Gemstone
 - Gold Censer (250GP) + 4 Blöcke Incense (à 25GP)
 - 4 Hölzerne Ritualmasken (à 250GP)
+- 1x Firered Saphir (à 500 GP)
+- 1x Plumper Goldring (à 15 GP
+- 6x kleine Edelsteine (à 25 GP)
+- 1x Zeremonilles Kurzschwert (à 50 GP)
+- 1x Schwere Pergamentrollte: Ritaul der Blutmondverwandlung (schwarze Magie) (à 5000 GP)
 
 ---
 
@@ -111,3 +119,4 @@
 
 ## Wagon
 - 20x [Javelins](https://www.dndbeyond.com/equipment/8-javelin)
+- 21x Greate Axe

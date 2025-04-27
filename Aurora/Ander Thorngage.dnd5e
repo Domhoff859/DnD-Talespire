@@ -28,7 +28,7 @@
 			<name>Ander Thorngage</name>
 			<gender>Male</gender>
 			<player-name>Johannes Blab</player-name>
-			<experience>28215</experience>
+			<experience>31641</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword +1" range="5 ft" attack="+8 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
@@ -36,6 +36,9 @@
 				</attack>
 				<attack identifier="16147894-e516-4ed0-9de6-319307542b61" name="Crossbow, Heavy +1" range="100/400" attack="+5 vs AC" damage="1d10+2 piercing" displayed="true" ability="Dexterity">
 					<description><![CDATA[Ammunition, Heavy, Loading, Two-Handed]]></description>
+				</attack>
+				<attack identifier="0e3f1584-45bc-45fa-95f2-a07908ab290d" name="Giant Slayer" range="5 ft" attack="+8 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
+					<description><![CDATA[Versatile]]></description>
 				</attack>
 			</attacks>
 			<backstory><![CDATA[You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.
@@ -64,12 +67,12 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 			<additional-features><![CDATA[Deity: Catgirl
 
 Titel: Treant-Schlächter
-Sprache: Primordial (Elementals)      62/125 gelernt]]></additional-features>
+Sprache: Primordial (Elementals)      65/125 gelernt]]></additional-features>
 			<currency>
 				<copper>8</copper>
 				<silver>4</silver>
 				<electrum>0</electrum>
-				<gold>420</gold>
+				<gold>423</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[Mineneinnahmen: 300 - 1500 Gold/Monat
@@ -110,9 +113,15 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 1 "wunderschöner, makelloser" Umhang
 1 Zwergenumhang
 1 Wolfspelzumhang (8Gold)
+2 Feuersalamanderschuppen
+1 Viole mit Wolfsblut
+1 Stofffetzen
+1 Oil of Sharpness (Waffe auf +3magisch angehoben, 1Stunde)
 
 1 Riesenauge
-1 blutiger Felllendenschurz]]></treasure>
+1 blutiger Felllendenschurz
+1 Trophäenkette mit abgeschnittenen Ohren
+2 Kinderschuh]]></treasure>
 			</currency>
 			<notes>
 				<note column="left">
@@ -140,7 +149,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<wisdom>12</wisdom>
 			<charisma>14</charisma>
 		</abilities>
-		<elements level-count="7" registered-count="27">
+		<elements level-count="7" registered-count="29">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -495,7 +504,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					</notes>
 				</details>
 			</item>
-			<item identifier="a89bf9c1-9fc8-4cac-b4a2-0b37d7ab0bf6" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="3">
+			<item identifier="a89bf9c1-9fc8-4cac-b4a2-0b37d7ab0bf6" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING">
 				<details card="true">
 					<name>
 					</name>
@@ -503,7 +512,19 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					</notes>
 				</details>
 			</item>
-			<item identifier="8c9ff1bd-e378-42df-915b-205b54416bec" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING">
+			<item identifier="e9621c48-5cf3-4952-8490-7ecebba9f146" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING" amount="2">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="0e3f1584-45bc-45fa-95f2-a07908ab290d" name="Longsword" id="ID_WOTC_PHB_WEAPON_LONGSWORD" sidebar="true">
+				<equipped location="Primary Hand">true</equipped>
+				<items>
+					<adorner name="Giant Slayer" id="ID_WOTC_DMG_MAGIC_ITEM_GIANT_SLAYER" />
+				</items>
 				<details card="true">
 					<name>
 					</name>
@@ -512,7 +533,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 				</details>
 			</item>
 		</equipment>
-		<sum element-count="136">
+		<sum element-count="138">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -550,6 +571,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Background Feature" id="ID_BACKGROUND_FEATURE_SHELTER_OF_THE_FAITHFUL" />
 			<element type="Language" id="ID_LANGUAGE_DRACONIC" />
 			<element type="Language" id="ID_LANGUAGE_CELESTIAL" />
+			<element type="Alignment" id="ID_ALIGNMENT_LAWFUL_GOOD" />
 			<element type="Level" id="ID_LEVEL_2" />
 			<element type="Level" id="ID_LEVEL_3" />
 			<element type="Level" id="ID_LEVEL_4" />
@@ -561,7 +583,8 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
-			<element type="Alignment" id="ID_ALIGNMENT_LAWFUL_GOOD" />
+			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_LONGSWORD" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_GIANT_SLAYER" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_PALADIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
