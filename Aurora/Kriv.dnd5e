@@ -148,7 +148,7 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<wisdom>14</wisdom>
 			<charisma>9</charisma>
 		</abilities>
-		<elements level-count="7" registered-count="33">
+		<elements level-count="7" registered-count="30">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -299,18 +299,10 @@ Wir haben das Tresender Anwesen gekauft und alle Schlösser für 200g erneuert
 			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
 				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			</element>
-			<element type="Magic Item" name="Belt of Dwarvenkind" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND">
-				<element type="Condition" name="Resistance (Poison)" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
-				<element type="Vision" name="Darkvision" id="ID_VISION_DARKVISION" />
-				<element type="Language" name="Dwarvish" id="ID_LANGUAGE_DWARVISH" />
-			</element>
-			<element type="Magic Item" name="Ring of Resistance, Fire" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_RESISTANCE_FIRE">
-				<element type="Condition" name="Resistance (Fire)" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FIRE" />
-			</element>
 		</elements>
 		<defenses>
 			<conditional>Hit dice expenditure: 0
-HP: 73
+HP: 66
 
 1/1 Breath Weapon (1x per Short Rest)
 1/1 Vengeful Assault (1x per Short Rest)
@@ -508,16 +500,6 @@ Death Saving Throw:
 					</notes>
 				</details>
 			</item>
-			<item identifier="ce8a8bc0-80a5-454d-a57c-31e46feb543f" name="Ring of Protection" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_PROTECTION" sidebar="true">
-				<equipped>true</equipped>
-				<attunement>true</attunement>
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
 			<item identifier="3b475d89-ffd0-4f9d-9cc1-e38516affc88" name="Studded Leather" id="ID_WOTC_ARMOR_LIGHT_STUDDED_LEATHER">
 				<details card="true">
 					<name>
@@ -609,26 +591,6 @@ Death Saving Throw:
 					</notes>
 				</details>
 			</item>
-			<item identifier="878b2b92-b170-4b11-a0d2-83779df3524f" name="Belt of Dwarvenkind" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND" sidebar="true">
-				<equipped>true</equipped>
-				<attunement>true</attunement>
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
-			<item identifier="1dbc276c-1824-4183-bba4-ddb870df25a6" name="Ring of Resistance, Fire" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_RESISTANCE_FIRE" sidebar="true">
-				<equipped>true</equipped>
-				<attunement>true</attunement>
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
 			<item identifier="a12a1df5-cf57-4e99-8ee3-eaf8336ff2f7" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="2">
 				<details card="true">
 					<name>
@@ -638,7 +600,7 @@ Death Saving Throw:
 				</details>
 			</item>
 		</equipment>
-		<sum element-count="129">
+		<sum element-count="122">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -677,18 +639,11 @@ Death Saving Throw:
 			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
 			<element type="Ability Score Improvement" id="ID_INTERNAL_ASI_STRENGTH" />
 			<element type="Level" id="ID_LEVEL_7" />
-			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_PROTECTION" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_GREATAXE" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_1" />
-			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND" />
-			<element type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
-			<element type="Vision" id="ID_VISION_DARKVISION" />
-			<element type="Language" id="ID_LANGUAGE_DWARVISH" />
-			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_RESISTANCE_FIRE" />
-			<element type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FIRE" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_FIGHTER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />

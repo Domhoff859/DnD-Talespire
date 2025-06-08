@@ -5,21 +5,13 @@
 
 | Kupfer KP | Silber SP | Elektron EP | Gold GP | Platin PP |
 | --------- | --------- | ----------- | ------- | --------- |
-| 120       | 323       | 420         | 3130    | 0         |
+| 2         | 7         | 420         | 131     | 0         |
 | 10->S     | 10->G     | 5->G        | 10->P   |           |
 
 ---
 ## Equipment
-- 2x Köcher je 20 Bolzen
-- 1x alte Lederrüstung
-- 5x Javelin
 - 1x [Ring of Water Walking](https://www.dndbeyond.com/magic-items/4737-ring-of-water-walking) 
 - 1x [Sword of life Stealing](https://www.dndbeyond.com/magic-items/5390-sword-of-life-stealing)
-- 4x Langbogen
-- 21x Pfeile
-- 1x Dolch mit einer Obsidianklinge (à 50g)
-- 1x Goldplates Helm mit Gemstones und einem Goldenenamboss (à 750g)
-- 1x Zerissener Lederanzug (Zwergengröße)
 - 1x [Flame Tongue Greatsword](https://www.dndbeyond.com/magic-items/4638-flame-tongue-greatsword)
 
 ---
@@ -54,13 +46,7 @@
 ---
 
 ## Items
-- 3x Shortsword (à 10 GP)
-- 7x Dagger (à 2 GP)
-- 2x Battleaxe (à 10 GP)
-- 2x Shortbow (à 25 GP)
-- 3x Quiver (à 1 GP) with each 12 Arrows (à 5 CP)
 - 1x Climber's Kit (à 25 GP)
-- 1x Crossbowd, Hand (à 75 GP) + 12 Crossbow Bolt (à 5 CP)
 - 1x Sling with 13 Sling Bullets
 - 3x Glücksteine (Kiesel mit Blut und Ashe bemahlt)
 
@@ -68,43 +54,12 @@
 ## Valuable items
 - 2x Salamanderschuppen (every 4 à 150 GP)
 	- Aus Salamderschuppen kann ein Umhang der Feuerresistenz angefertigt werden
-- 1x Wolfskopf
 - Skelett Knochen
-- 1x Wolfspelz (5 SP)
-- 2x Wolfsfälle (à 1)
 - 1x Perfümeflacon
-- 1x Goldene Halskette  (à 500 GP)
-- 2x Rubin (à 50 GP)
-- 5x Saphir (à 30 GP)
-- 7x Smaragd (à 20 GP)
-- Samtschatule (à 100 GP)
-- 1x roher Edelstein (à 15 GP)
-- 4x übergroßen Kupermünzen (à 1 SP)
-- 2x Feueropale (à 100 GP)
-- 4x Kleine Rubine (à 50 GP)
-- 3x Rubin (à 100 GP)
-- 3x polished Garnits (à 10 GP)
-- 6x Gemstones (à 100 GP) (gefunden bei der Chimera)
-- 1x Orkisches Kriegshorn (à 10 GP)
-- 1x gesprungener Spiegel mit einem Golden Rand (à 5 GP)
-- 1x eingedelter Silberkelch (à 12 GP)
 - 1x Elfenhand die alchemistisch im Glas erhalten worden ist
-- 1x Zeichnung von Gruumsh
 - 1x Electrum Music Box (à 50 GP)
-- 1x Tongefäß mit fliegendem Jin (à 25 GP)
-- 10x Perlenketten (à 25 GP)
 - 9x Arrows +2
-- 1 Elektrum Klammern (à 250GP)
-- 3 Kleine Lederpocuhes à 10 Gemsstones (150GP)
-- Korb mit 10 Perlenketten (250GP)
-- 500GP Gemstone
-- Gold Censer (250GP) + 4 Blöcke Incense (à 25GP)
-- 4 Hölzerne Ritualmasken (à 250GP)
-- 1x Firered Saphir (à 500 GP)
-- 1x Plumper Goldring (à 15 GP
-- 6x kleine Edelsteine (à 25 GP)
-- 1x Zeremonilles Kurzschwert (à 50 GP)
-- 1x Schwere Pergamentrollte: Ritaul der Blutmondverwandlung (schwarze Magie) (à 5000 GP)
+- 1x Schwere Pergamentrolle: Ritual der Blutmondverwandlung (schwarze Magie) (à 5000 GP)
 
 ---
 
@@ -119,4 +74,3 @@
 
 ## Wagon
 - 20x [Javelins](https://www.dndbeyond.com/equipment/8-javelin)
-- 21x Greate Axe
