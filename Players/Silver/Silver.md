@@ -1,4 +1,19 @@
-**Name:** Silver 
-**Spielername**: Lukas
-**Rasse:** 
-**Klasse:** Bard
+---
+tags:
+  - player
+---
+**Player**: Lukas
+
+|            |      |
+| ---------- | ---- |
+| Race       |      |
+| Class      | Bard |
+| Background |      |
+| Alignment  |      |
+| Deity      |      |
+| Languages  |      |
+
+|        |     |
+| ------ | --- |
+| Weight |     |
+| Height |     |

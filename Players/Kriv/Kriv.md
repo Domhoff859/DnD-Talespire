@@ -1,11 +1,24 @@
-**Name:** Kriv 
-**Spielername**: Steven
-**Rasse:** Dragonborn  
-**Klasse:** Fighter
-**Gewicht**: 80kg
-**Höhe**: 170cm
-**Augenfarbe**: Lila
-**Sprachen**: Common (sprechen/lesen/schreiben), Draconic (sprechen), Giant (sprechen), Abyssal (sprechen)
+---
+tags:
+  - player
+---
+**Player**: Steven
+
+|            |                                  |
+| ---------- | -------------------------------- |
+| Race       | Dragonborn                       |
+| Class      | Fighter, Champion                |
+| Background | Acolyte                          |
+| Alignment  | Neutral Good                     |
+| Deity      |                                  |
+| Languages  | Common, Draconic, Giant, Abyssal |
+
+|        |       |
+| ------ | ----- |
+| Weight | 80kg  |
+| Height | 170cm |
+
+---
 ### Zusammenfassung
 - Kriv, Dragonborn aus isoliertem Clan im Dorant-Gebirge.
 - Aufgewachsen in einer Kultur, die Ehre und Stärke über alles stellt.

@@ -1,7 +1,26 @@
-**Name:** Sindrir Gerrick 
-**Spielername**: Johnny
-**Rasse:**  Gnome
-**Klasse:** Artificer
+---
+tags:
+  - player
+aliases:
+  - Gremlin
+---
+**Player**: Johnny
+
+|            |           |
+| ---------- | --------- |
+| Race       | Gnome     |
+| Class      | Artificer |
+| Background | Sage      |
+| Alignment  |           |
+| Deity      |           |
+| Languages  |           |
+
+|        |     |
+| ------ | --- |
+| Weight |     |
+| Height |     |
+
+---
 
 Sepziall Gegenstände:
 - [Gem of seeing](Equipment.md#Gem%20of%20Seeing)

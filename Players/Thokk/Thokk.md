@@ -1,7 +1,24 @@
-**Name:** Thokk 
-**Spielername**: Benjamin
-**Rasse:**  Highelf
-**Klasse:** Ranger (Hunter)
+---
+tags:
+  - player
+---
+**Player**: Benjamin
+
+|            |                |
+| ---------- | -------------- |
+| Race       | High Elf       |
+| Class      | Ranger, Hunter |
+| Background |                |
+| Alignment  |                |
+| Deity      |                |
+| Languages  |                |
+
+|        |     |
+| ------ | --- |
+| Weight |     |
+| Height |     |
+
+---
 
 Speziall Gegenstände:
 - [Bracers of Archery](Equipment.md#Bracers%20of%20Archery) 
@@ -10,6 +27,3 @@ Speziall Gegenstände:
 Schriftrollen
 - 1x Nebel
 - 1x Blitz
-
-Flüche:
-- Fluch des Werbären

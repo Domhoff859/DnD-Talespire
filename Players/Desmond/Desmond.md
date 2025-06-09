@@ -1,8 +1,19 @@
-**Name:** Desmond 
-**Spielername**: Tim
-**Rasse:** Tabaxi  
-**Klasse:** Rogue
+---
+tags:
+  - player
+---
+**Player**: Tim
 
-Speziall Gegenstände:
-- [Returning Dagger](https://dnd5e.wikidot.com/artificer:infusions#toc15) 
-- Dagger of Frozen Tear 
+|            |        |
+| ---------- | ------ |
+| Race       | Tabaxi |
+| Class      | Rogue  |
+| Background |        |
+| Alignment  |        |
+| Deity      |        |
+| Languages  |        |
+
+|        |     |
+| ------ | --- |
+| Weight |     |
+| Height |     |

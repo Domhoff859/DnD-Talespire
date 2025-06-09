@@ -1,7 +1,24 @@
-**Name:** Simus 
-**Spielername**: Dominic
-**Rasse:** 
-**Klasse:** Cleric (Nature)
+---
+tags:
+  - player
+---
+**Player**: Dominic
+
+|            |                            |
+| ---------- | -------------------------- |
+| Race       | Human                      |
+| Class      | Cleric, Nature Domain      |
+| Background | Hermit                     |
+| Alignment  | Neutral Good               |
+| Deity      | Mielikki                   |
+| Languages  | Common, Goblin, Primordial |
+
+|        |       |
+| ------ | ----- |
+| Weight | 50kg  |
+| Height | 142cm |
+
+---
 
 Speziall Gegenstände:
 - [Cloak of Displacement](Equipment.md#Cloak%20of%20Displacement) 
