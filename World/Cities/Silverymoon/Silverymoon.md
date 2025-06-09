@@ -1,0 +1,11 @@
+---
+tags:
+  - city
+---
+- Die Stadt ist von sehr mächtiger Magie beschützt
+- Es ist eine Stadt der Harper
+- Die Reputation hat ein wenig gelitten da sie bei War of the Thunderbar nicht unterstützt haben
+- Juwel des Nordens, sie ist einer der schönsten Städte der Schwertküste
+- Zentrum von Wissen und Magie
+- Politik: wird von einem Rat regiert und an der Spitze ist der High Mage
+- Die Stadt ist sehr tolerant, respektvoll gegenüber allen Rassen und der Magie im Alltag

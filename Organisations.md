@@ -2,7 +2,7 @@
 - Söldnertruppe
 - Anführer: Iarno
 - Hauptquartier in der Tresendar Villa
-- Stiftet Unruhe im Auftrag der Schwarzen Spinne in Phandalin
+- Stiftet Unruhe im Auftrag der Schwarzen Spinne in [[Phandalin]]
 - Wurden von uns getötet
 
 ---
@@ -18,15 +18,13 @@
 ## Harper
 - Robin Hood Gilde
 - Teleportationspunkte:
-	- Everlund
+	- [[Everlund]]
 	- Loudwater
 	- Mirabar
 	- Neverwinter
 	- Waterdeep
-	- Yartar
+	- [[Yartar]]
 
 ---
 ## Smaragd Enclave
 - Loses Vereinigung von Naturnahen Professionen 
-
-

@@ -7,11 +7,11 @@
 - Abenteuerer im Ruhestand
 - ~500 Jahre alt
 - Elf
-- Lebt im Obstgarten in der Nähe von Phandalin
+- Lebt im Obstgarten in der Nähe von [[Phandalin]]
 
 ---
 ## Linene Grauwind
-- Löwenschild-Händler Geschäftsführerin in Phandalin
+- Löwenschild-Händler Geschäftsführerin in [[Phandalin]]
 - Abenteurer Ausrüstung
 - 35 Jahre alt
 
@@ -30,7 +30,7 @@
 ---
 ## Gudren Felssucher
 - Zwerg
-- Chef der Mine in Phandalin
+- Chef der Mine in [[Phandalin]]
 
 ---
 ## Toblen Steinhügel
@@ -64,10 +64,10 @@
 
 ## Lordek
 
-- Schmied in Sunderbar
+- Schmied in [[Sundabar]]
 ---
 
 ## König Morinn
-- Stadt Sunderbar
+- Stadt [[Sundabar]]
 Königin Tithmel
 Prinz Orwund

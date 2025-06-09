@@ -2,7 +2,7 @@ Von:
 Othovir
 
 Ziel:
-Dreistöckiger-Turm in Silverymoon
+Dreistöckiger-Turm in [[Silverymoon]]
 
 Aufgabe:
 Ausrauben von Margaster Familie (Adelsfamilie)
