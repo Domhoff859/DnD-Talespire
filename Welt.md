@@ -2,6 +2,6 @@
 
 ## Dreiebersdorf
 Handelssiedlung an einer Straßenkreuzung. Flaches fruchtbares Land mit kleinen Anhöhen. 
-![Dreiebersdorf](Images/Cities/Dreiebersdorf/Nahansicht.png)
-![Dreiebersdorf Welt](Images/Cities/Dreiebersdorf/Weltansicht.png)
+![Dreiebersdorf](03%20The%20World/Cities/Dreiebersdorf/Images/Nahansicht.png)
+![Dreiebersdorf Welt](03%20The%20World/Cities/Dreiebersdorf/Images/Weltansicht.png)
 Alle sechs NPCs haben Quests und Belohnungen
