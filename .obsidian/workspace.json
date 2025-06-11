@@ -11,12 +11,34 @@
             "id": "0b8bb37ecd233e8c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Weltkarte.jpg"
+                "file": "Effects/Equipment.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Weltkarte"
+              "icon": "lucide-file",
+              "title": "Equipment"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e894694778b6694",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d0392d00ebe33ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Mechanics/Items/Gem of Seeing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gem of Seeing"
             }
           }
         ]
@@ -161,9 +183,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b8bb37ecd233e8c",
+  "active": "2d0392d00ebe33ef",
   "lastOpenFiles": [
-    "Images/GemOfSeeing.png",
+    "Effects/Equipment.md",
+    "00 Mechanics/Items/Gem of Seeing.md",
+    "00 Mechanics/Items/Images",
+    "00 Mechanics/Items/Returning Dagger.md",
+    "00 Mechanics/Items/Bag of Holding.md",
+    "00 Mechanics/Items/Staff of Magic Missile.md",
+    "00 Mechanics/Items/Giant Slayer.md",
+    "03 The World/Organizations/Schwarze Kultisen/Schwarze Kultisen.md",
+    "03 The World/NPCs/Named NPCs/Halani Meliamne.md",
+    "03 The World/Organizations/Lai'quendi/Lai'quendi.md",
+    "03 The World/Organizations/Jagddorffolk/Jagddorffolk.md",
+    "03 The World/Organizations/Lai'quendi/Vandar.md",
+    "03 The World/Organizations/Lai'quendi/Jevin.md",
+    "Images/Weltkarte.jpg",
+    "00 Mechanics/Spells/4. Level",
+    "00 Mechanics/Spells/3. Level",
+    "00 Mechanics/Spells/2. Level",
+    "00 Mechanics/Spells/1. Level",
+    "00 Mechanics/Spells/0. Cantrip",
+    "00 Mechanics/Items/Images/Gem Of Seeing.png",
     "00 Mechanics/Curse/Werebear Curse/Werebear.png",
     "00 Mechanics/Curse/Werebear Curse/Werebear Curse.md",
     "00 Mechanics/Curse/Werebear Curse",
@@ -174,13 +215,10 @@
     "Images/Monster/Golden Lion.png",
     "Images/Monster/Flamenschädel.png",
     "Images/Monster/Feuerriesen.png",
-    "Images/Monster/Eisriesen.png",
-    "Images/Monster/Beobachter.png",
     "03 The World/Organizations/Harper/Harper.md",
     "NPCs.md",
     "03 The World/Cities/Dreiebersdorf/Images",
     "03 The World/Cities/Dreiebersdorf",
-    "03 The World/Organizations/Schwarze Kultisen/Schwarze Kultisen.md",
     "02 The Party/Characters/Kriv/Schwarze Klingen.md",
     "02 The Party/Characters/Kriv/Kriv.md",
     "02 The Party/Characters/Kriv/Entwicklung/Entwicklung von Neutral Good zu Chaotic Good.md",
@@ -191,23 +229,6 @@
     "03 The World/Organizations/Smaragd Enclave/Smaragd Enclave.md",
     "02 The Party/Property/Territories & Buildings/Tresendar Manor/Tresendar Manor.md",
     "Organisations.md",
-    "03 The World/Organizations/Smaragd Enclave",
-    "03 The World/Organizations/Harper",
-    "03 The World/Organizations/Schwarze Kultisen",
-    "03 The World/Organizations/Rotbrenner",
-    "03 The World/Organizations",
-    "01 The Campaign/Journal/241103.md",
-    "01 The Campaign/Journal/250427.md",
-    "Effects/Transformation.md",
-    "00 Mechanics/Curse",
-    "00 Mechanics/Monsters",
-    "00 Mechanics/Items/Giant Slayer.md",
-    "02 The Party/Party Inventory.md",
-    "01 The Campaign/Journal/241006.md",
-    "[Giant Slayer.md",
-    "Items/Giantslayer.md",
-    "02 The Party/Property/Territories & Buildings/Mine/Mine.md",
-    "Tresendar Villa/Tresendar Villa.md",
-    "02 The Party/Property/Vehicles/Wagen.md"
+    "03 The World/Organizations/Smaragd Enclave"
   ]
 }
