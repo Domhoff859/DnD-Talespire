@@ -1,3 +1,7 @@
+---
+tags:
+  - quest
+---
 Von:
 9 Händlern auf dem Dorf Hawks Nest
 
