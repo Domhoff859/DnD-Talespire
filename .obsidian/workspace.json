@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 The Campaign/Quests/Active/Quest 8.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quest 8"
+              "title": "README"
             }
           }
         ]
@@ -183,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d4479cdeb0fef2d",
+  "active": "f50c4f1070e6d27d",
   "lastOpenFiles": [
+    "01 The Campaign/Quests/Active/Quest 8.md",
     "01 The Campaign/Quests/Completed/Quest 1.md",
     "01 The Campaign/Journal/240602.md",
     "01 The Campaign/Journal/240520.md",
@@ -211,7 +212,6 @@
     "03 The World/NPCs/Named NPCs/Untitled",
     "01 The Campaign/Journal/240720.md",
     "03 The World/Monsters/Ogre.md",
-    "Untitled.md",
     "03 The World/Curse/Images",
     "03 The World/Curse/Images/Werebear.png",
     "03 The World/Items/Images/Golden Lion.png",
