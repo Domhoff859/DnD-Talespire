@@ -13,12 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Mechanics/Alignment/Alignment.md",
+                "file": "00 Mechanics/Spells/4. Level/Polymorph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alignment"
+              "title": "Polymorph"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7b194e9f142a5b10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5601a064f1a895fe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "02 The Party/Character Sheets/vondal holderhek.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "vondal holderhek"
             }
           }
         ]
@@ -165,34 +183,35 @@
   },
   "active": "e12407c40c747ac2",
   "lastOpenFiles": [
-    "02 The Party/Characters/Simus/Simus.md",
+    "00 Mechanics/Spells/4. Level/Phantasmal Killer.md",
+    "00 Mechanics/Spells/4. Level/Polymorph.md",
+    "00 Mechanics/Spells/3. Level/Fireball.md",
+    "00 Mechanics/Spells/3. Level/Counterspell.md",
+    "00 Mechanics/Spells/1. Level/Shield.md",
+    "00 Mechanics/Spells/3. Level/Major Image.md",
+    "00 Mechanics/Spells/3. Level/Hypnotic Pattern.md",
+    "00 Mechanics/Spells/2. Level/Invisibility.md",
+    "00 Mechanics/Spells/2. Level/Misty Step.md",
+    "00 Mechanics/Spells/2. Level/Cloud of Daggers.md",
+    "00 Mechanics/Spells/1. Level/Ice Knife.md",
+    "00 Mechanics/Spells/1. Level/Illusory Script.md",
+    "00 Mechanics/Spells/1. Level/Magic Missile.md",
+    "00 Mechanics/Spells/2. Level/Dragon's Breath.md",
+    "00 Mechanics/Spells/0. Cantrip/Chill Touch.md",
+    "00 Mechanics/Spells/0. Cantrip/Mage Hand.md",
+    "00 Mechanics/Spells/0. Cantrip/Prestidigitation.md",
+    "00 Mechanics/Spells/0. Cantrip/Toll the Dead.md",
+    "00 Mechanics/Spells/1. Level/Chromatic Orb.md",
+    "00 Mechanics/Spells/1. Level/Disguise Self.md",
+    "00 Mechanics/Spells/1. Level/Find Familiar.md",
+    "00 Mechanics/Spells/1. Level/Grease.md",
+    "00 Mechanics/Spells/1. Level/Ice Knife 1.md",
+    "02 The Party/Character Sheets/vondal holderhek.pdf",
+    "02 The Party/Characters/Vondal Holderhek/Vondal Holderhek.md",
     "00 Mechanics/Alignment/Alignment.md",
-    "03 The World/Organizations/Harper/Harper.md",
+    "02 The Party/Characters/Simus/Simus.md",
     "00 Mechanics/Alignment",
-    "03 The World/NPCs/Named NPCs/König Morinn.md",
-    "03 The World/NPCs/Named NPCs/Königin Tithmel.md",
-    "03 The World/NPCs/Named NPCs/Vanomfang.md",
-    "03 The World/NPCs/Named NPCs/Prinz Orwund.md",
-    "03 The World/NPCs/Named NPCs/Nothic.md",
-    "03 The World/NPCs/Named NPCs/Lordek.md",
-    "03 The World/NPCs/Named NPCs/Linene Grauwind.md",
-    "03 The World/NPCs/Named NPCs/Krowen Valharrow.md",
-    "03 The World/NPCs/Named NPCs/Iarno.md",
-    "03 The World/NPCs/Named NPCs/Halani Meliamne.md",
-    "03 The World/NPCs/Named NPCs/Gudren Felssucher.md",
-    "03 The World/NPCs/Named NPCs/Edermeth.md",
-    "03 The World/Monsters/Ogre.md",
-    "03 The World/Monsters/Grick.md",
-    "03 The World/Monsters/Gargoyle.md",
-    "03 The World/Monsters/Frost Giant.md",
-    "03 The World/Monsters/Flameskull.md",
-    "03 The World/Monsters/Fire Giant.md",
-    "03 The World/Monsters/Beholder.md",
-    "03 The World/Monsters/Aboleth.md",
-    "03 The World/Items/Golden Lion.md",
     "03 The World/Items/Images/Golden Lion.png",
-    "03 The World/Curse/Werebear Curse.md",
-    "03 The World/Effects/Aboleth Slime/Aboleth Slime.md",
     "03 The World/Curse/Images/Werebear.png",
     "03 The World/NPCs/Named NPCs/Untitled",
     "03 The World/Curse/Images",
@@ -206,7 +225,6 @@
     "03 The World/Items/Images",
     "03 The World/Items",
     "03 The World/NPCs/Named NPCs/Images/Vanomfang.png",
-    "03 The World/Monsters/Images",
     "00 Mechanics/Items/Images/Gem Of Seeing.png",
     "03 The World/NPCs/Named NPCs/Images/Nothic.png",
     "03 The World/Monsters/Images/Grick.png",
