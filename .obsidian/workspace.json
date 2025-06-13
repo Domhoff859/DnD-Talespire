@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e6d791b155a05382",
+        "id": "76f29caf95398c3b",
         "type": "tabs",
         "children": [
           {
-            "id": "f50c4f1070e6d27d",
+            "id": "e12407c40c747ac2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00 Mechanics/Alignment/Alignment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cc1d2886a73ecc39",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0d3b10d0e0e49bab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 The World/Cities/Dreiebersdorf/Dreiebersdorf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dreiebersdorf"
+              "title": "Alignment"
             }
           }
         ]
@@ -183,38 +163,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f50c4f1070e6d27d",
+  "active": "e12407c40c747ac2",
   "lastOpenFiles": [
-    "Useful resources.md",
-    "README.md",
-    "01 The Campaign/Quests/Active/Quest 8.md",
-    "01 The Campaign/Quests/Completed/Quest 1.md",
-    "01 The Campaign/Journal/240602.md",
-    "01 The Campaign/Journal/240520.md",
-    "03 The World/Cities/Dreiebersdorf/Dreiebersdorf.md",
-    "Welt.md",
-    "03 The World/Cities/Everlund/Everlund.md",
-    "03 The World/NPCs/Named NPCs/Königin Tithmel.md",
-    "Effects/Abilities.md",
-    "Effects/Equipment.md",
-    "03 The World/NPCs/Named NPCs/Krowen Valharrow.md",
-    "01 The Campaign/Journal/240816.md",
-    "NPCs.md",
-    "03 The World/NPCs/Minor NPCs.md",
-    "03 The World/Organizations/Rotbrenner/Rotbrenner.md",
-    "03 The World/NPCs/Named NPCs/Iarno.md",
-    "03 The World/NPCs/Named NPCs/Lordek.md",
-    "03 The World/NPCs/Named NPCs/Prinz Orwund.md",
+    "02 The Party/Characters/Simus/Simus.md",
+    "00 Mechanics/Alignment/Alignment.md",
+    "03 The World/Organizations/Harper/Harper.md",
+    "00 Mechanics/Alignment",
     "03 The World/NPCs/Named NPCs/König Morinn.md",
+    "03 The World/NPCs/Named NPCs/Königin Tithmel.md",
+    "03 The World/NPCs/Named NPCs/Vanomfang.md",
+    "03 The World/NPCs/Named NPCs/Prinz Orwund.md",
+    "03 The World/NPCs/Named NPCs/Nothic.md",
+    "03 The World/NPCs/Named NPCs/Lordek.md",
+    "03 The World/NPCs/Named NPCs/Linene Grauwind.md",
+    "03 The World/NPCs/Named NPCs/Krowen Valharrow.md",
+    "03 The World/NPCs/Named NPCs/Iarno.md",
+    "03 The World/NPCs/Named NPCs/Halani Meliamne.md",
     "03 The World/NPCs/Named NPCs/Gudren Felssucher.md",
     "03 The World/NPCs/Named NPCs/Edermeth.md",
-    "03 The World/NPCs/Named NPCs/Linene Grauwind.md",
-    "03 The World/NPCs/Named NPCs/Halani Meliamne.md",
-    "03 The World/NPCs/Named NPCs/Untitled",
-    "01 The Campaign/Journal/240720.md",
-    "03 The World/Curse/Images",
-    "03 The World/Curse/Images/Werebear.png",
+    "03 The World/Monsters/Ogre.md",
+    "03 The World/Monsters/Grick.md",
+    "03 The World/Monsters/Gargoyle.md",
+    "03 The World/Monsters/Frost Giant.md",
+    "03 The World/Monsters/Flameskull.md",
+    "03 The World/Monsters/Fire Giant.md",
+    "03 The World/Monsters/Beholder.md",
+    "03 The World/Monsters/Aboleth.md",
+    "03 The World/Items/Golden Lion.md",
     "03 The World/Items/Images/Golden Lion.png",
+    "03 The World/Curse/Werebear Curse.md",
+    "03 The World/Effects/Aboleth Slime/Aboleth Slime.md",
+    "03 The World/Curse/Images/Werebear.png",
+    "03 The World/NPCs/Named NPCs/Untitled",
+    "03 The World/Curse/Images",
     "03 The World/Effects/Aboleth Slime",
     "03 The World/Effects",
     "03 The World/Curse",
@@ -226,7 +207,6 @@
     "03 The World/Items",
     "03 The World/NPCs/Named NPCs/Images/Vanomfang.png",
     "03 The World/Monsters/Images",
-    "03 The World/Monsters",
     "00 Mechanics/Items/Images/Gem Of Seeing.png",
     "03 The World/NPCs/Named NPCs/Images/Nothic.png",
     "03 The World/Monsters/Images/Grick.png",

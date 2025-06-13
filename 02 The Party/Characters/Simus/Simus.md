@@ -9,7 +9,7 @@ tags:
 | Race       | Human                      |
 | Class      | Cleric, Nature Domain      |
 | Background | Hermit                     |
-| Alignment  | Neutral Good               |
+| Alignment  | [[Alignment#Neutral Good]] |
 | Deity      | Mielikki                   |
 | Languages  | Common, Goblin, Primordial |
 

@@ -8,7 +8,7 @@ aliases:
 **Transformation**
 When transforming into bear or hybrid form, the character receives the following improvements:
 - Strength: set to 19 if it is not already higher
-- Constitution: set to 17 if not already highter
+- Constitution: set to 17 if not already higher
 
 **Abilities**
 - Shapeshift: The character can change shape as an action. He can transform into a large bear or a hybrid form.
