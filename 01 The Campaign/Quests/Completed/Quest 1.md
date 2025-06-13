@@ -14,4 +14,4 @@ Zusatzinformation:
 Badge zur Identifikation bekommen
 
 Aufgabe:
-Bescheid geben das Feuerriesen Unwesen treiben in Dreiebersdorf
+Bescheid geben das [[Fire Giant|Feuerriesen]] Unwesen treiben in Dreiebersdorf

@@ -13,7 +13,7 @@ Sie tragen einen Umhang und eine schwarze Maske
 Ansässing in Donerbaum
 
 **Goals & Motivations**
-Wollen den grünen Drachen Vanomfang überzeugen ihrem Kult beizutreten. Sie bringen ihm Opefrgaben.
+Wollen den grünen Drachen [[Vanomfang]] überzeugen ihrem Kult beizutreten. Sie bringen ihm Opefrgaben.
 
 **Known Members**
 - Favric ist der Anführer
