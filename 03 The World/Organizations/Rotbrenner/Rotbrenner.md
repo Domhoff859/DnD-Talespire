@@ -17,7 +17,7 @@ Lokaler Einfluss
 Unruhe stiften im Auftrag der Schwarzen Spinne in [[Phandalin]]
 
 **Known Members**
-- Iarno ist der Anführer
+- [[Iarno]] ist der Anführer
 
 **Allies**
 
