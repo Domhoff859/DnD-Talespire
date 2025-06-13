@@ -1,2 +1,0 @@
-- +1 Schaden
-- Gegen einen Riesern 2d6 extra Schaden und wenn er einen DC15 Strength saving throw nicht schaft, dann fällt er prown
