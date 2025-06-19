@@ -1,13 +1,10 @@
 ---
 tags:
   - item
+  - item/rare
 ---
+![[Gem Of Seeing.png|200]]
 
-<img src="Gem Of Seeing.png" style="max-height: 250px;">
+This gem has 3 charges. As a Magic action, you can expend 1 charge. For the next 10 minutes, you have Truesight out to 120 feet when you peer through the gem.
 
-
-**True Sight**: Gibt dem Nutzer die Fähigkeit [True Sight](Abilities.md#True%20Sight)
-
-**Begrenzte Nutzung**: Die Fähigkeiten des Juwels können bis zu **3 Mal** verwendet werden. Bei der Verwendung der **letzten Ladung** kann es sein das das Juwel seine magischen Fähigkeiten verliert und zu einem gewöhnlichen Edelstein wird **(1d20=1)**. Die Ladungen erneuern sich zu **Beginn jedes Tages um 1d3**
-
-**Begrenzte Dauer**: Der Effekt hält für eine Dauer von **10 Minuten**
+The gem regains 1d3 expended charges daily at dawn.

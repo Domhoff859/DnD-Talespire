@@ -1,6 +1,7 @@
 ---
 tags:
   - item
+  - item/uncommen
 aliases:
   - Wand of Magic Missiles
 ---
