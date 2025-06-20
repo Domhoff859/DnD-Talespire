@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ead3e876e9cd40a",
+        "id": "1af3a03f97a118c6",
         "type": "tabs",
         "children": [
           {
-            "id": "ce6e8b0ff0f26b3d",
+            "id": "a3896b6f61043d00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Effects/Equipment.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Equipment"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Yertar",
+                "query": "Dreiebersdorf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.51103591918945
+    "width": 342.5
   },
   "right": {
     "id": "792ba0162fef7a86",
@@ -163,53 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce6e8b0ff0f26b3d",
+  "active": "a3896b6f61043d00",
   "lastOpenFiles": [
-    "Effects/Transformation.md",
+    "00 Mechanics/Items/Weapon of Warning.md",
+    "00 Mechanics/Items/Bag of Holding.md",
+    "00 Mechanics/Items/Boots of Levitation.md",
     "Effects/Equipment.md",
+    "00 Mechanics/Items/Ring of Water Walking.md",
+    "00 Mechanics/Items/Ring of Jumping.md",
+    "00 Mechanics/Items/Sword of Life Stealing.md",
+    "00 Mechanics/Items/Cloak of Displacement.md",
+    "00 Mechanics/Items/Armor of Resistance, Fire.md",
+    "00 Mechanics/Items/Images/Ring of Jumping.jpg",
+    "00 Mechanics/Items/Images/Sword of Life Stealing.jpeg",
+    "00 Mechanics/Items/Images/Boots of Levitation.jpg",
+    "00 Mechanics/Items/Images/Ring of Water Walking.jpeg",
+    "00 Mechanics/Items/Images/Armor of Resistance.jpeg",
+    "00 Mechanics/Items/Staff of Charming.md",
+    "00 Mechanics/Items/Images/Staff of Charming.jpeg",
+    "00 Mechanics/Items/Images/Cloak of Displacement.jpeg",
+    "00 Mechanics/Items/Belt of Dwarvenkind.md",
+    "00 Mechanics/Items/Bracers of Archery.md",
+    "00 Mechanics/Items/Images/Bracers of Archery.jpeg",
+    "00 Mechanics/Items/Staff of Magic Missile.md",
+    "00 Mechanics/Items/Returning Dagger.md",
+    "00 Mechanics/Items/Giant Slayer.md",
+    "00 Mechanics/Items/Gem of Seeing.md",
+    "00 Mechanics/Items/Images/Belt of Dwarvenkind.jpeg",
+    "02 The Party/Characters/Simus/Simus.md",
+    "00 Mechanics/Abilities/Abilities.md",
     "Effects/Abilities.md",
-    "Players/Spieler.md",
-    "Community box.md",
-    "Monster.md",
-    "NPCs.md",
-    "Organisations.md",
-    "README.md",
-    "Useful resources.md",
-    "Welt.md",
-    "Images/Weltkarte.jpg",
-    "Images/Cities/Dreiebersdorf/Weltansicht.png",
-    "Images/Cities/Dreiebersdorf/Nahansicht.png",
-    "World/Cities/Yartar/Yartar.md",
-    "World/Cities/Yartar/Images",
-    "Quests/Completed/Quest 4.md",
-    "Journal/241006.md",
-    "Journal/240901.md",
-    "Journal/240720.md",
-    "World/Cities/Yartar",
-    "World/Cities/Untitled.md",
-    "World/Cities/Silverymoon/Silverymoon.md",
-    "Quests/Completed/Quest 7.md",
-    "Quests/Completed/Quest 1.md",
-    "World/Cities/Everlund/Everlund.md",
-    "Journal/240816.md",
-    "World/Cities/Everlund/Images/Nahansicht.png",
-    "World/Cities/Everlund/Images",
-    "World/Cities/Everlund",
-    "World/Cities/Phandalin/Phandalin.md",
-    "Structures/Party structures/Tresendar Manor/Expansion.md",
-    "Journal/240520.md",
-    "World/Cities/Phandalin/Images/Weltansicht.png",
-    "World/Cities/Phandalin/Images/Nahansicht.png",
-    "World/Cities/Phandalin/Images",
-    "World/Cities/Phandalin",
-    "Journal/241124.md",
-    "World/Cities/Sundabar",
-    "World/Cities/Silverymoon/Images/Nahansicht 1.png",
-    "World/Cities/Silverymoon/Images",
-    "World/Cities/Silverymoon/Images/Nahansicht 2.png",
-    "World/Cities/Silverymoon",
-    "World/Cities",
-    "Aurora/Ander Thorngage Bild.jpg",
-    "Players/Kriv/Dra'kalthor-Clan.jpg"
+    "00 Mechanics/Alignment/Alignment.md",
+    "00 Mechanics/Abilities",
+    "00 Mechanics/Items/Images/Bag of Holding.jpeg",
+    "00 Mechanics/Spells/4. Level/Polymorph.md",
+    "02 The Party/Character Sheets/vondal holderhek.pdf",
+    "00 Mechanics/Spells/4. Level/Phantasmal Killer.md",
+    "00 Mechanics/Spells/3. Level/Fireball.md",
+    "00 Mechanics/Spells/3. Level/Counterspell.md",
+    "00 Mechanics/Spells/1. Level/Shield.md",
+    "00 Mechanics/Spells/3. Level/Major Image.md",
+    "00 Mechanics/Alignment",
+    "03 The World/NPCs/Named NPCs/Untitled",
+    "03 The World/Curse/Images",
+    "03 The World/Effects/Aboleth Slime",
+    "03 The World/Effects",
+    "03 The World/Curse",
+    "02 The Party/Companions/Boris",
+    "03 The World/Items/Images"
   ]
 }
