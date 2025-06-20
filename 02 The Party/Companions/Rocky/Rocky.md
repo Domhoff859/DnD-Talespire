@@ -2,6 +2,7 @@
 tags:
   - companion
 ---
+![[Rocky.jpg|250]]
 
 Rocky is a baby earth elemental whose parents were killed. He is adopted by [[Desmond]] during the the session [[250309]].
 

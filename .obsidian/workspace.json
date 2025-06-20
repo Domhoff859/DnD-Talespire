@@ -4,17 +4,94 @@
     "type": "split",
     "children": [
       {
-        "id": "1af3a03f97a118c6",
+        "id": "08d1920a1ac8bed2",
         "type": "tabs",
         "children": [
           {
-            "id": "a3896b6f61043d00",
+            "id": "512fcb48de156b32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "02 The Party/Character Sheets/amber ironfist.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "amber ironfist"
+            }
+          },
+          {
+            "id": "a76daf226456e2d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 The World/Organizations/Harper/Harper.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Harper"
+            }
+          },
+          {
+            "id": "934dbe42540b3acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 The Campaign/Journal/250620.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250620"
+            }
+          },
+          {
+            "id": "ea72412954ee03a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 The Party/Party Inventory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Party Inventory"
+            }
+          },
+          {
+            "id": "c544a744c4c11229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 The Party/Property/Vehicles/Wagen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wagen"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "9e66bc5cf746b81a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d17cc65257337c14",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "02 The Party/Character Sheets/vondal holderhek.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "vondal holderhek"
             }
           }
         ]
@@ -159,53 +236,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3896b6f61043d00",
+  "active": "934dbe42540b3acc",
   "lastOpenFiles": [
-    "00 Mechanics/Items/Weapon of Warning.md",
-    "00 Mechanics/Items/Bag of Holding.md",
-    "00 Mechanics/Items/Boots of Levitation.md",
-    "Effects/Equipment.md",
-    "00 Mechanics/Items/Ring of Water Walking.md",
-    "00 Mechanics/Items/Ring of Jumping.md",
-    "00 Mechanics/Items/Sword of Life Stealing.md",
-    "00 Mechanics/Items/Cloak of Displacement.md",
-    "00 Mechanics/Items/Armor of Resistance, Fire.md",
+    "02 The Party/Character Sheets/vondal holderhek.pdf",
+    "02 The Party/Character Sheets/ander thorngage.pdf",
+    "02 The Party/Character Sheets/Ander Thorngage.dnd5e",
+    "02 The Party/Character Sheets/amber ironfist.pdf",
+    "01 The Campaign/Journal/250620.md",
+    "03 The World/Monsters/Iron Golem.md",
+    "02 The Party/Character Sheets/Ander Thorngage Bild.jpg",
+    "02 The Party/Character Sheets/kriv.pdf",
+    "02 The Party/Character Sheets/simus.pdf",
+    "03 The World/Monsters/Owl.md",
+    "03 The World/Location/Eye of the All-father/Eye of the All-father.md",
+    "03 The World/Location/Eye of the All-father",
+    "03 The World/Location",
+    "03 The World/NPCs/Named NPCs/Harshnag.md",
+    "03 The World/Organizations/Harper/Harper.md",
+    "03 The World/Monsters/Stone Golem.md",
+    "02 The Party/Property/Vehicles/Wagen.md",
+    "03 The World/Monsters/Gargoyle.md",
+    "02 The Party/Companions/Rocky/Rocky.md",
+    "01 The Campaign/Quests/Completed/Quest 6.md",
+    "02 The Party/Party Inventory.md",
+    "03 The World/Weltkarte.jpg",
+    "01 The Campaign/Quests/Active/Quest 8.md",
+    "02 The Party/Characters/Simus/Simus.md",
+    "01 The Campaign/Journal/250608.md",
+    "03 The World/NPCs/Named NPCs/Ormrik.md",
+    "02 The Party/Property/Vehicles/Images/Wagen.jpg",
+    "02 The Party/Characters/Kriv/Kriv.md",
+    "02 The Party/Characters/Vondal Holderhek/Vondal Holderhek.md",
+    "02 The Party/Property/Vehicles/Images",
+    "03 The World/NPCs/Named NPCs/Edermeth.md",
+    "03 The World/NPCs/Named NPCs/Gudren Felssucher.md",
+    "03 The World/NPCs/Named NPCs/Halani Meliamne.md",
+    "03 The World/NPCs/Named NPCs/Iarno.md",
+    "03 The World/NPCs/Named NPCs/König Morinn.md",
+    "03 The World/NPCs/Named NPCs/Königin Tithmel.md",
+    "03 The World/NPCs/Named NPCs/Krowen Valharrow.md",
+    "03 The World/Monsters/Images/Owl Stats.png",
+    "03 The World/Monsters/Images/Owl.jpeg",
     "00 Mechanics/Items/Images/Ring of Jumping.jpg",
     "00 Mechanics/Items/Images/Sword of Life Stealing.jpeg",
     "00 Mechanics/Items/Images/Boots of Levitation.jpg",
     "00 Mechanics/Items/Images/Ring of Water Walking.jpeg",
     "00 Mechanics/Items/Images/Armor of Resistance.jpeg",
-    "00 Mechanics/Items/Staff of Charming.md",
-    "00 Mechanics/Items/Images/Staff of Charming.jpeg",
-    "00 Mechanics/Items/Images/Cloak of Displacement.jpeg",
-    "00 Mechanics/Items/Belt of Dwarvenkind.md",
-    "00 Mechanics/Items/Bracers of Archery.md",
-    "00 Mechanics/Items/Images/Bracers of Archery.jpeg",
-    "00 Mechanics/Items/Staff of Magic Missile.md",
-    "00 Mechanics/Items/Returning Dagger.md",
-    "00 Mechanics/Items/Giant Slayer.md",
-    "00 Mechanics/Items/Gem of Seeing.md",
-    "00 Mechanics/Items/Images/Belt of Dwarvenkind.jpeg",
-    "02 The Party/Characters/Simus/Simus.md",
-    "00 Mechanics/Abilities/Abilities.md",
-    "Effects/Abilities.md",
-    "00 Mechanics/Alignment/Alignment.md",
     "00 Mechanics/Abilities",
-    "00 Mechanics/Items/Images/Bag of Holding.jpeg",
-    "00 Mechanics/Spells/4. Level/Polymorph.md",
-    "02 The Party/Character Sheets/vondal holderhek.pdf",
-    "00 Mechanics/Spells/4. Level/Phantasmal Killer.md",
-    "00 Mechanics/Spells/3. Level/Fireball.md",
-    "00 Mechanics/Spells/3. Level/Counterspell.md",
-    "00 Mechanics/Spells/1. Level/Shield.md",
-    "00 Mechanics/Spells/3. Level/Major Image.md",
-    "00 Mechanics/Alignment",
-    "03 The World/NPCs/Named NPCs/Untitled",
-    "03 The World/Curse/Images",
-    "03 The World/Effects/Aboleth Slime",
-    "03 The World/Effects",
-    "03 The World/Curse",
-    "02 The Party/Companions/Boris",
-    "03 The World/Items/Images"
+    "00 Mechanics/Alignment"
   ]
 }

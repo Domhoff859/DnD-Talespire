@@ -28,7 +28,7 @@
 			<name>Vondal Holderhek</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>31641</experience>
+			<experience>35470</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="77ba559c-7bc5-4aa4-97a6-349a2d782f7e" name="Quarterstaff" range="5 ft" attack="+3 vs AC" damage="1d6+0 bludgeoning" displayed="true" ability="Strength">
@@ -61,12 +61,13 @@
 			<additional-features><![CDATA[]]></additional-features>
 			<currency>
 				<copper>2</copper>
-				<silver>0</silver>
+				<silver>9</silver>
 				<electrum>0</electrum>
-				<gold>149</gold>
+				<gold>111</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
-				<treasure><![CDATA[- Diamond (worth 50 GP)]]></treasure>
+				<treasure><![CDATA[- Diamond (worth 50 GP)
+- Brass Brazier]]></treasure>
 			</currency>
 			<notes>
 				<note column="left">Next spells to learn:
@@ -227,7 +228,8 @@ How to obtain armor for the Wizard:
 			<element type="Level" name="7" id="ID_LEVEL_7" />
 		</elements>
 		<defenses>
-			<conditional>Patent rolls:</conditional>
+			<conditional>Find Familiar: Owl
+Patent rolls: 17, 15</conditional>
 		</defenses>
 		<companion name="">
 			<attributes>
@@ -297,7 +299,7 @@ How to obtain armor for the Wizard:
 					</notes>
 				</details>
 			</item>
-			<item identifier="3eb613b8-cbb6-4cc7-80fe-6643fa890abb" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="10">
+			<item identifier="3eb613b8-cbb6-4cc7-80fe-6643fa890abb" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="20">
 				<details card="true">
 					<name>
 					</name>
@@ -332,6 +334,46 @@ How to obtain armor for the Wizard:
 			</item>
 			<item identifier="df031a25-a784-4c81-9740-1d94e65cd327" name="Shield" id="ID_WOTC_GEAR_SHIELD">
 				<equipped location="Secondary Hand">true</equipped>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="f7ef305f-c45e-4f19-99da-368065c75700" name="Manacles" id="ID_WOTC_PHB_ITEM_MANACLES">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="f2bf5aed-6da7-455f-9472-d0293a309ab6" name="Flask or Tankard" id="ID_WOTC_PHB_ITEM_FLASKORTANKARD" amount="5">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="b5825747-8dcc-44b3-9c24-f417d2ecc60e" name="Mirror, Steel" id="ID_WOTC_PHB_ITEM_MIRROR_STEEL">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="c76edc44-3c08-4bc6-9bd2-f10bf0d18441" name="Rope, Hempen (50 feet)" id="ID_WOTC_PHB_ITEM_ROPE_HEMPEN_50FEET">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="f455101d-b407-4bc0-b65d-33c6051e7fc2" name="Healer’s Kit" id="ID_WOTC_PHB_ITEM_HEALERSKIT">
 				<details card="true">
 					<name>
 					</name>
@@ -417,8 +459,8 @@ How to obtain armor for the Wizard:
 			<element type="Spell" id="ID_PHB_SPELL_POLYMORPH" />
 			<element type="Spell" id="ID_PHB_SPELL_PHANTASMAL_KILLER" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" />
-			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
 			<element type="Armor" id="ID_WOTC_ARMOR_MEDIUM_CHAIN_SHIRT" />
+			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_WIZARD" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DAGGER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DART" />
@@ -450,24 +492,24 @@ How to obtain armor for the Wizard:
 					<spell name="Toll the Dead" level="0" id="ID_XGTE_SPELL_TOLL_THE_DEAD" />
 				</cantrips>
 				<spells>
+					<spell name="Chromatic Orb" level="1" id="ID_PHB_SPELL_CHROMATIC_ORB" prepared="true" always-prepared="true" known="true" />
 					<spell name="Find Familiar" level="1" id="ID_PHB_SPELL_FIND_FAMILIAR" prepared="true" always-prepared="true" known="true" />
 					<spell name="Magic Missile" level="1" id="ID_PHB_SPELL_MAGIC_MISSILE" prepared="true" always-prepared="true" known="true" />
 					<spell name="Shield" level="1" id="ID_PHB_SPELL_SHIELD" prepared="true" always-prepared="true" known="true" />
-					<spell name="Cloud of Daggers" level="2" id="ID_PHB_SPELL_CLOUD_OF_DAGGERS" prepared="true" always-prepared="true" known="true" />
 					<spell name="Dragon’s Breath" level="2" id="ID_XGTE_SPELL_DRAGONS_BREATH" prepared="true" always-prepared="true" known="true" />
 					<spell name="Misty Step" level="2" id="ID_PHB_SPELL_MISTY_STEP" prepared="true" always-prepared="true" known="true" />
+					<spell name="Counterspell" level="3" id="ID_PHB_SPELL_COUNTERSPELL" prepared="true" always-prepared="true" known="true" />
 					<spell name="Fireball" level="3" id="ID_PHB_SPELL_FIREBALL" prepared="true" always-prepared="true" known="true" />
 					<spell name="Hypnotic Pattern" level="3" id="ID_PHB_SPELL_HYPNOTIC_PATTERN" prepared="true" always-prepared="true" known="true" />
-					<spell name="Major Image" level="3" id="ID_PHB_SPELL_MAJOR_IMAGE" prepared="true" always-prepared="true" known="true" />
 					<spell name="Phantasmal Killer" level="4" id="ID_PHB_SPELL_PHANTASMAL_KILLER" prepared="true" always-prepared="true" known="true" />
-					<spell name="Polymorph" level="4" id="ID_PHB_SPELL_POLYMORPH" prepared="true" always-prepared="true" known="true" />
-					<spell name="Chromatic Orb" level="1" id="ID_PHB_SPELL_CHROMATIC_ORB" always-prepared="true" known="true" />
 					<spell name="Disguise Self" level="1" id="ID_PHB_SPELL_DISGUISE_SELF" always-prepared="true" known="true" />
 					<spell name="Grease" level="1" id="ID_PHB_SPELL_GREASE" always-prepared="true" known="true" />
 					<spell name="Ice Knife" level="1" id="ID_XGTE_SPELL_ICE_KNIFE" always-prepared="true" known="true" />
 					<spell name="Illusory Script" level="1" id="ID_PHB_SPELL_ILLUSORY_SCRIPT" always-prepared="true" known="true" />
+					<spell name="Cloud of Daggers" level="2" id="ID_PHB_SPELL_CLOUD_OF_DAGGERS" always-prepared="true" known="true" />
 					<spell name="Invisibility" level="2" id="ID_PHB_SPELL_INVISIBILITY" always-prepared="true" known="true" />
-					<spell name="Counterspell" level="3" id="ID_PHB_SPELL_COUNTERSPELL" always-prepared="true" known="true" />
+					<spell name="Major Image" level="3" id="ID_PHB_SPELL_MAJOR_IMAGE" always-prepared="true" known="true" />
+					<spell name="Polymorph" level="4" id="ID_PHB_SPELL_POLYMORPH" always-prepared="true" known="true" />
 				</spells>
 			</spellcasting>
 		</magic>

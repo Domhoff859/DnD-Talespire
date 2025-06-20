@@ -28,7 +28,7 @@
 			<name>Ander Thorngage</name>
 			<gender>Male</gender>
 			<player-name>Johannes Blab</player-name>
-			<experience>31641</experience>
+			<experience>35470</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword +1" range="5 ft" attack="+8 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
@@ -67,12 +67,12 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 			<additional-features><![CDATA[Deity: Catgirl
 
 Titel: Treant-Schlächter
-Sprache: Primordial (Elementals)      65/125 gelernt]]></additional-features>
+Sprache: Primordial (Elementals)      66/125 gelernt]]></additional-features>
 			<currency>
-				<copper>8</copper>
-				<silver>4</silver>
+				<copper>9</copper>
+				<silver>2</silver>
 				<electrum>0</electrum>
-				<gold>423</gold>
+				<gold>178</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[Mineneinnahmen: 300 - 1500 Gold/Monat
@@ -81,10 +81,9 @@ Figur im Haus (Langschwert, Tongefäß, Goblinohr, Goblinfinger, Hobgoblinzeh, H
 Gerät im Haus (1 Feilenmaschine)
 
 Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Verbündete
-Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladungen; 1xProtection/Tag gegen Enchantmentzauber (bei Rettungswurferfolg 1d8 + 2 auf den Nutzer zurückwerfen)
 
 
-
+1 Platinring
 1 Wolfsmantel (angezogen)
 1 Roter Umhang (Rotbrenner) 
 1 Köcher
@@ -114,8 +113,6 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 1 Zwergenumhang
 1 Wolfspelzumhang (8Gold)
 2 Feuersalamanderschuppen
-1 Viole mit Wolfsblut
-1 Stofffetzen
 1 Oil of Sharpness (Waffe auf +3magisch angehoben, 1Stunde)
 
 1 Riesenauge
@@ -149,7 +146,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<wisdom>12</wisdom>
 			<charisma>14</charisma>
 		</abilities>
-		<elements level-count="7" registered-count="29">
+		<elements level-count="7" registered-count="33">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -321,6 +318,14 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
 				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			</element>
+			<element type="Magic Item" name="Ring of Resistance, Fire" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_RESISTANCE_FIRE">
+				<element type="Condition" name="Resistance (Fire)" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FIRE" />
+			</element>
+			<element type="Magic Item" name="Belt of Dwarvenkind" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND">
+				<element type="Condition" name="Resistance (Poison)" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
+				<element type="Vision" name="Darkvision" id="ID_VISION_DARKVISION" />
+				<element type="Language" name="Dwarvish" id="ID_LANGUAGE_DWARVISH" />
+			</element>
 		</elements>
 		<defenses>
 			<conditional>
@@ -409,7 +414,7 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					</notes>
 				</details>
 			</item>
-			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="33">
+			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="29">
 				<details card="true">
 					<name>
 					</name>
@@ -532,8 +537,59 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 					</notes>
 				</details>
 			</item>
+			<item identifier="9d630164-4be9-42f5-8de2-37d998dfa5c5" name="Ring of Resistance, Fire" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_RESISTANCE_FIRE" sidebar="true">
+				<equipped>true</equipped>
+				<attunement>true</attunement>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="e8a7c423-cca7-4010-80ea-ddb2e425536d" name="Ring of Protection" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_PROTECTION" sidebar="true">
+				<equipped>true</equipped>
+				<attunement>true</attunement>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="ac18eacb-25fe-400e-ab6b-31de29a0173c" name="Belt of Dwarvenkind" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND" sidebar="true">
+				<equipped>true</equipped>
+				<attunement>true</attunement>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="37265191-acc8-4c51-a973-c53d7745b952" name="Quarterstaff" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF">
+				<items>
+					<adorner name="Staff of Charming" id="ID_WOTC_DMG_MAGIC_ITEM_STAFF_OF_CHARMING" />
+				</items>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="00a2e596-bf04-4f89-ac1b-2bd757c0c58e" name="Cloak of Displacement" id="ID_WOTC_DMG_MAGIC_ITEM_CLOAK_OF_DISPLACEMENT" sidebar="true">
+				<equipped>true</equipped>
+				<attunement>true</attunement>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
 		</equipment>
-		<sum element-count="138">
+		<sum element-count="146">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -585,6 +641,14 @@ Staff of Charming: Charm Person/Command(ein Wort)/Comprehend language; 10Ladunge
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_LONGSWORD" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_GIANT_SLAYER" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_RESISTANCE_FIRE" />
+			<element type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FIRE" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_PROTECTION" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_BELT_OF_DWARVENKIND" />
+			<element type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
+			<element type="Vision" id="ID_VISION_DARKVISION" />
+			<element type="Language" id="ID_LANGUAGE_DWARVISH" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_CLOAK_OF_DISPLACEMENT" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_PALADIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />

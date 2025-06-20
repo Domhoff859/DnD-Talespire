@@ -15,7 +15,7 @@ Creatures which are “Evil” tend to be selfish, greedy, and sometimes even ma
 
 # The Ten Alignments
 ## Lawful Good
-Lawful Good creatures behave as a “good person” is expected to—following rules, respecting legitimate authority, and treating others with kindness, honor, and respect. While this alignment is often associated with idealistic heroes, it is sometimes mocked as “lawful stupid” due to its tendency toward moral rigidity and stubbornness.
+Lawful Good creatures behave as a “good person” is expected to—following rules, respecting legitimate authority, and treating others with kindness, honour, and respect. While this alignment is often associated with idealistic heroes, it is sometimes mocked as “lawful stupid” due to its tendency toward moral rigidity and stubbornness.
 
 ## Neutral Good
 Neutral Good creatures strive to do what they believe is right, but they aren't as bound to rules or structure as those of the Lawful Good alignment. While they may follow laws or societal norms when it makes sense, they prioritize doing good over adhering strictly to any code or doctrine.

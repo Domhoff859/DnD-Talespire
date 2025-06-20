@@ -2,8 +2,10 @@
 tags:
 ---
 
-Ormriks Zauberkasten – Schildkröte  
-  
+[[Ormrik]] Zauberkasten – Schildkröte  
+
+![[Wagen.jpg]]
+
 Magischer Hover-Wagen mit extradimensionalem Innenraum und umfassender Verteidigung – Meisterstück von Ormrik Borkenwert.  
 
 ### Allgemeine Daten
@@ -16,7 +18,7 @@ Antrieb Hover (40 ft, lautlos, kein Zugtier nötig)
 Steuerung Sprachbefehl („Fahre nach …“) oder manuell
 Besatzung 1 Pilot, bis zu 6 Passagiere
 
-###  Verteidigungswerte  
+### Verteidigungswerte  
 Merkmal Wert
 AC 21 (Basis 15 + Rahmen + Mithral)
 HP 80
