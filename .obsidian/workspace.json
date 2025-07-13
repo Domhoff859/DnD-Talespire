@@ -13,46 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01 The Campaign/Journal/250713.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
-        "id": "913c56d0f0eabd2a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "36d673a9017528f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 The Campaign/Journal/250620.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "250620"
-            }
-          },
-          {
-            "id": "aa34cfd1490dfc8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 The World/NPCs/Named NPCs/Harshnag.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Harshnag"
+              "title": "250713"
             }
           }
         ]
@@ -87,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "voni",
+                "query": "tag:#item/rare",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,33 +165,33 @@
   },
   "active": "934dbe42540b3acc",
   "lastOpenFiles": [
-    "02 The Party/Party Inventory.md",
+    "01 The Campaign/Journal/250620.md",
+    "01 The Campaign/Journal/250713.md",
+    "01 The Campaign/Journal/250608.md",
+    "01 The Campaign/Journal/250427.md",
+    "01 The Campaign/Journal/250309.md",
+    "01 The Campaign/Journal/250126.md",
+    "01 The Campaign/Journal/241228.md",
+    "01 The Campaign/Journal/241124.md",
+    "01 The Campaign/Journal/241103.md",
+    "01 The Campaign/Journal/241006.md",
+    "01 The Campaign/Journal/240901.md",
+    "01 The Campaign/Journal/240816.md",
+    "01 The Campaign/Journal/240720.md",
+    "01 The Campaign/Journal/240602.md",
+    "01 The Campaign/Journal/240505.md",
+    "01 The Campaign/Journal/240520.md",
+    "02 The Party/Characters/Silver/Silver.md",
     "01 The Campaign/Quests/Active/Quest 12.md",
+    "README.md",
+    "02 The Party/Party Inventory.md",
     "01 The Campaign/Quests/Active/Quest 11.md",
     "01 The Campaign/Quests/Active/Quest 8.md",
     "03 The World/Location/Temple/Eye of the All-father.md",
     "00 Mechanics/Alignment/Alignment.md",
-    "01 The Campaign/Journal/240720.md",
-    "01 The Campaign/Journal/250620.md",
     "03 The World/Cities/Dreiebersdorf/Dreiebersdorf.md",
     "03 The World/Items/Vonindod.md",
-    "03 The World/Cities/Everlund/Everlund.md",
-    "03 The World/Cities/Phandalin/Phandalin.md",
-    "03 The World/Cities/Silverymoon/Silverymoon.md",
-    "03 The World/Cities/Sundabar/Sundabar.md",
-    "03 The World/Cities/Yartar/Yartar.md",
     "03 The World/Cities/Yartar/Images/Nahansicht.png",
-    "03 The World/Location/Fortress/Ironslag.md",
-    "03 The World/Monsters/Grick.md",
-    "03 The World/Monsters/Ogre.md",
-    "03 The World/Monsters/Owl.md",
-    "01 The Campaign/Quests/Completed/Quest 1.md",
-    "03 The World/Monsters/Gargoyle.md",
-    "03 The World/Monsters/Flameskull.md",
-    "03 The World/Monsters/Fire Elemental.md",
-    "03 The World/Monsters/Beholder.md",
-    "03 The World/Monsters/Aboleth.md",
-    "03 The World/Monsters/Golem/Iron Golem.md",
     "03 The World/Location/Fortress",
     "03 The World/Location/Temple",
     "03 The World/Monsters/Golem",
