@@ -73,4 +73,4 @@
 ---
 
 ## Wagon
-- 20x [Javelins](https://www.dndbeyond.com/equipment/8-javelin)
+- 15x [Javelins](https://www.dndbeyond.com/equipment/8-javelin)

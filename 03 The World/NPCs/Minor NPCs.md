@@ -30,3 +30,12 @@
 
 ---
 ## Kolbaz
+
+---
+## Thalanthir
+- Shopbesitzer von [[Thalanthir’s Oddities]]
+- Magier (vermutlich stark)
+
+---
+## Loriel
+- Bard
