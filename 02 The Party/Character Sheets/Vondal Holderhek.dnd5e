@@ -70,7 +70,14 @@
 			</currency>
 			<notes>
 				<note column="left">Next spells to learn:
+- Tasha's Hideaus Laugthe (Level 1)
 - Web (level 2)
+- Fear (Level 3)
+- Otiluke's Resilient Sphere (Level 4)
+- Sickening Radiance (Level 4)
+
+How to obtain hp for the Wizard:
+- Constitution
 
 How to obtain armor for the Wizard:
 - Dexterity
@@ -180,7 +187,7 @@ How to obtain armor for the Wizard:
 						<element type="Spell" name="Spellbook (Wizard)" requiredLevel="7" number="1" checksum="3a733eaa" registered="ID_PHB_SPELL_POLYMORPH" />
 						<element type="Spell" name="Spellbook (Wizard)" requiredLevel="7" number="2" checksum="440b760c" registered="ID_PHB_SPELL_PHANTASMAL_KILLER" />
 						<element type="Spell" name="Spellbook (Wizard)" requiredLevel="8" number="1" checksum="fa95ba6b" registered="ID_PHB_SPELL_BANISHMENT" />
-						<element type="Spell" name="Spellbook (Wizard)" requiredLevel="8" number="2" checksum="84edf2cd" registered="ID_XGTE_SPELL_SICKENING_RADIANCE" />
+						<element type="Spell" name="Spellbook (Wizard)" requiredLevel="8" number="2" checksum="84edf2cd" registered="ID_PHB_SPELL_SLOW" />
 						<element type="Grants" name="Ritual Casting" id="ID_INTERNAL_RITUAL_CASTING" />
 						<element type="Proficiency" name="Spellcasting Focus Group (Arcane Focus)" id="ID_INTERNAL_PROFICIENCY_SPELLFOCUS_GROUP_ARCANE_FOCUS" />
 					</element>
@@ -463,13 +470,13 @@ Patent rolls:</conditional>
 			<element type="Level" id="ID_LEVEL_7" />
 			<element type="Spell" id="ID_PHB_SPELL_POLYMORPH" />
 			<element type="Spell" id="ID_PHB_SPELL_PHANTASMAL_KILLER" />
+			<element type="Level" id="ID_LEVEL_8" />
+			<element type="Spell" id="ID_PHB_SPELL_BANISHMENT" />
+			<element type="Feat" id="ID_PHB_FEAT_LUCKY" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" />
 			<element type="Armor" id="ID_WOTC_ARMOR_MEDIUM_CHAIN_SHIRT" />
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
-			<element type="Level" id="ID_LEVEL_8" />
-			<element type="Feat" id="ID_PHB_FEAT_LUCKY" />
-			<element type="Spell" id="ID_PHB_SPELL_BANISHMENT" />
-			<element type="Spell" id="ID_XGTE_SPELL_SICKENING_RADIANCE" />
+			<element type="Spell" id="ID_PHB_SPELL_SLOW" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_WIZARD" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DAGGER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DART" />
@@ -519,9 +526,9 @@ Patent rolls:</conditional>
 					<spell name="Cloud of Daggers" level="2" id="ID_PHB_SPELL_CLOUD_OF_DAGGERS" always-prepared="true" known="true" />
 					<spell name="Invisibility" level="2" id="ID_PHB_SPELL_INVISIBILITY" always-prepared="true" known="true" />
 					<spell name="Major Image" level="3" id="ID_PHB_SPELL_MAJOR_IMAGE" always-prepared="true" known="true" />
+					<spell name="Slow" level="3" id="ID_PHB_SPELL_SLOW" always-prepared="true" known="true" />
 					<spell name="Banishment" level="4" id="ID_PHB_SPELL_BANISHMENT" always-prepared="true" known="true" />
 					<spell name="Polymorph" level="4" id="ID_PHB_SPELL_POLYMORPH" always-prepared="true" known="true" />
-					<spell name="Sickening Radiance" level="4" id="ID_XGTE_SPELL_SICKENING_RADIANCE" always-prepared="true" known="true" />
 				</spells>
 			</spellcasting>
 		</magic>
