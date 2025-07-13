@@ -1,6 +1,9 @@
 ---
 tags:
   - monster
+  - monster/golem
+aliases:
+  - Eisengolem
 ---
 - Immunity: Fire
 - Takes radiant, force damage

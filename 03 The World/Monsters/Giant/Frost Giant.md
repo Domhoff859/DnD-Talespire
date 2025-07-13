@@ -1,6 +1,7 @@
 ---
 tags:
   - monster
+  - monster/giant
 aliases:
   - Eisriese
   - Eisriesen
