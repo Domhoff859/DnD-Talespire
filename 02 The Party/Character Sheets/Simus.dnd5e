@@ -14,7 +14,7 @@
 		<archetype>
 		</archetype>
 		<background>Hermit</background>
-		<level>7</level>
+		<level>8</level>
 		<portrait>
 			<companion>
 			</companion>
@@ -28,13 +28,13 @@
 			<name>Simus</name>
 			<gender>Male</gender>
 			<player-name>Dominic</player-name>
-			<experience>25614</experience>
+			<experience>35470</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
-				<attack identifier="f9eef82d-8ef0-4569-a7c0-183cb2d2f8bc" name="Quarterstaff" range="5 ft" attack="+2 vs AC" damage="1d6-1 bludgeoning" displayed="true" ability="Strength">
+				<attack identifier="f9eef82d-8ef0-4569-a7c0-183cb2d2f8bc" name="Quarterstaff" range="5 ft" attack="+5 vs AC" damage="1d6+2 bludgeoning" displayed="true" ability="Strength">
 					<description><![CDATA[Versatile]]></description>
 				</attack>
-				<attack identifier="bbfd2502-d887-4476-b458-b6d024289f22" name="Amulet" range="5 ft" attack="-1 vs AC" damage="-1 " displayed="true" ability="Strength">
+				<attack identifier="bbfd2502-d887-4476-b458-b6d024289f22" name="Amulet" range="5 ft" attack="+2 vs AC" damage="+2 " displayed="true" ability="Strength">
 					<description><![CDATA[]]></description>
 				</attack>
 			</attacks>
@@ -55,44 +55,88 @@ I often get lost in my own thoughts and contemplation, becoming oblivious to my 
 				</feature>
 			</background>
 			<organization>
-				<name>
-				</name>
-				<symbol>
-				</symbol>
-				<allies><![CDATA[]]></allies>
+				<name>Der Kreis von Elandor</name>
+				<symbol>C:\Users\domin\Documents\5e Character Builder\gallery\symbols\der kreis von elandororden symbol.png</symbol>
+				<allies><![CDATA[Der Kreis von Elandorn ist ein geheimer Orden von Priestern, Waldläufern und Heilern, die der Göttin Mielikki geweiht sind. Tief in den ältesten Wäldern verborgen, wachen seine Mitglieder über heilige Stätten, verlorenes Wissen und die natürliche Ordnung. Der Orden glaubt daran, dass wahre Stärke aus Harmonie mit der Natur, nicht aus Kontrolle über sie entsteht.
+
+Gegründet vor Jahrhunderten am mythischen Hain Elandorn, einem Ort, an dem der Schleier zwischen Welt und Göttlicher Gegenwart dünn ist, vereinen sich im Kreis Heilkunst, Jagd, Verteidigung und spirituelle Führung.
+
+Der Orden greift nur ein, wenn das Gleichgewicht bedroht wird – durch dunkle Magie, verderbte Kulte oder jene, die die Wälder entweihen. Sein Emblem, ein Kreis aus Wurzeln und Ästen mit einem Blatt im Zentrum, steht für den ewigen Kreislauf von Leben und Wiederkehr.
+
+Motto:
+„Im Wurzelkreis vereint, durch das Blatt geführt.“]]></allies>
 			</organization>
 			<additional-features><![CDATA[]]></additional-features>
 			<currency>
 				<copper>0</copper>
 				<silver>0</silver>
 				<electrum>0</electrum>
-				<gold>121</gold>
+				<gold>244</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
-				<treasure><![CDATA[- 1x Inspiration
-
-- 5x Revifiy
-
-- 10 Glass Vials
+				<treasure><![CDATA[- 7 Glass Vials
 - 4 glass jars
 - 1 Tin Man Oil Can (empty)
 
-- 1 Dreamleaf (50GP)
+- 1 Druidenkräuter 
+
 - 1 Königsblatt (12,5GP)
-- 2 Kamille (2GP)
+- 1 Eisnelke (1 Tag +1 auf Saving Throws gegen Kälte)
+- 1 Waldknoblauch (1/2 Ration)
+- 1 Schattenberre (1d4 TP Heilung)
+
+- 3 Heilige Texte
 
 - A perfume bottle
 
+- 1x Platinum Ring
+
 Bag of Holding:
- - 1x  Riesengroßschwert (150pd)
- - 2x Holztür mit abgebrochenen Metallhalterungen (100pd) (Bag of Holding)
- - 1x 6 Fuß Zaunpfahl (50pd) (Bag of Holding)
+ - 1x 6 Fuß Zaunpfahl (50pd)
  - 1x 5 Fuß Kette
- - 15 Rations]]></treasure>
+ - 2x Knochen für Animate Dead (je 20pd)
+ - 1x Rostiger Nagel (Glücksbringer)
+ - 1x Pergament mit Lied über die Große Jagd]]></treasure>
 			</currency>
 			<notes>
-				<note column="left">
-				</note>
+				<note column="left">Der Ruf der Göttin
+
+Noch ehe die Sonne ganz über die Baumwipfel steigt, findet ihr Simus und Kriv am Rand des Lagers. Simus hält ein versiegeltes Schreiben in der Hand, das Wachs bereits gebrochen. Kriv steht dicht bei ihm, sein Blick ernst.
+
+Simus sieht euch an, die Worte schwer auf seiner Zunge. „Heute Nacht erhielt ich eine göttliche Eingebung. Mein Orden braucht mich – dringend. Etwas wurde gefunden, das nie hätte ans Licht kommen dürfen. Ich muss dorthin, sofort.“
+
+Kriv verschränkt die Arme. „Und er geht nicht allein. Ich kenne die Region, und ehrlich gesagt – ich trau dem Ganzen nicht. Das klingt nicht nach einem Auftrag für einen Priester allein.“
+
+Simus nickt langsam. „Wir haben überlegt, euch zu bitten, mitzukommen… aber wir dürfen euch nicht in Gefahr bringen. Der Ort, an den wir müssen, ist geweiht – und zugleich verflucht. Fremde würden nur Misstrauen wecken. Es muss schnell gehen, diskret und ohne Aufsehen.“
+
+Kriv legt seine Hand auf den Griff seiner Axt. „Ihr habt eure Mission – und wir haben unsere. Wenn die Götter wollen, kreuzen sich unsere Wege bald wieder.“
+
+Ein letztes Nicken, ein stiller Blick in die Runde – und dann verschwinden die beiden wortlos zwischen den Bäumen, auf einem Weg, den nur sie gehen können.
+
+Die Nacht war still gewesen – doch in ihrem Herzen hatte sie gerufen. Simus, Priester der Göttin Mielikki, war jäh aus dem Schlaf gerissen worden, als ein uralter Vers durch seine Träume hallte. Flüsternd, fordernd, erfüllt von göttlicher Dringlichkeit. Inmitten des Lagers, zwischen Wurzeln und Moos, hatte er sich niedergekniet – und ihre Worte empfangen.
+
+„Der Wald blutet. Die Hand, die einst deine Heimat schändete, greift erneut. Folge dem Ruf.“
+
+Simus zögerte nicht. Die Spuren deuteten auf dieselben Feinde, die einst seine Heimat niedergebrannt hatten – ein dunkler Kult, verborgen im Dickicht vergessener Götzen.
+
+Berufen durch Glauben, geleitet durch göttliches Wissen, trat Simus seine Reise zum Haupttempel an – begleitet von Kriv, seinem schweigsamen Weggefährten. Was sie dort finden würden, lag im Schatten der Geschichte verborgen.
+
+Doch Mielikki hatte gesprochen – und Simus würde antworten.
+
+Sechs Tage waren vergangen, als Simus erneut aus dem Schatten der Bäume trat – erschöpft, doch mit klarer Bestimmung in den Augen. Ohne Kriv.
+
+Der Angriff auf den Haupttempel war fehlgeschlagen – zumindest teilweise. Die dunklen Eindringlinge, deren Gesichter hinter Zeichen alter Flüche verborgen lagen, hatten es nicht vermocht, den gestohlenen Gegenstand vollständig zu entwenden. Der Orden hatte ihn, schwer beschädigt, zurückgeholt – ein Artefakt von unheilvoller Macht, nun in Sicherheit. Vorerst.
+
+Doch die Gefahr war nicht gebannt. Die Angreifer waren spurlos verschwunden. Ihr Ziel – und ihr Ursprung – blieben im Verborgenen. Zu wenig war bekannt, zu groß das Risiko eines weiteren, größeren Angriffs.
+
+Kriv hatte beschlossen, im Tempel zu bleiben. Als Krieger mit tiefer Kenntnis des Geländes und alter Verteidigungstechniken konnte er dem Orden helfen, sich für das Kommende zu wappnen.
+
+Simus hingegen hatte einen anderen Weg gewählt. Die Göttin hatte erneut zu ihm gesprochen:
+„Wissen allein reicht nicht – es braucht Bindung, Mut, Vertrauen. Und Verbündete.“
+
+Er musste wachsen – in Kraft, im Glauben, in der Gemeinschaft. Und er musste jene wiederfinden, die einst Seite an Seite mit ihm standen.
+
+So war er zurückgekehrt – um Antworten zu suchen, Stärke zu finden und vielleicht… Kriv eines Tages mit Hoffnung statt mit Warnung zu entgegnen.</note>
 				<note column="right">
 				</note>
 			</notes>
@@ -109,16 +153,16 @@ Bag of Holding:
 			<hair>White</hair>
 		</appearance>
 		<abilities available-points="15">
-			<strength>8</strength>
+			<strength>14</strength>
 			<dexterity>12</dexterity>
-			<constitution>10</constitution>
-			<intelligence>13</intelligence>
+			<constitution>13</constitution>
+			<intelligence>9</intelligence>
 			<wisdom>15</wisdom>
-			<charisma>14</charisma>
+			<charisma>10</charisma>
 		</abilities>
-		<elements level-count="7" registered-count="30">
+		<elements level-count="8" registered-count="34">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
-			<element type="Level" name="1" id="ID_LEVEL_1" rndhp="8,2,7,5,7,4,4,1,4,8,2,1,8,7,3,5,1,1,2,4">
+			<element type="Level" name="1" id="ID_LEVEL_1" rndhp="8,6,7,5,7,5,7,5,4,8,2,1,8,7,3,5,1,1,2,4">
 				<element type="Race" name="Race" requiredLevel="1" checksum="1597ef76" registered="ID_RACE_HUMAN">
 					<element type="Language" name="Language (Human)" requiredLevel="1" checksum="a9176f2d" registered="ID_LANGUAGE_GOBLIN" />
 					<element type="Race Variant" name="Human Variant" requiredLevel="1" checksum="492ee2bb" registered="" />
@@ -197,6 +241,7 @@ Bag of Holding:
 							<element type="Archetype Feature" name="Dampen Elements" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_DAMPEN_ELEMENTS" />
 							<element type="Spell" name="Dominate Beast" id="ID_PHB_SPELL_DOMINATE_BEAST" />
 							<element type="Spell" name="Grasping Vine" id="ID_PHB_SPELL_GRASPING_VINE" />
+							<element type="Archetype Feature" name="Divine Strike" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_DIVINE_STRIKE" />
 						</element>
 					</element>
 					<element type="Class Feature" name="Channel Divinity" id="ID_WOTC_PHB_CLASS_FEATURE_CLERIC_CHANNELDIVINITY">
@@ -205,6 +250,9 @@ Bag of Holding:
 					<element type="Class Feature" name="Ability Score Improvement" id="ID_WOTC_PHB_CLASS_FEATURE_CLERIC_ABILITYSCOREIMPROVEMENT_CLERIC">
 						<element type="Class Feature" name="Improvement Option (Cleric 4)" requiredLevel="4" checksum="96f2ea81" registered="ID_INTERNAL_CLASS_FEATURE_FEAT_4_CLERIC">
 							<element type="Feat" name="Feat (CLERIC 4)" requiredLevel="4" checksum="b1d6db60" registered="ID_PHB_FEAT_MOBILE" />
+						</element>
+						<element type="Class Feature" name="Improvement Option (Cleric 8)" requiredLevel="8" checksum="af5fcddc" registered="ID_INTERNAL_CLASS_FEATURE_FEAT_8_CLERIC">
+							<element type="Feat" name="Feat (CLERIC 8)" requiredLevel="8" checksum="b37e2650" registered="ID_PHB_FEAT_WARCASTER" />
 						</element>
 					</element>
 					<element type="Class Feature" name="Destroy Undead" id="ID_WOTC_PHB_CLASS_FEATURE_CLERIC_DESTROYUNDEAD" />
@@ -237,13 +285,31 @@ Bag of Holding:
 			<element type="Level" name="5" id="ID_LEVEL_5" />
 			<element type="Level" name="6" id="ID_LEVEL_6" />
 			<element type="Level" name="7" id="ID_LEVEL_7" />
+			<element type="Level" name="8" id="ID_LEVEL_8" />
+			<element type="Armor" name="Splint" id="ID_WOTC_ARMOR_HEAVY_SPLINT">
+				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
+			</element>
 		</elements>
 		<defenses>
-			<conditional>Leben: 37/37
+			<conditional>Leben: 66/66
 1st: 4/4
 2nd: 3/3
 3rd: 3/3
-4th: 2/2</conditional>
+4th: 2/2
+
+Inspiration: 1
+Revifiy: 5
+
+Army:
+Zombies:
+  - xxx
+Skeletons:
+  - Arthur (Schwert) 0/13
+  - Timothy (Bogen) 0/13
+  - Kevin (Kaputter Speer) 0/13
+  - Sebastian (Speer 1) 0/13
+  - Walter(Speer 2) 0/13
+  - Paul (Kaputtes Schwert) 0/13</conditional>
 		</defenses>
 		<companion name="">
 			<attributes>
@@ -320,7 +386,7 @@ Bag of Holding:
 					</notes>
 				</details>
 			</item>
-			<item identifier="c3a41350-06d6-4937-85e5-15e50679af54" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="12">
+			<item identifier="c3a41350-06d6-4937-85e5-15e50679af54" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="25">
 				<details card="true">
 					<name>
 					</name>
@@ -368,29 +434,8 @@ Bag of Holding:
 					</notes>
 				</details>
 			</item>
-			<item identifier="bba372be-5126-4935-8cf0-c4a078f00acc" name="Cloak of Displacement" id="ID_WOTC_DMG_MAGIC_ITEM_CLOAK_OF_DISPLACEMENT" sidebar="true">
-				<equipped>true</equipped>
-				<attunement>true</attunement>
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
 			<item identifier="ef587d99-2e75-4a95-8244-9666b36a8c2d" name="Shield" id="ID_WOTC_GEAR_SHIELD">
 				<equipped location="Secondary Hand">true</equipped>
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
-			<item identifier="924e560b-0fc4-4a40-8212-e5c9db62c133" name="Crossbow, Light" id="ID_WOTC_PHB_WEAPON_CROSSBOW_LIGHT">
-				<items>
-					<adorner name="Weapon, +1" id="ID_WOTC_DMG_MAGIC_ITEM_WEAPON_1" />
-				</items>
 				<details card="true">
 					<name>
 					</name>
@@ -406,7 +451,7 @@ Bag of Holding:
 					</notes>
 				</details>
 			</item>
-			<item identifier="281283c1-1215-430d-9b43-0e97b95c4e38" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING" amount="4">
+			<item identifier="281283c1-1215-430d-9b43-0e97b95c4e38" name="Potion of Greater Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_GREATER_HEALING">
 				<details card="true">
 					<name>
 					</name>
@@ -431,16 +476,7 @@ Bag of Holding:
 					</notes>
 				</details>
 			</item>
-			<item identifier="c264e513-fe4b-47ba-b9ec-7dc0a7d9bf31" name="Breastplate" id="ID_WOTC_ARMOR_MEDIUM_BREASTPLATE">
-				<equipped location="Armor">true</equipped>
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
-			<item identifier="183edca7-01f3-4401-837e-db1443010198" name="Potion of Healing" id="ID_WOTC_PHB_ITEM_POTIONOFHEALING" amount="3">
+			<item identifier="183edca7-01f3-4401-837e-db1443010198" name="Potion of Healing" id="ID_WOTC_PHB_ITEM_POTIONOFHEALING">
 				<details card="true">
 					<name>
 					</name>
@@ -456,8 +492,42 @@ Bag of Holding:
 					</notes>
 				</details>
 			</item>
+			<item identifier="7f5c7a75-e848-4dfe-a050-d56b6bf40867" name="Quarterstaff" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" sidebar="true">
+				<attunement>true</attunement>
+				<items>
+					<adorner name="Staff of the Python" id="ID_WOTC_DMG_MAGIC_ITEM_STAFF_OF_THE_PYTHON" />
+				</items>
+				<details card="true">
+					<name>Staff of the Moon</name>
+					<notes>Allows to cast Moonbeam once per Day</notes>
+				</details>
+			</item>
+			<item identifier="e66c3a0c-2951-4bd5-a882-8a1c1acef436" name="Additional Spell, Moonbeam" id="ID_PHB_INTERNAL_ITEM__SPELL_PROXY_SPELL_MOONBEAM" hidden="true">
+				<details card="false">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="4450da7e-acd8-4aa0-a1ac-ecfea2dfa184" name="Amulet of Proof Against Detection and Location" id="ID_WOTC_DMG_MAGIC_ITEM_AMULET_OF_PROOF_AGAINST_DETECTION_AND_LOCATION" sidebar="true">
+				<attunement>true</attunement>
+				<details card="true">
+					<name>Amulet of the Hunt</name>
+					<notes>Advantage on Inititive Rolls once per day</notes>
+				</details>
+			</item>
+			<item identifier="f9f555e8-4e60-4302-9d0a-6586e4ddb5c5" name="Splint" id="ID_WOTC_ARMOR_HEAVY_SPLINT">
+				<equipped location="Armor">true</equipped>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
 		</equipment>
-		<sum element-count="98">
+		<sum element-count="104">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Level" id="ID_LEVEL_1" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_CHARACTER_BASE" />
@@ -492,10 +562,14 @@ Bag of Holding:
 			<element type="Level" id="ID_LEVEL_5" />
 			<element type="Level" id="ID_LEVEL_6" />
 			<element type="Level" id="ID_LEVEL_7" />
-			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_CLOAK_OF_DISPLACEMENT" />
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
 			<element type="Item" id="ID_WOTC_PHB_ITEM_AMULET" />
-			<element type="Armor" id="ID_WOTC_ARMOR_MEDIUM_BREASTPLATE" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_STAFF_OF_THE_PYTHON" />
+			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_AMULET_OF_PROOF_AGAINST_DETECTION_AND_LOCATION" />
+			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_SPLINT" />
+			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
+			<element type="Level" id="ID_LEVEL_8" />
+			<element type="Feat" id="ID_PHB_FEAT_WARCASTER" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_CLERIC" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
@@ -555,11 +629,13 @@ Bag of Holding:
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_DAMPEN_ELEMENTS" />
 			<element type="Spell" id="ID_PHB_SPELL_DOMINATE_BEAST" />
 			<element type="Spell" id="ID_PHB_SPELL_GRASPING_VINE" />
+			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_DIVINE_STRIKE" />
 			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_FEAT_4_CLERIC" />
+			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_FEAT_8_CLERIC" />
 		</sum>
 		<magic>
 			<spellcasting name="Cleric" ability="Wisdom" attack="6" dc="14" source="ID_WOTC_PHB_CLASS_FEATURE_CLERIC_SPELLCASTING_CLERIC">
-				<slots s1="4" s2="3" s3="3" s4="1" s5="0" s6="0" s7="0" s8="0" s9="0" />
+				<slots s1="4" s2="3" s3="3" s4="2" s5="0" s6="0" s7="0" s8="0" s9="0" />
 				<cantrips>
 					<spell name="Druidcraft" level="0" id="ID_PHB_SPELL_DRUIDCRAFT" />
 					<spell name="Light" level="0" id="ID_PHB_SPELL_LIGHT" />
@@ -569,35 +645,37 @@ Bag of Holding:
 				</cantrips>
 				<spells>
 					<spell name="Animal Friendship" level="1" id="ID_PHB_SPELL_ANIMAL_FRIENDSHIP" prepared="true" always-prepared="true" known="true" />
-					<spell name="Create or Destroy Water" level="1" id="ID_PHB_SPELL_CREATE_OR_DESTROY_WATER" prepared="true" />
 					<spell name="Cure Wounds" level="1" id="ID_PHB_SPELL_CURE_WOUNDS" prepared="true" />
 					<spell name="Guiding Bolt" level="1" id="ID_PHB_SPELL_GUIDING_BOLT" prepared="true" />
-					<spell name="Healing Word" level="1" id="ID_PHB_SPELL_HEALING_WORD" prepared="true" />
-					<spell name="Sanctuary" level="1" id="ID_PHB_SPELL_SANCTUARY" prepared="true" />
+					<spell name="Shield of Faith" level="1" id="ID_PHB_SPELL_SHIELD_OF_FAITH" prepared="true" />
 					<spell name="Speak with Animals" level="1" id="ID_PHB_SPELL_SPEAK_WITH_ANIMALS" prepared="true" always-prepared="true" known="true" />
+					<spell name="Aid" level="2" id="ID_PHB_SPELL_AID" prepared="true" />
 					<spell name="Barkskin" level="2" id="ID_PHB_SPELL_BARKSKIN" prepared="true" always-prepared="true" known="true" />
 					<spell name="Spike Growth" level="2" id="ID_PHB_SPELL_SPIKE_GROWTH" prepared="true" always-prepared="true" known="true" />
 					<spell name="Spiritual Weapon" level="2" id="ID_PHB_SPELL_SPIRITUAL_WEAPON" prepared="true" />
-					<spell name="Fast Friends" level="3" id="ID_WOTC_ACQINC_SPELL_FAST_FRIENDS" prepared="true" />
+					<spell name="Warding Bond" level="2" id="ID_PHB_SPELL_WARDING_BOND" prepared="true" />
+					<spell name="Mass Healing Word" level="3" id="ID_PHB_SPELL_MASS_HEALING_WORD" prepared="true" />
 					<spell name="Plant Growth" level="3" id="ID_PHB_SPELL_PLANT_GROWTH" prepared="true" always-prepared="true" known="true" />
-					<spell name="Protection from Energy" level="3" id="ID_PHB_SPELL_PROTECTION_FROM_ENERGY" prepared="true" />
 					<spell name="Revivify" level="3" id="ID_PHB_SPELL_REVIVIFY" prepared="true" />
 					<spell name="Spirit Guardians" level="3" id="ID_PHB_SPELL_SPIRIT_GUARDIANS" prepared="true" />
 					<spell name="Wind Wall" level="3" id="ID_PHB_SPELL_WIND_WALL" prepared="true" always-prepared="true" known="true" />
+					<spell name="Death Ward" level="4" id="ID_PHB_SPELL_DEATH_WARD" prepared="true" />
 					<spell name="Dominate Beast" level="4" id="ID_PHB_SPELL_DOMINATE_BEAST" prepared="true" always-prepared="true" known="true" />
 					<spell name="Grasping Vine" level="4" id="ID_PHB_SPELL_GRASPING_VINE" prepared="true" always-prepared="true" known="true" />
+					<spell name="Stone Shape" level="4" id="ID_PHB_SPELL_STONE_SHAPE" prepared="true" />
 					<spell name="Bane" level="1" id="ID_PHB_SPELL_BANE" />
 					<spell name="Bless" level="1" id="ID_PHB_SPELL_BLESS" />
 					<spell name="Ceremony" level="1" id="ID_XGTE_SPELL_CEREMONY" />
 					<spell name="Command" level="1" id="ID_PHB_SPELL_COMMAND" />
+					<spell name="Create or Destroy Water" level="1" id="ID_PHB_SPELL_CREATE_OR_DESTROY_WATER" />
 					<spell name="Detect Evil and Good" level="1" id="ID_PHB_SPELL_DETECT_EVIL_AND_GOOD" />
 					<spell name="Detect Magic" level="1" id="ID_PHB_SPELL_DETECT_MAGIC" />
 					<spell name="Detect Poison and Disease" level="1" id="ID_PHB_SPELL_DETECT_POISON_AND_DISEASE" />
+					<spell name="Healing Word" level="1" id="ID_PHB_SPELL_HEALING_WORD" />
 					<spell name="Inflict Wounds" level="1" id="ID_PHB_SPELL_INFLICT_WOUNDS" />
 					<spell name="Protection from Evil and Good" level="1" id="ID_PHB_SPELL_PROTECTION_FROM_EVIL_AND_GOOD" />
 					<spell name="Purify Food and Drink" level="1" id="ID_PHB_SPELL_PURIFY_FOOD_AND_DRINK" />
-					<spell name="Shield of Faith" level="1" id="ID_PHB_SPELL_SHIELD_OF_FAITH" />
-					<spell name="Aid" level="2" id="ID_PHB_SPELL_AID" />
+					<spell name="Sanctuary" level="1" id="ID_PHB_SPELL_SANCTUARY" />
 					<spell name="Augury" level="2" id="ID_PHB_SPELL_AUGURY" />
 					<spell name="Blindness/Deafness" level="2" id="ID_PHB_SPELL_BLINDNESS_DEAFNESS" />
 					<spell name="Calm Emotions" level="2" id="ID_PHB_SPELL_CALM_EMOTIONS" />
@@ -611,7 +689,6 @@ Bag of Holding:
 					<spell name="Prayer of Healing" level="2" id="ID_PHB_SPELL_PRAYER_OF_HEALING" />
 					<spell name="Protection from Poison" level="2" id="ID_PHB_SPELL_PROTECTION_FROM_POISON" />
 					<spell name="Silence" level="2" id="ID_PHB_SPELL_SILENCE" />
-					<spell name="Warding Bond" level="2" id="ID_PHB_SPELL_WARDING_BOND" />
 					<spell name="Zone of Truth" level="2" id="ID_PHB_SPELL_ZONE_OF_TRUTH" />
 					<spell name="Animate Dead" level="3" id="ID_PHB_SPELL_ANIMATE_DEAD" />
 					<spell name="Beacon of Hope" level="3" id="ID_PHB_SPELL_BEACON_OF_HOPE" />
@@ -620,14 +697,15 @@ Bag of Holding:
 					<spell name="Create Food and Water" level="3" id="ID_PHB_SPELL_CREATE_FOOD_AND_WATER" />
 					<spell name="Daylight" level="3" id="ID_PHB_SPELL_DAYLIGHT" />
 					<spell name="Dispel Magic" level="3" id="ID_PHB_SPELL_DISPEL_MAGIC" />
+					<spell name="Fast Friends" level="3" id="ID_WOTC_ACQINC_SPELL_FAST_FRIENDS" />
 					<spell name="Feign Death" level="3" id="ID_PHB_SPELL_FEIGN_DEATH" />
 					<spell name="Glyph of Warding" level="3" id="ID_PHB_SPELL_GLYPH_OF_WARDING" />
 					<spell name="Incite Greed" level="3" id="ID_WOTC_ACQINC_SPELL_INCITE_GREED" />
 					<spell name="Life Transference" level="3" id="ID_XGTE_SPELL_LIFE_TRANSFERENCE" />
 					<spell name="Magic Circle" level="3" id="ID_PHB_SPELL_MAGIC_CIRCLE" />
-					<spell name="Mass Healing Word" level="3" id="ID_PHB_SPELL_MASS_HEALING_WORD" />
 					<spell name="Meld into Stone" level="3" id="ID_PHB_SPELL_MELD_INTO_STONE" />
 					<spell name="Motivational Speech" level="3" id="ID_WOTC_ACQINC_SPELL_MOTIVATIONAL_SPEECH" />
+					<spell name="Protection from Energy" level="3" id="ID_PHB_SPELL_PROTECTION_FROM_ENERGY" />
 					<spell name="Remove Curse" level="3" id="ID_PHB_SPELL_REMOVE_CURSE" />
 					<spell name="Sending" level="3" id="ID_PHB_SPELL_SENDING" />
 					<spell name="Speak with Dead" level="3" id="ID_PHB_SPELL_SPEAK_WITH_DEAD" />
@@ -635,12 +713,10 @@ Bag of Holding:
 					<spell name="Water Walk" level="3" id="ID_PHB_SPELL_WATER_WALK" />
 					<spell name="Banishment" level="4" id="ID_PHB_SPELL_BANISHMENT" />
 					<spell name="Control Water" level="4" id="ID_PHB_SPELL_CONTROL_WATER" />
-					<spell name="Death Ward" level="4" id="ID_PHB_SPELL_DEATH_WARD" />
 					<spell name="Divination" level="4" id="ID_PHB_SPELL_DIVINATION" />
 					<spell name="Freedom of Movement" level="4" id="ID_PHB_SPELL_FREEDOM_OF_MOVEMENT" />
 					<spell name="Guardian of Faith" level="4" id="ID_PHB_SPELL_GUARDIAN_OF_FAITH" />
 					<spell name="Locate Creature" level="4" id="ID_PHB_SPELL_LOCATE_CREATURE" />
-					<spell name="Stone Shape" level="4" id="ID_PHB_SPELL_STONE_SHAPE" />
 				</spells>
 			</spellcasting>
 		</magic>
