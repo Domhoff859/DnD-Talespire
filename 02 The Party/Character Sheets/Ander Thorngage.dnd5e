@@ -14,7 +14,7 @@
 		<archetype>
 		</archetype>
 		<background>Acolyte</background>
-		<level>7</level>
+		<level>8</level>
 		<portrait>
 			<companion>
 			</companion>
@@ -28,7 +28,7 @@
 			<name>Ander Thorngage</name>
 			<gender>Male</gender>
 			<player-name>Johannes Blab</player-name>
-			<experience>35470</experience>
+			<experience>39528</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword +1" range="5 ft" attack="+8 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
@@ -67,12 +67,12 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 			<additional-features><![CDATA[Deity: Catgirl
 
 Titel: Treant-Schlächter
-Sprache: Primordial (Elementals)      66/125 gelernt]]></additional-features>
+Sprache: Primordial (Elementals)      98/125 gelernt]]></additional-features>
 			<currency>
 				<copper>9</copper>
 				<silver>2</silver>
 				<electrum>0</electrum>
-				<gold>178</gold>
+				<gold>210</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[Mineneinnahmen: 300 - 1500 Gold/Monat
@@ -83,6 +83,7 @@ Gerät im Haus (1 Feilenmaschine)
 Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Verbündete
 
 
+1 Spritzpistole
 1 Platinring
 1 Wolfsmantel (angezogen)
 1 Roter Umhang (Rotbrenner) 
@@ -100,11 +101,12 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 1 dreckige Robe (Messdiener-Goblin)
 1 Vorhang (Messdiener-Goblin)
 1 verdreckter, mottiger Umhang (König Grol)
-3 Weihwasser (Protection from evil and good)
-11 grüner Fetzen Stoff
+6 Weihwasser (Protection from evil and good)
+3 Wasserviolen
+6 grüner Fetzen Stoff
 1 braunerdfarbener Umhang (zerfetzt, blutig)
 1 bläulicher Umhang mir rotem Innenfutter (Neznar, die schwarze Spinne) (angezogen)
-6 Heilige Schriften (Shield of Faith)
+21 Heilige Schriften (Shield of Faith)
 1 kleiner Silberspiegel (Sanctuary)
 1 riesiger, zerfetzter Wollumhang (Frostriese)
 1 Umhang aus getrockneter Kuhhaut (Hügelriese)
@@ -114,9 +116,12 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 1 Wolfspelzumhang (8Gold)
 2 Feuersalamanderschuppen
 1 Oil of Sharpness (Waffe auf +3magisch angehoben, 1Stunde)
+1 Druidenkräuter (Abwehr von Albträumen/frostbasierten Effekten (einmal +2 auf einen Rettungswurf gegen Kältezauber/Schlafmagie)
+1 Zwergenmuttropfen (Vorteil auf Kon-saves für 8Stunden)
+2 starker Kräuterschnaps
+
 
 1 Riesenauge
-1 blutiger Felllendenschurz
 1 Trophäenkette mit abgeschnittenen Ohren
 2 Kinderschuh]]></treasure>
 			</currency>
@@ -132,7 +137,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 		<appearance>
 			<portrait>C:\Users\johan\OneDrive\Dokumente\5e Character Builder\portraits\elf high elf ander thorngage bild.jpg</portrait>
 			<age>35</age>
-			<height>4'6"</height>
+			<height>1,90m</height>
 			<weight>120 lb.</weight>
 			<eyes>Purple</eyes>
 			<skin>Pale</skin>
@@ -146,7 +151,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<wisdom>12</wisdom>
 			<charisma>14</charisma>
 		</abilities>
-		<elements level-count="7" registered-count="33">
+		<elements level-count="8" registered-count="36">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -284,6 +289,9 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 							<element type="Ability Score Improvement" name="Ability Score Increase (PALADIN 4)" requiredLevel="4" number="1" checksum="b48db1f7" registered="ID_INTERNAL_ASI_STRENGTH" />
 							<element type="Ability Score Improvement" name="Ability Score Increase (PALADIN 4)" requiredLevel="4" number="2" checksum="2d84e04d" registered="ID_INTERNAL_ASI_STRENGTH" />
 						</element>
+						<element type="Class Feature" name="Improvement Option (Paladin 8)" requiredLevel="8" checksum="112a6ddc" registered="ID_INTERNAL_CLASS_FEATURE_FEAT_8_PALADIN">
+							<element type="Feat" name="Feat (PALADIN 8)" requiredLevel="8" checksum="4c7e1c57" registered="ID_PHB_FEAT_TOUGH" />
+						</element>
 					</element>
 					<element type="Class Feature" name="Extra Attack" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_EXTRA_ATTACK" />
 					<element type="Class Feature" name="Aura of Protection" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_AURA_OF_PROTECTION" />
@@ -315,6 +323,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<element type="Level" name="5" id="ID_LEVEL_5" />
 			<element type="Level" name="6" id="ID_LEVEL_6" />
 			<element type="Level" name="7" id="ID_LEVEL_7" />
+			<element type="Level" name="8" id="ID_LEVEL_8" />
 			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
 				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			</element>
@@ -414,7 +423,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
-			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="29">
+			<item identifier="756dabfa-96d4-4ba9-88b6-fff0062e38ca" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="24">
 				<details card="true">
 					<name>
 					</name>
@@ -588,8 +597,16 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
+			<item identifier="272bc2b7-0f9c-4daa-8a1c-99bc4dcf0cf1" name="Potion of Superior Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_SUPERIOR_HEALING" amount="2">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
 		</equipment>
-		<sum element-count="146">
+		<sum element-count="149">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -636,6 +653,8 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<element type="Level" id="ID_LEVEL_5" />
 			<element type="Level" id="ID_LEVEL_6" />
 			<element type="Level" id="ID_LEVEL_7" />
+			<element type="Level" id="ID_LEVEL_8" />
+			<element type="Feat" id="ID_PHB_FEAT_TOUGH" />
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
@@ -736,12 +755,14 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_CHANNEL_DIVINITY_TURN_THE_UNHOLY" />
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_AURA_OF_DEVOTION" />
 			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_ASI_4_PALADIN" />
+			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_FEAT_8_PALADIN" />
 		</sum>
 		<magic>
 			<spellcasting name="Paladin" ability="Charisma" attack="5" dc="13" source="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_SPELLCASTING">
 				<slots s1="4" s2="3" s3="0" s4="0" s5="0" s6="0" s7="0" s8="0" s9="0" />
 				<cantrips />
 				<spells>
+					<spell name="Bless" level="1" id="ID_PHB_SPELL_BLESS" prepared="true" />
 					<spell name="Cure Wounds" level="1" id="ID_PHB_SPELL_CURE_WOUNDS" prepared="true" />
 					<spell name="Protection from Evil and Good" level="1" id="ID_PHB_SPELL_PROTECTION_FROM_EVIL_AND_GOOD" prepared="true" always-prepared="true" known="true" />
 					<spell name="Sanctuary" level="1" id="ID_PHB_SPELL_SANCTUARY" prepared="true" always-prepared="true" known="true" />
@@ -751,7 +772,6 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					<spell name="Find Steed" level="2" id="ID_PHB_SPELL_FIND_STEED" prepared="true" />
 					<spell name="Lesser Restoration" level="2" id="ID_PHB_SPELL_LESSER_RESTORATION" prepared="true" always-prepared="true" known="true" />
 					<spell name="Zone of Truth" level="2" id="ID_PHB_SPELL_ZONE_OF_TRUTH" prepared="true" always-prepared="true" known="true" />
-					<spell name="Bless" level="1" id="ID_PHB_SPELL_BLESS" />
 					<spell name="Command" level="1" id="ID_PHB_SPELL_COMMAND" />
 					<spell name="Compelled Duel" level="1" id="ID_PHB_SPELL_COMPELLED_DUEL" />
 					<spell name="Detect Evil and Good" level="1" id="ID_PHB_SPELL_DETECT_EVIL_AND_GOOD" />
