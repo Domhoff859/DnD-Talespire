@@ -28,7 +28,7 @@
 			<name>Vondal Holderhek</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>35470</experience>
+			<experience>39528</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="77ba559c-7bc5-4aa4-97a6-349a2d782f7e" name="Quarterstaff" range="5 ft" attack="+3 vs AC" damage="1d6+0 bludgeoning" displayed="true" ability="Strength">
@@ -62,20 +62,21 @@
 			<currency>
 				<copper>2</copper>
 				<silver>4</silver>
-				<electrum>1</electrum>
-				<gold>63</gold>
+				<electrum>0</electrum>
+				<gold>221</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[- Diamond (worth 50 GP)
 - Brass Brazier
 - 2x Find Familiar Materialien
+- Flackerfeuer Infusion: Die Augen leuchten 1 Minute wie heiße Kohlen, Vorteil auf Intimidation
 
 Copied spells to the Enduring Spellbook:
-- ]]></treasure>
+-]]></treasure>
 			</currency>
 			<notes>
 				<note column="left">Language learning progress:
-- Elvish: 31/125 (letztes Update 232)
+- Elvish: 35/125 (letztes Update 236)
 
 Next spells to learn:
 - Tasha's Hideaus Laugther (Level 1)
@@ -114,7 +115,7 @@ How to obtain armor for the Wizard:
 			<hair>
 			</hair>
 		</appearance>
-		<abilities available-points="15">
+		<abilities available-points="-6">
 			<strength>8</strength>
 			<dexterity>14</dexterity>
 			<constitution>14</constitution>
@@ -254,8 +255,12 @@ How to obtain armor for the Wizard:
 		</elements>
 		<defenses>
 			<conditional>Find Familiar: Owl
-Patent rolls:
-Use luck points: </conditional>
+Portent rolls: II
+Use luck points:
+Lvl 1: II
+Lvl 2:
+Lvl 3: II
+Lvl 4:</conditional>
 		</defenses>
 		<companion name="">
 			<attributes>
@@ -399,7 +404,7 @@ Use luck points: </conditional>
 					</notes>
 				</details>
 			</item>
-			<item identifier="99ab68f2-53fe-40b2-abb3-b5074db693a4" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="15">
+			<item identifier="99ab68f2-53fe-40b2-abb3-b5074db693a4" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="25">
 				<details card="true">
 					<name>
 					</name>
@@ -494,11 +499,11 @@ Use luck points: </conditional>
 			<element type="Spell" id="ID_PHB_SPELL_PHANTASMAL_KILLER" />
 			<element type="Level" id="ID_LEVEL_8" />
 			<element type="Spell" id="ID_PHB_SPELL_BANISHMENT" />
+			<element type="Spell" id="ID_XGTE_SPELL_SICKENING_RADIANCE" />
 			<element type="Feat" id="ID_PHB_FEAT_LUCKY" />
 			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" />
 			<element type="Armor" id="ID_WOTC_ARMOR_MEDIUM_CHAIN_SHIRT" />
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
-			<element type="Spell" id="ID_XGTE_SPELL_SICKENING_RADIANCE" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_WIZARD" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DAGGER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DART" />

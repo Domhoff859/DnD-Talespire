@@ -7,7 +7,7 @@ tags:
 **Ziel**: [[Eye of the All-father|Auge des Allvaters]]
 
 **Aufgabe**:
-[[Harshnag]] zu dem uralten Tempel der Riesen, [[Eye of the All-father|Auge des Allvaters]], folgen. In diesem Tempel das Orakel nach weiteren Informationen bzgl. [[Herzog Zalto]] fragen, z.B. seine schwächen.
+[[Harshnag]] zu dem uralten Tempel der Riesen, [[Eye of the All-father|Auge des Allvaters]], folgen. In diesem Tempel das Orakel nach weiteren Informationen bzgl. [[Herzog Zalto]] fragen, z.B. seine Schwächen.
 
 **Anmerkungen**:
 Session [[250713]]:

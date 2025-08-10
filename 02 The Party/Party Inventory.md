@@ -5,7 +5,7 @@
 
 | Copper | Silver | Electron | Gold  | Platin |
 | ------ | ------ | -------- | ----- | ------ |
-| 2      | 7      | 420      | 131   | 0      |
+| 2      | 7      | 420      | 1083  | 0      |
 | 10->S  | 10->G  | 5->G     | 10->P |        |
 
 ---
@@ -60,6 +60,10 @@
 - 1x Electrum Music Box (à 50 GP)
 - 9x Arrows +2
 - 1x Schwere Pergamentrolle: Ritual der Blutmondverwandlung (schwarze Magie) (à 5000 GP)
+- 10x Edelsteine (à 10 GP)
+- 1x Ziegenhornpaar (à 10 GP)
+- 7x Beutel mit Edelsteinen (à 100 GP)
+- 1x Kopf vom Chief vom Great Worm Tribe
 
 ---
 
