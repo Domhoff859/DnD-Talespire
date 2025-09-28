@@ -10,7 +10,7 @@ Gefahr: können Felsen werden, trampeln Häuser nieder
 Empfehlung: fliehen oder aus sicherer Entfernung bekämpfen
 
 [[Stone Giant]]
-Beschreibung: blaussgraue Haut, leben meist zurückgezogen in Höhlen und Bergen
+Beschreibung: blassgraue Haut, leben meist zurückgezogen in Höhlen und Bergen
 Verhalten: meiden Menschen, greifen aber mit Felsbrocken an wenn sie gestört werden
 Besonderheit: geschickt mit Steinschleudern
 Empfehlung: am besten nicht provozieren
@@ -39,11 +39,18 @@ Verhalten: weise, einzelgängerisch, aber bei Zorn entfesseln sie Stürme und Bl
 Empfehlun: begegnet ihnen mit Respekt oder haltet euch fern
 
 Chimera
-Beschreibung: mehrere Köpfe, typischerweise 14 AC, 60ft fly speed, fire breath, ~100-125 hp, hat loot in der höhle
+Beschreibung: mehrere Köpfe, typischerweise 14 AC, 60ft fly speed, fire breath, ~100-125 hp, hat loot in der Höhle
 
 Schwarzer Reiter
 Beschreibung: schwarze Rüstung, flammendes Feuerschwert, mindestens 20 AC (22 trifft), sein Pferd hat <= 18 AC, er kann parieren +6 AC, advantage auf saving throws
 
+[[Remorhaz]]
+Beschreibung: huge, bläulich, viele kleine Füße, einen Drachen ähnlichen Kopf, sehr intelligent, ~400 hp
+Seltenheit: sehr selten
+Immunität: Feuer, Eis
+Nicht immun gegen: Force, Thunder, physischen Schaden
+Gefahr: jeder im Umkreis von 5 ft nimmt Feuerschaden
+Empfehlung: direkte Konfrontation vermeiden
 # Die Chroniken: Personen und Orte
 
 [[Mirabar]]
@@ -62,6 +69,8 @@ Nördlich zwischen [[Mirabar]] und [[Eye of the All-father|Auge des Allvaters]]:
 - Sehr viele Lawinen
 - Zuffälig auftretende Gletscherspalten
 - Giants, Drachen, alte Monster
+
+Unter den Frostbergen schlummern Adern von Silber und Mithral, unberührt seit dem Fall Ostorias. In den nördlichen Tiefen der Spine of the World liegt Reichtum für jene, die den Mut und die Werkzeuge haben. Keiner der jetzt Lebenden ist dies bekannt.
 
 ---
   

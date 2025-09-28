@@ -17,8 +17,8 @@
 ---
 ## Potions
 - 1x [Potion of Flying](https://www.dndbeyond.com/magic-items/4704-potion-of-flying) (Buy 5000 GP; Sell 500 GP)
-- 2x [Potion of Fire Giant Strenght](https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength) 
-- 1x [Potion of Frost Giant Strenght](https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength) 
+- 2x [Potion of Fire Giant Strength](https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength) 
+- 1x [Potion of Frost Giant Strength](https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength) 
 - 1x [Potion of Mind Reading](https://www.dndbeyond.com/magic-items/4711-potion-of-mind-reading) 
 - 1x [Potion of Water Breathing](https://www.dndbeyond.com/magic-items/4715-potion-of-water-breathing) 
 - 1x [Potion of Growth](https://www.dndbeyond.com/magic-items/4707-potion-of-growth)  

@@ -28,11 +28,14 @@
 			<name>Vondal Holderhek</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>39528</experience>
+			<experience>40728</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="77ba559c-7bc5-4aa4-97a6-349a2d782f7e" name="Quarterstaff" range="5 ft" attack="+3 vs AC" damage="1d6+0 bludgeoning" displayed="true" ability="Strength">
 					<description><![CDATA[Versatile]]></description>
+				</attack>
+				<attack identifier="4a14327c-a382-4c6b-909d-e1a209080537" name="Dagger" range="20/60" attack="+5 vs AC" damage="1d4+2 piercing" displayed="true" ability="Dexterity">
+					<description><![CDATA[Finesse, Light, Thrown]]></description>
 				</attack>
 			</attacks>
 			<backstory><![CDATA[You spent years learning the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you. Your efforts have made you a master in your fields of study.]]></backstory>
@@ -70,6 +73,7 @@
 - Brass Brazier
 - 2x Find Familiar Materialien
 - Flackerfeuer Infusion: Die Augen leuchten 1 Minute wie heiße Kohlen, Vorteil auf Intimidation
+- Essenz eines Remorhaz
 
 Copied spells to the Enduring Spellbook:
 -]]></treasure>
@@ -115,7 +119,7 @@ How to obtain armor for the Wizard:
 			<hair>
 			</hair>
 		</appearance>
-		<abilities available-points="-6">
+		<abilities available-points="15">
 			<strength>8</strength>
 			<dexterity>14</dexterity>
 			<constitution>14</constitution>
@@ -257,9 +261,9 @@ How to obtain armor for the Wizard:
 			<conditional>Find Familiar: Owl
 Portent rolls: II
 Use luck points:
-Lvl 1: II
+Lvl 1:
 Lvl 2:
-Lvl 3: II
+Lvl 3:
 Lvl 4:</conditional>
 		</defenses>
 		<companion name="">
@@ -420,6 +424,14 @@ Lvl 4:</conditional>
 					</notes>
 				</details>
 			</item>
+			<item identifier="4a14327c-a382-4c6b-909d-e1a209080537" name="Dagger" id="ID_WOTC_PHB_WEAPON_DAGGER">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
 		</equipment>
 		<sum element-count="103">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
@@ -501,9 +513,9 @@ Lvl 4:</conditional>
 			<element type="Spell" id="ID_PHB_SPELL_BANISHMENT" />
 			<element type="Spell" id="ID_XGTE_SPELL_SICKENING_RADIANCE" />
 			<element type="Feat" id="ID_PHB_FEAT_LUCKY" />
-			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" />
 			<element type="Armor" id="ID_WOTC_ARMOR_MEDIUM_CHAIN_SHIRT" />
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
+			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_WIZARD" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DAGGER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DART" />

@@ -6,7 +6,7 @@ aliases:
   - Eisriese
   - Eisriesen
 ---
-- Immunity: Fold
+- Immunity: Cold
 - AC: 15
 - Weaker than [[Fire Giant]]
 

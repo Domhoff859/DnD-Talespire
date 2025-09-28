@@ -11,14 +11,12 @@
             "id": "5107ee6d42fb0d37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche.md",
-                "mode": "source",
-                "source": false
+                "file": "03 The World/Weltkarte.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Die Schriften des Vondal - Eine Enzyklopädie der Reiche"
+              "icon": "lucide-image",
+              "title": "Weltkarte"
             }
           },
           {
@@ -27,50 +25,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 The Campaign/Journal/250810.md",
+                "file": "03 The World/Monsters/Remorhaz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250810"
+              "title": "Remorhaz"
             }
           },
           {
-            "id": "3345e6200c80d304",
+            "id": "0c740e5aaf0d2ea4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 The World/Monsters/Owl.md",
+                "file": "01 The Campaign/Journal/250928.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Owl"
+              "title": "250928"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "dfa089885ad283fc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3126d11b1c7394ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 The Party/Party Inventory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Party Inventory"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Triboar",
+                "query": "orakl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +88,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
@@ -127,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "right": {
     "id": "792ba0162fef7a86",
@@ -212,14 +191,27 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "fe4d32b530d9b0ea",
+  "active": "0c740e5aaf0d2ea4",
   "lastOpenFiles": [
+    "03 The World/Weltkarte.jpg",
+    "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche.md",
+    "01 The Campaign/Journal/250928.md",
+    "02 The Party/Property/Vehicles/Wagen.md",
+    "03 The World/Monsters/Remorhaz.md",
+    "02 The Party/Party Inventory.md",
+    "03 The World/Organizations/Uthgardt/Uthgardt.md",
+    "03 The World/Organizations/Lai'quendi/Lai'quendi.md",
+    "03 The World/Organizations/Harper/Harper.md",
+    "03 The World/Monsters/Giant/Fire Giant.md",
+    "03 The World/Organizations/Uthgardt",
+    "03 The World/NPCs/Named NPCs/Harshnag.md",
+    "03 The World/Monsters/Giant/Frost Giant.md",
+    "03 The World/Monsters/Giant/Cloud Giant.md",
+    "03 The World/Monsters/Owl.md",
+    "02 The Party/Characters/Vondal Holderhek/Enduring Spellbook.md",
+    "01 The Campaign/Journal/250810.md",
     "02 The Party/Character Sheets/Ander Thorngage.dnd5e",
     "02 The Party/Character Sheets/ander thorngage.pdf",
-    "02 The Party/Party Inventory.md",
-    "01 The Campaign/Journal/250810.md",
-    "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche.md",
-    "03 The World/Monsters/Owl.md",
     "03 The World/Monsters/Beholder.md",
     "03 The World/Monsters/Ogre.md",
     "01 The Campaign/Journal/250713.md",
@@ -234,24 +226,10 @@
     "README.md",
     "NPCs.md",
     "Untitled.canvas",
-    "03 The World/Cities/Mirabar/Mirabar.md",
-    "03 The World/Monsters/Giant/Hill Giant.md",
-    "03 The World/Monsters/Giant/Stone Giant.md",
-    "03 The World/Monsters/Giant/Frost Giant.md",
-    "03 The World/Monsters/Giant/Fire Giant.md",
-    "03 The World/Monsters/Giant/Cloud Giant.md",
-    "03 The World/Monsters/Giant/Storm Giant.md",
-    "03 The World/Cities/Dreiebersdorf/Dreiebersdorf.md",
-    "03 The World/Cities/Triboar/Triboar.md",
-    "01 The Campaign/Quests/Completed/Quest 1.md",
-    "01 The Campaign/Journal/240602.md",
-    "03 The World/Weltkarte.jpg",
     "03 The World/Location/Shop",
     "03 The World/Cities/Xantharl's Keep",
     "03 The World/Cities/Longsaddle",
     "03 The World/Cities/Triboar",
-    "03 The World/Cities/Calling Horns",
-    "03 The World/Cities/Mirabar",
     "02 The Party/Property/Vehicles/Images/Wagen.jpg",
     "03 The World/Cities/Yartar/Images/Nahansicht.png",
     "02 The Party/Character Sheets/Ander Thorngage Bild.jpg",
