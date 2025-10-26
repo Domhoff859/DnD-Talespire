@@ -28,7 +28,7 @@
 			<name>Vondal Holderhek</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>40728</experience>
+			<experience>43495</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="77ba559c-7bc5-4aa4-97a6-349a2d782f7e" name="Quarterstaff" range="5 ft" attack="+3 vs AC" damage="1d6+0 bludgeoning" displayed="true" ability="Strength">
@@ -66,7 +66,7 @@
 				<copper>2</copper>
 				<silver>4</silver>
 				<electrum>0</electrum>
-				<gold>221</gold>
+				<gold>229</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[- Diamond (worth 50 GP)
@@ -74,6 +74,8 @@
 - 2x Find Familiar Materialien
 - Flackerfeuer Infusion: Die Augen leuchten 1 Minute wie heiße Kohlen, Vorteil auf Intimidation
 - Essenz eines Remorhaz
+- 1x Drachenschachbrett
+- 1x Drachenspielkarten
 
 Copied spells to the Enduring Spellbook:
 -]]></treasure>
@@ -84,10 +86,12 @@ Copied spells to the Enduring Spellbook:
 
 Next spells to learn:
 - Tasha's Hideaus Laugther (Level 1)
+- Identify (Level 1)
 - Web (level 2)
 - Fear (Level 3)
 - Otiluke's Resilient Sphere (Level 4)
 - Sickening Radiance (Level 4)
+- Geas (Level 5)
 
 Next items to buy:
 - Chain Shirt +1
@@ -416,14 +420,6 @@ Lvl 4:</conditional>
 					</notes>
 				</details>
 			</item>
-			<item identifier="2205374f-ef8e-4cda-8c33-2db47c93ad03" name="Potion of Healing" id="ID_WOTC_DMG_MAGIC_ITEM_POTION_OF_HEALING" amount="2">
-				<details card="true">
-					<name>
-					</name>
-					<notes>
-					</notes>
-				</details>
-			</item>
 			<item identifier="4a14327c-a382-4c6b-909d-e1a209080537" name="Dagger" id="ID_WOTC_PHB_WEAPON_DAGGER">
 				<details card="true">
 					<name>
@@ -513,9 +509,9 @@ Lvl 4:</conditional>
 			<element type="Spell" id="ID_PHB_SPELL_BANISHMENT" />
 			<element type="Spell" id="ID_XGTE_SPELL_SICKENING_RADIANCE" />
 			<element type="Feat" id="ID_PHB_FEAT_LUCKY" />
+			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" />
 			<element type="Armor" id="ID_WOTC_ARMOR_MEDIUM_CHAIN_SHIRT" />
 			<element type="Armor" id="ID_WOTC_GEAR_SHIELD" />
-			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_QUARTERSTAFF" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_WIZARD" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DAGGER" />
 			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DART" />
@@ -553,21 +549,21 @@ Lvl 4:</conditional>
 					<spell name="Grease" level="1" id="ID_PHB_SPELL_GREASE" prepared="true" always-prepared="true" known="true" />
 					<spell name="Magic Missile" level="1" id="ID_PHB_SPELL_MAGIC_MISSILE" prepared="true" always-prepared="true" known="true" />
 					<spell name="Shield" level="1" id="ID_PHB_SPELL_SHIELD" prepared="true" always-prepared="true" known="true" />
-					<spell name="Dragon’s Breath" level="2" id="ID_XGTE_SPELL_DRAGONS_BREATH" prepared="true" always-prepared="true" known="true" />
+					<spell name="Invisibility" level="2" id="ID_PHB_SPELL_INVISIBILITY" prepared="true" always-prepared="true" known="true" />
 					<spell name="Misty Step" level="2" id="ID_PHB_SPELL_MISTY_STEP" prepared="true" always-prepared="true" known="true" />
 					<spell name="Counterspell" level="3" id="ID_PHB_SPELL_COUNTERSPELL" prepared="true" always-prepared="true" known="true" />
 					<spell name="Fireball" level="3" id="ID_PHB_SPELL_FIREBALL" prepared="true" always-prepared="true" known="true" />
 					<spell name="Hypnotic Pattern" level="3" id="ID_PHB_SPELL_HYPNOTIC_PATTERN" prepared="true" always-prepared="true" known="true" />
 					<spell name="Banishment" level="4" id="ID_PHB_SPELL_BANISHMENT" prepared="true" always-prepared="true" known="true" />
-					<spell name="Sickening Radiance" level="4" id="ID_XGTE_SPELL_SICKENING_RADIANCE" prepared="true" always-prepared="true" known="true" />
+					<spell name="Phantasmal Killer" level="4" id="ID_PHB_SPELL_PHANTASMAL_KILLER" prepared="true" always-prepared="true" known="true" />
 					<spell name="Disguise Self" level="1" id="ID_PHB_SPELL_DISGUISE_SELF" always-prepared="true" known="true" />
 					<spell name="Ice Knife" level="1" id="ID_XGTE_SPELL_ICE_KNIFE" always-prepared="true" known="true" />
 					<spell name="Illusory Script" level="1" id="ID_PHB_SPELL_ILLUSORY_SCRIPT" always-prepared="true" known="true" />
 					<spell name="Cloud of Daggers" level="2" id="ID_PHB_SPELL_CLOUD_OF_DAGGERS" always-prepared="true" known="true" />
-					<spell name="Invisibility" level="2" id="ID_PHB_SPELL_INVISIBILITY" always-prepared="true" known="true" />
+					<spell name="Dragon’s Breath" level="2" id="ID_XGTE_SPELL_DRAGONS_BREATH" always-prepared="true" known="true" />
 					<spell name="Major Image" level="3" id="ID_PHB_SPELL_MAJOR_IMAGE" always-prepared="true" known="true" />
-					<spell name="Phantasmal Killer" level="4" id="ID_PHB_SPELL_PHANTASMAL_KILLER" always-prepared="true" known="true" />
 					<spell name="Polymorph" level="4" id="ID_PHB_SPELL_POLYMORPH" always-prepared="true" known="true" />
+					<spell name="Sickening Radiance" level="4" id="ID_XGTE_SPELL_SICKENING_RADIANCE" always-prepared="true" known="true" />
 				</spells>
 			</spellcasting>
 		</magic>

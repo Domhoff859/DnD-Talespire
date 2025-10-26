@@ -38,6 +38,20 @@ Beschreibung: die größten und seltensten aller Riesen - fast schon legendär
 Verhalten: weise, einzelgängerisch, aber bei Zorn entfesseln sie Stürme und Blitze
 Empfehlun: begegnet ihnen mit Respekt oder haltet euch fern
 
+## Elemental
+[[Air Elemental]]
+Resistenz: Lightning
+Nicht immun gegen: physischen Schaden
+Geschwindigkeit: 90ft fly
+Anmerkung: den Zustand (HP) ist nicht nach außen ersichtlich
+
+[[Fire Elemental]]
+Verhalten: fliegt in eine Person und zündet diese an
+Schaden: macht AOE und Single Target damage
+Immunität: Fire, Poison
+Nicht immun gegen: physischen Schaden
+Anmerkung: den Zustand (HP) ist nicht nach außen ersichtlich
+## Divers
 Chimera
 Beschreibung: mehrere Köpfe, typischerweise 14 AC, 60ft fly speed, fire breath, ~100-125 hp, hat loot in der Höhle
 
@@ -51,9 +65,10 @@ Immunität: Feuer, Eis
 Nicht immun gegen: Force, Thunder, physischen Schaden
 Gefahr: jeder im Umkreis von 5 ft nimmt Feuerschaden
 Empfehlung: direkte Konfrontation vermeiden
-# Die Chroniken: Personen und Orte
 
-[[Mirabar]]
+# Die Chroniken: Personen, Orte und Ereignisse
+## Orte
+### [[Mirabar]]
 Bekannte Gefahren:
 - Ogerbanden und Orks
 - Trolle aus den Mooren
@@ -69,8 +84,15 @@ Nördlich zwischen [[Mirabar]] und [[Eye of the All-father|Auge des Allvaters]]:
 - Sehr viele Lawinen
 - Zuffälig auftretende Gletscherspalten
 - Giants, Drachen, alte Monster
-
+### Spine of the World
 Unter den Frostbergen schlummern Adern von Silber und Mithral, unberührt seit dem Fall Ostorias. In den nördlichen Tiefen der Spine of the World liegt Reichtum für jene, die den Mut und die Werkzeuge haben. Keiner der jetzt Lebenden ist dies bekannt.
+
+## Personen
+### Old Snar / Klauth
+Klauth ist ein sehr mächtiger jahrtausendalter Drache. Unter den Humanoiden ist er als Old Snar bekannt. Alle Drachen haßen Klauth.
+
+## Ereignisse
+
 
 ---
   

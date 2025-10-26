@@ -17,6 +17,7 @@ Traglast 1000 kg
 Antrieb Hover (40 ft, lautlos, kein Zugtier nötig)
 Steuerung Sprachbefehl („Fahre nach …“) oder manuell
 Besatzung 1 Pilot, bis zu 6 Passagiere
+Gewicht 2000kg (4000 Pfund)
 
 ### Verteidigungswerte  
 Merkmal Wert

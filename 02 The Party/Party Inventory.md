@@ -5,7 +5,7 @@
 
 | Copper | Silver | Electron | Gold  | Platin |
 | ------ | ------ | -------- | ----- | ------ |
-| 2      | 7      | 420      | 1083  | 0      |
+| 2      | 7      | 420      | 3083  | 0      |
 | 10->S  | 10->G  | 5->G     | 10->P |        |
 
 ---
@@ -16,7 +16,6 @@
 
 ---
 ## Potions
-- 1x [Potion of Flying](https://www.dndbeyond.com/magic-items/4704-potion-of-flying) (Buy 5000 GP; Sell 500 GP)
 - 2x [Potion of Fire Giant Strength](https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength) 
 - 1x [Potion of Frost Giant Strength](https://www.dndbeyond.com/magic-items/5417-potion-of-giant-strength) 
 - 1x [Potion of Mind Reading](https://www.dndbeyond.com/magic-items/4711-potion-of-mind-reading) 
@@ -24,12 +23,10 @@
 - 1x [Potion of Growth](https://www.dndbeyond.com/magic-items/4707-potion-of-growth)  
 - 1x [Potion of Invisibility](https://www.dndbeyond.com/magic-items/4710-potion-of-invisibility) 
 - 1x [Potion of Animal Friendship](https://www.dndbeyond.com/magic-items/4700-potion-of-animal-friendship)
-- 1x Potion of Stone Skin (immunity to non magical damage for 1 hour)
 
 ---
 ## Scrolls
 - 1x Dispel Magic
-- 1x Fly
 - 1x Magic Weapon
 - 1x Sending
 - 1x Toungs
