@@ -65,6 +65,14 @@ Immunität: Feuer, Eis
 Nicht immun gegen: Force, Thunder, physischen Schaden
 Gefahr: jeder im Umkreis von 5 ft nimmt Feuerschaden
 Empfehlung: direkte Konfrontation vermeiden
+Tot: ja
+
+[[Imrid]]
+Beschreibung: Blue Ancient Dragon
+Seltenheit: sehr selten
+Gefahr: verwendet einen lightning ray (16d10)
+Empfehung: direkte Konfrontation vermeiden
+Tot: nein, zuletzt beim [[Eye of the All-father|Auge des Allvaters]] gesehen
 
 # Die Chroniken: Personen, Orte und Ereignisse
 ## Orte

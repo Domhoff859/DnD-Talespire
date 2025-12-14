@@ -28,7 +28,7 @@
 			<name>Vondal Holderhek</name>
 			<gender>Male</gender>
 			<player-name>Steven</player-name>
-			<experience>43495</experience>
+			<experience>46495</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
 				<attack identifier="77ba559c-7bc5-4aa4-97a6-349a2d782f7e" name="Quarterstaff" range="5 ft" attack="+3 vs AC" damage="1d6+0 bludgeoning" displayed="true" ability="Strength">
@@ -82,7 +82,15 @@ Copied spells to the Enduring Spellbook:
 			</currency>
 			<notes>
 				<note column="left">Language learning progress:
-- Elvish: 35/125 (letztes Update 236)
+- Elvish: 46/125 (letztes Update 247)
+
+Must equip spells (Available spell slots):
+- Chromatic Orb (Level 1)
+- Magic Missile (Level 1)
+- Shield (Level 1)
+- Counterspell (Level 3)
+- Fireball (Level 3)
+- Hypnotic Pattern (Level 3, Concentration)
 
 Next spells to learn:
 - Tasha's Hideaus Laugther (Level 1)
@@ -92,6 +100,7 @@ Next spells to learn:
 - Otiluke's Resilient Sphere (Level 4)
 - Sickening Radiance (Level 4)
 - Geas (Level 5)
+- Wall of Force (Level 5)
 
 Next items to buy:
 - Chain Shirt +1
@@ -263,12 +272,17 @@ How to obtain armor for the Wizard:
 		</elements>
 		<defenses>
 			<conditional>Find Familiar: Owl
-Portent rolls: II
-Use luck points:
+Portent rolls: 2, 10
+Use luck points: II
 Lvl 1:
-Lvl 2:
+Lvl 2: I
 Lvl 3:
-Lvl 4:</conditional>
+Lvl 4:
+
+HP: 53
+Death Save:
+- 0 Fail
+- 0 Success</conditional>
 		</defenses>
 		<companion name="">
 			<attributes>

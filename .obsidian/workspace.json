@@ -25,40 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 The Campaign/Journal/251026.md",
+                "file": "01 The Campaign/Journal/250928.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251026"
+              "title": "250928"
             }
           },
           {
-            "id": "9c388d0bbfbe9d2c",
+            "id": "c31f7e8462c61095",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 The Party/Property/Vehicles/Wagen.md",
+                "file": "01 The Campaign/Journal/251214.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wagen"
-            }
-          },
-          {
-            "id": "f6e148390caef88a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 The World/NPCs/Named NPCs/Klauth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Klauth"
+              "title": "251214"
             }
           },
           {
@@ -79,18 +65,16 @@
             "id": "b32aed0ce4dcea73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02 The Party/Party Inventory.md",
-                "mode": "source",
-                "source": false
+                "file": "02 The Party/Character Sheets/vondal holderhek.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Party Inventory"
+              "icon": "lucide-file-text",
+              "title": "vondal holderhek"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -233,15 +217,20 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "0c740e5aaf0d2ea4",
+  "active": "b32aed0ce4dcea73",
   "lastOpenFiles": [
-    "02 The Party/Party Inventory.md",
-    "01 The Campaign/Journal/251026.md",
-    "01 The Campaign/Journal/250928.md",
+    "03 The World/Monsters/Imrid.md",
+    "01 The Campaign/Journal/251214.md",
     "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche.md",
-    "02 The Party/Property/Vehicles/Wagen.md",
-    "03 The World/Monsters/Elemental/Air Elemental.md",
+    "02 The Party/Characters/Vondal Holderhek/Enduring Spellbook.md",
+    "02 The Party/Characters/Vondal Holderhek/Vondal Holderhek.md",
+    "03 The World/Monsters/Remorhaz.md",
+    "01 The Campaign/Journal/250928.md",
+    "02 The Party/Party Inventory.md",
     "03 The World/NPCs/Named NPCs/Klauth.md",
+    "02 The Party/Property/Vehicles/Wagen.md",
+    "01 The Campaign/Journal/251026.md",
+    "03 The World/Monsters/Elemental/Air Elemental.md",
     "03 The World/Monsters/Elemental",
     "03 The World/Monsters/Elemental/Fire Elemental.md",
     "02 The Party/Property/Vehicles/Images/Wagen.jpg",
@@ -250,7 +239,6 @@
     "03 The World/NPCs/Named NPCs/Vanomfang.md",
     "03 The World/NPCs/Named NPCs/Edermeth.md",
     "03 The World/Weltkarte.jpg",
-    "03 The World/Monsters/Remorhaz.md",
     "03 The World/Organizations/Uthgardt/Uthgardt.md",
     "03 The World/Organizations/Lai'quendi/Lai'quendi.md",
     "03 The World/Organizations/Harper/Harper.md",
@@ -260,12 +248,9 @@
     "03 The World/Monsters/Giant/Frost Giant.md",
     "03 The World/Monsters/Giant/Cloud Giant.md",
     "03 The World/Monsters/Owl.md",
-    "02 The Party/Characters/Vondal Holderhek/Enduring Spellbook.md",
     "01 The Campaign/Journal/250810.md",
     "02 The Party/Character Sheets/Ander Thorngage.dnd5e",
     "02 The Party/Character Sheets/ander thorngage.pdf",
-    "03 The World/Monsters/Beholder.md",
-    "03 The World/Monsters/Ogre.md",
     "02 The Party/Character Sheets/thokk.pdf",
     "02 The Party/Character Sheets/Thokk.dnd5e",
     "02 The Party/Character Sheets/thokk Lv8.pdf",
