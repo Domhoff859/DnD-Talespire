@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "336008498d7a618d",
+        "id": "194713c7985f5ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "b32aed0ce4dcea73",
+            "id": "108a5120768fba65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 The Party/Party Inventory.md",
+                "file": "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Party Inventory"
+              "title": "Die Schriften des Vondal - Eine Enzyklopädie der Reiche"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -155,61 +155,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Create new base": false
     }
   },
-  "active": "b32aed0ce4dcea73",
+  "active": "108a5120768fba65",
   "lastOpenFiles": [
-    "01 The Campaign/Journal/251214.md",
-    "02 The Party/Character Sheets/vondal holderhek.pdf",
-    "03 The World/Monsters/Imrid.md",
+    "03 The World/Cities/Mirabar/Mirabar.md",
     "02 The Party/Characters/Vondal Holderhek/Die Schriften des Vondal - Eine Enzyklopädie der Reiche.md",
+    "01 The Campaign/Journal/250713.md",
+    "01 The Campaign/Journal/250810.md",
+    "01 The Campaign/Journal/250928.md",
+    "01 The Campaign/Journal/251026.md",
+    "01 The Campaign/Journal/251214.md",
     "02 The Party/Characters/Vondal Holderhek/Enduring Spellbook.md",
     "02 The Party/Characters/Vondal Holderhek/Vondal Holderhek.md",
-    "03 The World/Monsters/Remorhaz.md",
-    "01 The Campaign/Journal/250928.md",
-    "02 The Party/Party Inventory.md",
-    "03 The World/NPCs/Named NPCs/Klauth.md",
-    "02 The Party/Property/Vehicles/Wagen.md",
-    "01 The Campaign/Journal/251026.md",
-    "03 The World/Monsters/Elemental/Air Elemental.md",
-    "03 The World/Monsters/Elemental",
-    "03 The World/Monsters/Elemental/Fire Elemental.md",
-    "02 The Party/Property/Vehicles/Images/Wagen.jpg",
-    "03 The World/NPCs/Named NPCs/Ormrik.md",
-    "03 The World/NPCs/Named NPCs/Prinz Orwund.md",
-    "03 The World/NPCs/Named NPCs/Vanomfang.md",
-    "03 The World/NPCs/Named NPCs/Edermeth.md",
-    "03 The World/Weltkarte.jpg",
-    "03 The World/Organizations/Uthgardt/Uthgardt.md",
-    "03 The World/Organizations/Lai'quendi/Lai'quendi.md",
-    "03 The World/Organizations/Harper/Harper.md",
-    "03 The World/Monsters/Giant/Fire Giant.md",
-    "03 The World/Organizations/Uthgardt",
+    "02 The Party/Characters/Vondal Holderhek/Vondal Holderhek Backstory.pdf",
+    "01 The Campaign/Journal/241228.md",
+    "03 The World/NPCs/Named NPCs/Orakel.md",
+    "01 The Campaign/Journal/250620.md",
     "03 The World/NPCs/Named NPCs/Harshnag.md",
+    "03 The World/NPCs/Named NPCs/Iarno.md",
+    "03 The World/NPCs/Named NPCs/Nothic.md",
+    "03 The World/Location/Temple/Eye of the All-father.md",
+    "03 The World/Monsters/Imrid.md",
+    "03 The World/Monsters/Thunder Biest Skeleton.md",
     "03 The World/Monsters/Giant/Frost Giant.md",
-    "03 The World/Monsters/Giant/Cloud Giant.md",
-    "03 The World/Monsters/Owl.md",
+    "03 The World/Monsters/Beholder.md",
+    "03 The World/Monsters/Images/Thunder Biest Skeleton.jpg",
+    "03 The World/Monsters/Giant/Fire Giant.md",
+    "03 The World/Location/Region/The Evermoors.md",
+    "03 The World/Organizations/Uthgardt/Uthgardt.md",
+    "03 The World/Location/Shop/Thalanthir’s Oddities.md",
+    "03 The World/Location/Fortress/Ironslag.md",
+    "03 The World/Location/One Stone.md",
+    "03 The World/Location/Region",
+    "03 The World/Weltkarte.jpg",
+    "02 The Party/Character Sheets/vondal holderhek.pdf",
+    "03 The World/Monsters/Elemental",
+    "02 The Party/Property/Vehicles/Images/Wagen.jpg",
+    "03 The World/Organizations/Uthgardt",
     "02 The Party/Character Sheets/Ander Thorngage.dnd5e",
     "02 The Party/Character Sheets/ander thorngage.pdf",
     "02 The Party/Character Sheets/thokk.pdf",
     "02 The Party/Character Sheets/Thokk.dnd5e",
     "02 The Party/Character Sheets/thokk Lv8.pdf",
     "Untitled.canvas",
-    "03 The World/Location/Shop",
-    "03 The World/Cities/Xantharl's Keep",
     "03 The World/Cities/Yartar/Images/Nahansicht.png",
     "02 The Party/Character Sheets/Ander Thorngage Bild.jpg",
     "03 The World/Monsters/Images/Owl Stats.png",
     "03 The World/Monsters/Images/Owl.jpeg",
     "00 Mechanics/Items/Images/Ring of Jumping.jpg",
     "00 Mechanics/Items/Images/Sword of Life Stealing.jpeg",
-    "00 Mechanics/Items/Images/Boots of Levitation.jpg",
-    "00 Mechanics/Items/Images/Ring of Water Walking.jpeg"
+    "00 Mechanics/Items/Images/Boots of Levitation.jpg"
   ]
 }
