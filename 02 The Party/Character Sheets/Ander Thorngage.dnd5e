@@ -10,11 +10,11 @@
 	<display-properties favorite="false">
 		<name>Ander Thorngage</name>
 		<race>High Elf</race>
-		<class>Paladin</class>
+		<class>Paladin (8) / Sorcerer (1)</class>
 		<archetype>
 		</archetype>
 		<background>Acolyte</background>
-		<level>8</level>
+		<level>9</level>
 		<portrait>
 			<companion>
 			</companion>
@@ -28,16 +28,16 @@
 			<name>Ander Thorngage</name>
 			<gender>Male</gender>
 			<player-name>Johannes Blab</player-name>
-			<experience>43495</experience>
+			<experience>50067</experience>
 			<attacks>
 				<description><![CDATA[]]></description>
-				<attack identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword +1" range="5 ft" attack="+8 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
+				<attack identifier="69db4fc0-d7c5-494d-9634-42be79963bac" name="Longsword +1" range="5 ft" attack="+9 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
 					<description><![CDATA[Versatile]]></description>
 				</attack>
-				<attack identifier="16147894-e516-4ed0-9de6-319307542b61" name="Crossbow, Heavy +1" range="100/400" attack="+5 vs AC" damage="1d10+2 piercing" displayed="true" ability="Dexterity">
+				<attack identifier="16147894-e516-4ed0-9de6-319307542b61" name="Crossbow, Heavy +1" range="100/400" attack="+6 vs AC" damage="1d10+2 piercing" displayed="true" ability="Dexterity">
 					<description><![CDATA[Ammunition, Heavy, Loading, Two-Handed]]></description>
 				</attack>
-				<attack identifier="0e3f1584-45bc-45fa-95f2-a07908ab290d" name="Giant Slayer" range="5 ft" attack="+8 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
+				<attack identifier="0e3f1584-45bc-45fa-95f2-a07908ab290d" name="Giant Slayer" range="5 ft" attack="+9 vs AC" damage="1d8+5 slashing" displayed="true" ability="Strength">
 					<description><![CDATA[Versatile]]></description>
 				</attack>
 			</attacks>
@@ -64,14 +64,13 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 				</symbol>
 				<allies><![CDATA[]]></allies>
 			</organization>
-			<additional-features><![CDATA[Deity: Catgirl
-Titel: Treant-Schlächter
-Sprache: Primordial (Elementals)      102/125 gelernt]]></additional-features>
+			<additional-features><![CDATA[Gottheit: 	Catgirl
+Titel: 		Treant-Schlächter]]></additional-features>
 			<currency>
 				<copper>9</copper>
 				<silver>2</silver>
 				<electrum>0</electrum>
-				<gold>210</gold>
+				<gold>200</gold>
 				<platinum>0</platinum>
 				<equipment><![CDATA[]]></equipment>
 				<treasure><![CDATA[Mineneinnahmen: 300 - 1500 Gold/Monat
@@ -118,7 +117,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 1 Druidenkräuter (Abwehr von Albträumen/frostbasierten Effekten (einmal +2 auf einen Rettungswurf gegen Kältezauber/Schlafmagie)
 1 Zwergenmuttropfen (Vorteil auf Kon-saves für 8Stunden)
 2 starker Kräuterschnaps
-
+1 Cloak of Billowing (weht dramatisch)
 
 1 Riesenauge
 1 Trophäenkette mit abgeschnittenen Ohren
@@ -150,7 +149,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<wisdom>12</wisdom>
 			<charisma>14</charisma>
 		</abilities>
-		<elements level-count="8" registered-count="37">
+		<elements level-count="9" registered-count="48">
 			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
 				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -265,7 +264,9 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					<element type="Class Feature" name="Fighting Style" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_FIGHTING_STYLE">
 						<element type="Class Feature" name="Fighting Style" requiredLevel="1" checksum="414cf419" registered="ID_WOTC_PHB_CLASS_FEATURE_FIGHTINGSTYLE_DUELING" />
 					</element>
-					<element type="Class Feature" name="Spellcasting" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_SPELLCASTING" />
+					<element type="Class Feature" name="Spellcasting" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_SPELLCASTING">
+						<element type="Grants" name="Multiclass Spellcasting Slots Half" id="ID_INTERNAL_GRANT_MULTICLASS_SPELLCASTING_SLOTS_HALF" />
+					</element>
 					<element type="Class Feature" name="Divine Smite" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_DIVINE_SMITE" />
 					<element type="Class Feature" name="Divine Health" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_DIVINE_HEALTH" />
 					<element type="Class Feature" name="Sacred Oath" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_SACRED_OATH">
@@ -323,6 +324,30 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<element type="Level" name="6" id="ID_LEVEL_6" />
 			<element type="Level" name="7" id="ID_LEVEL_7" />
 			<element type="Level" name="8" id="ID_LEVEL_8" />
+			<element type="Level" name="9" id="ID_LEVEL_9" multiclass="true" starting="true" rndhp="3,3,3,3,3,4,5,1,4,6,1,5,4,1,5,6,3,6,1,2" class="ID_WOTC_PHB_MULTICLASS_SORCERER">
+				<element type="Multiclass" name="Multiclass (Level 9)" requiredLevel="9" checksum="15c3f50f" registered="ID_WOTC_PHB_MULTICLASS_SORCERER">
+					<element type="Class Feature" name="Spellcasting" id="ID_WOTC_PHB_CLASS_FEATURE_SORCERER_SPELLCASTING_SORCERER">
+						<element type="Spell" name="Cantrip (Sorcerer)" requiredLevel="1" number="1" checksum="fd5e4c4c" registered="ID_PHB_SPELL_BLADE_WARD" />
+						<element type="Spell" name="Cantrip (Sorcerer)" requiredLevel="1" number="2" checksum="8bbb7571" registered="ID_PHB_SPELL_MESSAGE" />
+						<element type="Spell" name="Cantrip (Sorcerer)" requiredLevel="1" number="3" checksum="10c89fa5" registered="ID_PHB_SPELL_MENDING" />
+						<element type="Spell" name="Cantrip (Sorcerer)" requiredLevel="1" number="4" checksum="6671070b" registered="ID_PHB_SPELL_PRESTIDIGITATION" />
+						<element type="Spell" name="Spell (Sorcerer)" requiredLevel="1" number="1" checksum="7ba0def4" registered="ID_PHB_SPELL_SHIELD" />
+						<element type="Spell" name="Spell (Sorcerer)" requiredLevel="1" number="2" checksum="b294c5f9" registered="ID_PHB_SPELL_EXPEDITIOUS_RETREAT" />
+						<element type="Grants" name="Multiclass Spellcasting Slots Full" id="ID_INTERNAL_GRANT_MULTICLASS_SPELLCASTING_SLOTS_FULL" />
+					</element>
+					<element type="Class Feature" name="Sorcerous Origin" id="ID_WOTC_PHB_CLASS_FEATURE_SORCERER_SORCEROUS_ORIGIN">
+						<element type="Archetype" name="Sorcerous Origin" requiredLevel="1" checksum="3ceb3b19" registered="ID_WOTC_PHB_ARCHETYPE_DRACONIC_BLOODLINE">
+							<element type="Archetype Feature" name="Dragon Ancestor" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_DRAGON_ANCESTOR">
+								<element type="Archetype Feature" name="Dragon Ancestor (Draconic Bloodline)" requiredLevel="1" checksum="d306a29f" registered="ID_WOTC_PHB_ARCHETYPE_FEATURE_DRAGON_ANCESTOR_SILVER" />
+								<element type="Language" name="Draconic" id="ID_LANGUAGE_DRACONIC" />
+							</element>
+							<element type="Archetype Feature" name="Draconic Resilience" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_DRACONIC_RESILIENCE" />
+						</element>
+					</element>
+					<element type="Grants" name="Multiclass" id="ID_INTERNAL_GRANT_MULTICLASS" />
+				</element>
+				<element type="Grants" name="Multiclassing (Level 9)" id="ID_INTERNAL_MULTICLASS_LEVEL_9" />
+			</element>
 			<element type="Magic Item" name="Ring of Resistance, Fire" id="ID_WOTC_DMG_MAGIC_ITEM_RING_OF_RESISTANCE_FIRE">
 				<element type="Condition" name="Resistance (Fire)" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FIRE" />
 			</element>
@@ -333,6 +358,9 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			</element>
 			<element type="Armor" name="Plate" id="ID_WOTC_ARMOR_HEAVY_PLATE">
 				<element type="Grants" name="Stealth Disadvantage" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
+			</element>
+			<element type="Item" name="Additional Language, Primordial" id="ID_PHB_INTERNAL_ITEM_LANGUAGE_PROXY_LANGUAGE_PRIMORDIAL">
+				<element type="Language" name="Primordial" id="ID_LANGUAGE_PRIMORDIAL" />
 			</element>
 		</elements>
 		<defenses>
@@ -607,8 +635,25 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					</notes>
 				</details>
 			</item>
+			<item identifier="6bde3bff-60f9-440a-b7ba-e7bcd98b0255" name="Spell Scroll, Bestow Curse" id="ID_INTERNAL_MAGIC_ITEM_SPELL_SCROLL_BESTOW_CURSE">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="42f0aff9-cd6d-4ae3-938b-d844b6c513c3" name="Additional Language, Primordial" id="ID_PHB_INTERNAL_ITEM_LANGUAGE_PROXY_LANGUAGE_PRIMORDIAL" hidden="true">
+				<equipped>true</equipped>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
 		</equipment>
-		<sum element-count="150">
+		<sum element-count="171">
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
 			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
@@ -671,6 +716,16 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<element type="Armor" id="ID_WOTC_ARMOR_HEAVY_PLATE" />
 			<element type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
 			<element type="Magic Item" id="ID_WOTC_DMG_MAGIC_ITEM_ARMOR_2" />
+			<element type="Item" id="ID_PHB_INTERNAL_ITEM_LANGUAGE_PROXY_LANGUAGE_PRIMORDIAL" />
+			<element type="Language" id="ID_LANGUAGE_PRIMORDIAL" />
+			<element type="Level" id="ID_LEVEL_9" />
+			<element type="Grants" id="ID_INTERNAL_MULTICLASS_LEVEL_9" />
+			<element type="Spell" id="ID_PHB_SPELL_BLADE_WARD" />
+			<element type="Spell" id="ID_PHB_SPELL_MESSAGE" />
+			<element type="Spell" id="ID_PHB_SPELL_MENDING" />
+			<element type="Spell" id="ID_PHB_SPELL_PRESTIDIGITATION" />
+			<element type="Spell" id="ID_PHB_SPELL_SHIELD" />
+			<element type="Spell" id="ID_PHB_SPELL_EXPEDITIOUS_RETREAT" />
 			<element type="Class" id="ID_WOTC_PHB_CLASS_PALADIN" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
 			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
@@ -740,6 +795,7 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASSING_PREREQUISITE" />
 			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_FIGHTING_STYLE" />
 			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_SPELLCASTING" />
+			<element type="Grants" id="ID_INTERNAL_GRANT_MULTICLASS_SPELLCASTING_SLOTS_HALF" />
 			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_DIVINE_SMITE" />
 			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_DIVINE_HEALTH" />
 			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_SACRED_OATH" />
@@ -759,9 +815,19 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_PALADIN_AURA_OF_DEVOTION" />
 			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_ASI_4_PALADIN" />
 			<element type="Class Feature" id="ID_INTERNAL_CLASS_FEATURE_FEAT_8_PALADIN" />
+			<element type="Multiclass" id="ID_WOTC_PHB_MULTICLASS_SORCERER" />
+			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_SORCERER_SPELLCASTING_SORCERER" />
+			<element type="Grants" id="ID_INTERNAL_GRANT_MULTICLASS_SPELLCASTING_SLOTS_FULL" />
+			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_SORCERER_SORCEROUS_ORIGIN" />
+			<element type="Grants" id="ID_INTERNAL_GRANT_MULTICLASS" />
+			<element type="Archetype" id="ID_WOTC_PHB_ARCHETYPE_DRACONIC_BLOODLINE" />
+			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_DRAGON_ANCESTOR" />
+			<element type="Language" id="ID_LANGUAGE_DRACONIC" />
+			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_DRACONIC_RESILIENCE" />
+			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_DRAGON_ANCESTOR_SILVER" />
 		</sum>
-		<magic>
-			<spellcasting name="Paladin" ability="Charisma" attack="5" dc="13" source="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_SPELLCASTING">
+		<magic multiclass="true" level="5">
+			<spellcasting name="Paladin" ability="Charisma" attack="6" dc="14" source="ID_WOTC_PHB_CLASS_FEATURE_PALADIN_SPELLCASTING">
 				<slots s1="4" s2="3" s3="0" s4="0" s5="0" s6="0" s7="0" s8="0" s9="0" />
 				<cantrips />
 				<spells>
@@ -789,6 +855,19 @@ Weapon of Warning (Krummsäbel): Advantage Initiative / no surprise 30ft für Ve
 					<spell name="Locate Object" level="2" id="ID_PHB_SPELL_LOCATE_OBJECT" />
 					<spell name="Magic Weapon" level="2" id="ID_PHB_SPELL_MAGIC_WEAPON" />
 					<spell name="Protection from Poison" level="2" id="ID_PHB_SPELL_PROTECTION_FROM_POISON" />
+				</spells>
+			</spellcasting>
+			<spellcasting name="Sorcerer" ability="Charisma" attack="6" dc="14" source="ID_WOTC_PHB_CLASS_FEATURE_SORCERER_SPELLCASTING_SORCERER">
+				<slots s1="2" s2="0" s3="0" s4="0" s5="0" s6="0" s7="0" s8="0" s9="0" />
+				<cantrips>
+					<spell name="Blade Ward" level="0" id="ID_PHB_SPELL_BLADE_WARD" />
+					<spell name="Mending" level="0" id="ID_PHB_SPELL_MENDING" />
+					<spell name="Message" level="0" id="ID_PHB_SPELL_MESSAGE" />
+					<spell name="Prestidigitation" level="0" id="ID_PHB_SPELL_PRESTIDIGITATION" />
+				</cantrips>
+				<spells>
+					<spell name="Expeditious Retreat" level="1" id="ID_PHB_SPELL_EXPEDITIOUS_RETREAT" known="true" />
+					<spell name="Shield" level="1" id="ID_PHB_SPELL_SHIELD" known="true" />
 				</spells>
 			</spellcasting>
 			<additional>
