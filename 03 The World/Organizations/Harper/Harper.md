@@ -26,7 +26,7 @@ aliases:
 Sie verfügen über Teleportationspunkte in:
 - [[Everlund]]
 - Loudwater
-- Mirabar
+- [[Mirabar]]
 - Neverwinter
 - Waterdeep
 - [[Yartar]]
