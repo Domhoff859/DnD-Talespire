@@ -116,16 +116,53 @@ Bekannte Gefahren:
 
 Nördlich zwischen [[Mirabar]] und [[Eye of the All-father|Auge des Allvaters]]:
 - Sehr viele Lawinen
-- Zuffälig auftretende Gletscherspalten
-- Giants, Drachen, alte Monster
+- Zufällig auftretende Gletscherspalten
+- Riesen, Drachen, alte Monster
+
+Magie:
+- Keine Magiergilde
+- Keine hochstufigen Erzmagier (kein Level 15+)
+- 1 offizieller Stadtzauberer (~Level 9-11)
+- 2-4 private Magier bei Handels- oder Minenhäusern (~Level 5-8)
 
 Sonstiges:
-- Die Bibliothek Mirabars ist im Verlgeich zu der von [[Silverymoon]] sehr klein
+- Zwei größere Minenhäuser sichern derzeit ihre Lieferketten neu ab
+- Private Magier werden meist langfristig gebunden (mehrere Jahre)
+- Private Magier werden selten offen gesucht
+- Heikle und gefährliche Arbeiten werden nicht in Tavernen ausgeschrieben, sondern über persönliche Empfehlungen vergeben -> Eine Andeutung, dass man sich erst beweisen muss bevor man gefragt wird
+- Wer Arbeit sucht muss sichtbar werden, oder empfohlen werden
+#### Orte in Mirabar
+Bibliothek:
+- Die Bibliothek Mirabars ist im Vergleich zu der von [[Silverymoon]] sehr klein
+- Der Bibliothekar erkennt Vondal wieder; keine Fremdheit, aber noch keine Vertrautheit
+
+Der Runenhort:
+- Ein schmaler Steingebäude ohne Schilder, nur eine eingelassene Zwergenrune über der Tür
+- Verkäufer: Zwerg
+- Ort: nahe der Händlerstraße
+- Verkauft:
+	- uncommon magische Gegenstände (meist auf Lager oder kurzfristig beschaffbar), Schriftrollen, Schutzamulette
+	- Auf Anfrage: Rüstungsteile aus Mithral oder mit schwacher Verzauberung
+
+Goldwaage:
+- Taverne der Kaufmänner
+- Handels- und Minenhäuser Mitarbeiter verweilen hier
+- Wirtin: Bralda Eisenschank
+
 ### Spine of the World
 Unter den Frostbergen schlummern Adern von Silber und Mithral, unberührt seit dem Fall Ostorias. In den nördlichen Tiefen der Spine of the World liegt Reichtum für jene, die den Mut und die Werkzeuge haben. Keiner der jetzt Lebenden ist dies bekannt.
 
 ## Personen
-### Old Snar / Klauth
-Klauth ist ein sehr mächtiger jahrtausendalter Drache. Unter den Humanoiden ist er als Old Snar bekannt. Alle Drachen haßen Klauth.
+### Old Snarl / Klauth
+Klauth ist ein sehr mächtiger jahrtausendealter Drache. Unter den Humanoiden ist er als Old Snar bekannt. Alle Drachen hassen Klauth.
+Er taucht nicht in offenen Registern Mirabars auf. Erwähnungen finden sich nur in Randnotizen alter Reiseberichte, Grenzaufzeichnungen und Warnvermerken. Die die zu viel über ihn wissen wollen schreiben meist keine neuen mehr.
+Wenn Snarl hilft, dann ist es aus Kalkül. Dass andere Drachen ihn verachten ist kein Gerücht, er bricht mit Erwartungen (er spricht mit sterblichen). Das macht ihn gefährlich und wertvoll. Er soll weder als Feind noch als Freund eingeordnet werden. Snarl steht außerhalb der drakonischen Ordnung. Wenn man ihn verstehen möchte, dann muss man nicht fragen was er will, sondern was er zu verlieren hat.
+### Ormrik Borkenwert
+- Rasse: Zwerg
+- Baut magische Wagen
+- Er wohnt in einem Magierturm nahe [[Silverymoon]]
+- Hat Interesse an [Glyph of Warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding)
+- Er ist kein Gelehrter im klassischen Sinn. Er war ein Wagenbauer, Runenschmied und Magier, der Wissen lieber baute, als es aufzuschreiben
+- Sein Name taucht im Zusammenhang mit Konstrukten, die nicht hätten funktionieren dürfen – es aber taten
 
 ## Ereignisse

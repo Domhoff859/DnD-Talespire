@@ -9,6 +9,7 @@
 | 1     | Illusory Script    |             |
 | 1     | Magic Missile      |             |
 | 1     | Shield             |             |
+| 1     | Identify           | x           |
 | 2     | Cloud of Daggers   |             |
 | 2     | Dragon's Breath    |             |
 | 2     | Invisibility       |             |
@@ -21,3 +22,5 @@
 | 4     | Phantasmal Killer  |             |
 | 4     | Polymorph          |             |
 | 4     | Sickening Radiance |             |
+| 5     | Wall of Force      | x           |
+| 5     | Animate Objects    | x           |

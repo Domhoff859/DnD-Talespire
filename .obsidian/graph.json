@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "drei",
+  "search": "kriv",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7256581881243367,
+  "scale": 1.0173603693815159,
   "close": false
 }
